@@ -5,15 +5,12 @@ msgstr ""
 
 msgctxt "#30000"
 msgid "General"
+msgstr ""
 
 msgctxt "#30001"
-msgid "Playlist URL"
+msgid "Playlist URL (working channels)"
+msgstr ""
 
 msgctxt "#30002"
-msgid "Jio Account"
-
-msgctxt "#30003"
-msgid "Jio Phone Number"
-
-msgctxt "#30004"
-msgid "Jio OTP Token"
+msgid "Backup playlist URL (tried when a channel's links all fail)"
+msgstr ""
