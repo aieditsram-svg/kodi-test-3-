@@ -1,0 +1,5 @@
+# One M3U source URL per line. Lines starting with # are ignored.
+# Add more public Telugu playlists here; they are merged, de-duplicated and re-tested every run.
+
+# iptv-org: community-maintained free-to-air channels, Telugu language list
+https://iptv-org.github.io/iptv/languages/tel.m3u
