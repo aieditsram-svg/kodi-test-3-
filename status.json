@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-23 20:12 UTC",
+  "checked_at": "2026-10-23 20:13 UTC",
   "total": 91,
-  "working": 66,
-  "dead": 25,
+  "working": 65,
+  "dead": 26,
   "dead_channels": [
     {
       "name": "ABN Andhra Jyoti (720p)",
@@ -108,6 +108,11 @@
       "name": "Sony BBC Earth HD (1080p)",
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
+      "reason": "HTTPError"
     },
     {
       "name": "Sony Yay! (576p)",
