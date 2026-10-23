@@ -1,0 +1,128 @@
+{
+  "checked_at": "2026-10-23 19:38 UTC",
+  "total": 91,
+  "working": 67,
+  "dead": 24,
+  "dead_channels": [
+    {
+      "name": "ABN Andhra Jyoti (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "Disney Channel (India) HD (1080p)",
+      "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ETV Andhra Pradesh (1080p)",
+      "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ETV Bal Bharat (576p)",
+      "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "ETV Cinema HD (1080p)",
+      "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ETV Life (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "ETV Music (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "ETV Plus HD (1080p)",
+      "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ETV Telangana (1080p)",
+      "url": "https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ETV Telugu HD (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "Hindu Dharmam (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "History TV18 HD",
+      "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "Hungama TV (576p)",
+      "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "National Geographic (India) (576p) [Geo-blocked]",
+      "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "National Geographic (India) HD (1080p)",
+      "url": "http://103.185.24.134:3001/NATGEO-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "National Geographic Wild (India) HD (1080p)",
+      "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Nickelodeon (India) (576p)",
+      "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sonic (576p)",
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony BBC Earth HD (1080p)",
+      "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Yay! (576p)",
+      "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Sports 2 HD (720p)",
+      "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "Super Hungama (576p)",
+      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
+      "reason": "URLError"
+    }
+  ]
+}
