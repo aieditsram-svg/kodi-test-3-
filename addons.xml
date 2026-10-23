@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.telugulive" name="Telugu Live" version="1.1.0" provider-name="Telugu Live">
+<addon id="plugin.video.telugulive" name="Telugu Live" version="1.2.0" provider-name="Telugu Live">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+  <extension point="xbmc.service" library="service.py" start="login"/>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Live Telugu TV channels with Jio OTP Login</summary>
-    <description lang="en_GB">Plays a playlist of free-to-air Telugu TV channels with secure Jio authentication.</description>
+    <summary lang="en_GB">Live Telugu TV channels with automatic failover</summary>
+    <description lang="en_GB">Plays free-to-air Telugu TV channels. The playlist is rebuilt every 5 minutes, and if a stream is dead or drops while playing, the add-on instantly switches to the next working link.</description>
     <platform>all</platform>
     <license>GPL-3.0-only</license>
   </extension>
