@@ -6,9 +6,8 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "sources.txt"
-      - "scripts/**"
       - "kodi/**"
+      - "scripts/**"
 
 permissions:
   contents: write
@@ -23,21 +22,22 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Build playlist
-        run: python scripts/build_playlist.py || true
+
       - name: Build Kodi repository
         run: python scripts/build_kodi_repo.py
+
       - name: Commit changes
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add telugu.m3u telugu_all.m3u status.json zips addons.xml addons.xml.md5 repository.telugulive.zip || true
+          git add zips addons.xml addons.xml.md5 repository.telugulive.zip || true
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "Update playlist $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Update Kodi repository $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
