@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_GB\n"
+
+msgctxt "#30000"
+msgid "General"
+
+msgctxt "#30001"
+msgid "Playlist URL"
+
+msgctxt "#30002"
+msgid "Jio Account"
+
+msgctxt "#30003"
+msgid "Jio Phone Number"
+
+msgctxt "#30004"
+msgid "Jio OTP Token"
