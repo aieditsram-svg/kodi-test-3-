@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 18:02 UTC",
-  "fingerprint": "ca61f6a4033fc4017195e74ebef18b97",
+  "updated_at": "2026-10-24 18:28 UTC",
+  "fingerprint": "a8cc6fd64de777ef0080313d8745d33c",
   "total": 1323,
-  "working": 1154,
-  "in_grace_period": 10,
-  "dead": 169,
-  "hd_channels": 613,
+  "working": 1152,
+  "in_grace_period": 9,
+  "dead": 171,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 432,
+      "working": 430,
       "hd": 231
     },
     "Kannada": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 158,
@@ -132,6 +132,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -393,6 +398,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
