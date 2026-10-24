@@ -1,19 +1,29 @@
-"""Shared helpers: fetch the playlist fresh, test streams, find working alternatives."""
+"""Shared helpers: fetch playlists fresh, test streams, find working alternatives."""
 import re
 import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
 import xbmcaddon
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Kodi"
 EXTINF_RE = re.compile(r"^#EXTINF:(-?\d+)\s*(.*?),(.*)$")
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
-QUALITY_RE = re.compile(r"\s*\((\d{3,4})p\)\s*$")
+# "(1080p)" / "(1080i)" plus any trailing "[Geo-blocked]" style tags
+QUALITY_RE = re.compile(r"\s*\((\d{3,4})[pi]\)(?:\s*\[[^\]]*\])*\s*$")
+TAGS_RE = re.compile(r"(?:\s*\[[^\]]*\])+\s*$")
+BATCH = 6  # streams tested at the same time when looking for a working one
+
+
+def clean_name(name):
+    """Channel name without quality and [Geo-blocked] style tags."""
+    return TAGS_RE.sub("", QUALITY_RE.sub("", name)).strip()
 
 
 def base_name(name):
-    return QUALITY_RE.sub("", name).strip().lower()
+    """Channel identity: same channel in SD and HD (or different quality tags) gets the same key."""
+    return re.sub(r"\s+hd$", "", clean_name(name), flags=re.I).strip().lower()
 
 
 def height(name):
@@ -21,7 +31,15 @@ def height(name):
     return int(m.group(1)) if m else 0
 
 
-def fetch_text(url, fresh=True, timeout=15):
+def ch_height(ch):
+    """Stream height: the playlist's own height attribute if present, else the (1080p) tag in the name."""
+    try:
+        return max(int(ch["attrs"].get("height", 0)), height(ch["name"]))
+    except ValueError:
+        return height(ch["name"])
+
+
+def fetch_text(url, fresh=True, timeout=20):
     """Download a playlist. A changing query string bypasses CDN caches so links are never stale."""
     if fresh:
         url += ("&" if "?" in url else "?") + "t=%d" % int(time.time())
@@ -84,9 +102,10 @@ def probe(ch, timeout=5):
 
 
 def playlist_urls():
+    """Working list first, then the list of everything found (includes links only your network can reach)."""
     addon = xbmcaddon.Addon("plugin.video.telugulive")
     urls = []
-    for setting in ("playlist_url", "fallback_url"):
+    for setting in ("list_working", "list_all"):
         url = addon.getSetting(setting).strip()
         if url and url not in urls:
             urls.append(url)
@@ -94,28 +113,39 @@ def playlist_urls():
 
 
 def candidates(key, tried, urls=None):
-    """Yield untried streams for a channel: the working list first, then the full list.
-
-    The full list also contains links the server could not reach (for example streams that
-    only work inside India), so a link the server dropped may still work for you.
-    """
+    """Untried streams for a channel: best quality first, working list before the full list."""
+    seen = set(tried)
     for url in (urls if urls is not None else playlist_urls()):
         try:
             chans = parse_m3u(fetch_text(url))
         except Exception:
             continue
-        matches = [c for c in chans if base_name(c["name"]) == key and c["url"] not in tried]
-        matches.sort(key=lambda c: -height(c["name"]))
+        matches = [c for c in chans if base_name(c["name"]) == key and c["url"] not in seen]
+        matches.sort(key=lambda c: -ch_height(c))
         for ch in matches:
-            if ch["url"] in tried:
-                continue
-            yield ch
+            if ch["url"] not in seen:
+                seen.add(ch["url"])
+                yield ch
 
 
 def first_working(key, tried, urls=None):
-    """Return the first stream that passes a live test, recording every attempt in `tried`."""
-    for ch in candidates(key, tried, urls):
-        tried.append(ch["url"])
-        if probe(ch):
-            return ch
-    return None
+    """Return the best stream that passes a live test, recording every attempt in `tried`.
+
+    Streams are tested a few at a time, so a channel with several dead links starts quickly.
+    """
+    pending = candidates(key, tried, urls)
+    while True:
+        batch = []
+        for ch in pending:
+            batch.append(ch)
+            if len(batch) == BATCH:
+                break
+        if not batch:
+            return None
+        with ThreadPoolExecutor(max_workers=len(batch)) as pool:
+            results = list(pool.map(probe, batch))
+        for ch, ok in zip(batch, results):
+            tried.append(ch["url"])
+        for ch, ok in zip(batch, results):  # batch is already ordered best quality first
+            if ok:
+                return ch
