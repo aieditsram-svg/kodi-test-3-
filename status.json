@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 05:08 UTC",
-  "fingerprint": "896585c4535bdf8c1631943aee1f116f",
+  "updated_at": "2026-10-24 05:10 UTC",
+  "fingerprint": "0d3b18a294a417f20c5f2fc26bda7b4f",
   "total": 1323,
-  "working": 1143,
-  "in_grace_period": 0,
-  "dead": 180,
-  "hd_channels": 549,
+  "working": 1145,
+  "in_grace_period": 3,
+  "dead": 178,
+  "hd_channels": 550,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 148,
-      "working": 121,
-      "hd": 63
+      "working": 122,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 158,
-      "working": 121,
+      "working": 122,
       "hd": 57
     },
     "Urdu": {
@@ -273,11 +273,6 @@
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "Salvation TV (1080p)",
-      "url": "https://ktismaservers.in:3902/live/salvationtvlive.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -475,11 +470,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Studio One + (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
       "reason": "HTTP 404"
@@ -597,12 +587,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
