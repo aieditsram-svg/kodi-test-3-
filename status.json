@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 05:34 UTC",
-  "fingerprint": "914b36d940daa76fc2d633b56c36fa06",
+  "updated_at": "2026-10-24 06:01 UTC",
+  "fingerprint": "cc2aa26e82d7bb4b9953f5780c1ad717",
   "total": 1323,
-  "working": 1148,
-  "in_grace_period": 5,
-  "dead": 175,
-  "hd_channels": 550,
+  "working": 1153,
+  "in_grace_period": 7,
+  "dead": 170,
+  "hd_channels": 549,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 104,
       "working": 82,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 23,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 429,
-      "hd": 207
+      "working": 432,
+      "hd": 208
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 86,
+      "working": 87,
       "hd": 41
     },
     "Santali": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 173,
-      "working": 137,
-      "hd": 66
+      "working": 138,
+      "hd": 65
     },
     "Telugu": {
       "total": 158,
@@ -390,11 +390,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -405,11 +400,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -417,11 +407,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -572,22 +557,17 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
       "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
       "reason": "HTTP 511"
-    },
-    {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -943,11 +923,6 @@
       "name": "History TV18 HD",
       "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee Tamil HD (1080p)",
-      "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Sony Max 1",
