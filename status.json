@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-24 08:34 UTC",
-  "fingerprint": "0eabf813c92f20e9d437370f251f9ff3",
+  "updated_at": "2026-10-24 09:02 UTC",
+  "fingerprint": "4634f5dca6f6eda09393f844084e2095",
   "total": 1323,
-  "working": 1161,
-  "in_grace_period": 76,
-  "dead": 162,
-  "hd_channels": 522,
+  "working": 1159,
+  "in_grace_period": 16,
+  "dead": 164,
+  "hd_channels": 551,
   "languages": {
     "Assamese": {
       "total": 28,
       "working": 24,
-      "hd": 9
+      "hd": 12
     },
     "Bengali": {
       "total": 104,
-      "working": 82,
-      "hd": 43
+      "working": 80,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 23,
       "working": 22,
-      "hd": 10
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 2,
@@ -30,22 +30,22 @@
     "English": {
       "total": 148,
       "working": 123,
-      "hd": 61
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
       "working": 23,
-      "hd": 11
+      "hd": 12
     },
     "Hindi": {
       "total": 529,
       "working": 440,
-      "hd": 204
+      "hd": 210
     },
     "Kannada": {
       "total": 69,
       "working": 53,
-      "hd": 20
+      "hd": 21
     },
     "Konkani": {
       "total": 2,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 104,
       "working": 86,
-      "hd": 30
+      "hd": 34
     },
     "Marathi": {
       "total": 41,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 62
+      "hd": 66
     },
     "Telugu": {
       "total": 158,
       "working": 122,
-      "hd": 54
+      "hd": 57
     },
     "Urdu": {
       "total": 13,
@@ -142,7 +142,7 @@
     {
       "name": "DD National HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Dharsan TV (720p)",
@@ -357,7 +357,7 @@
     {
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -387,11 +387,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -532,12 +527,17 @@
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
       "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
       "reason": "HTTP 511"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -745,9 +745,19 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
