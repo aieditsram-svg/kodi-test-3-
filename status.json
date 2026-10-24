@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 21:32 UTC",
-  "fingerprint": "97917ae62f1fd4c17859001ccf84850d",
+  "updated_at": "2026-10-24 21:57 UTC",
+  "fingerprint": "3e7e34188bffb2132323995ee9b4e6fa",
   "total": 1323,
-  "working": 1157,
-  "in_grace_period": 13,
-  "dead": 166,
+  "working": 1156,
+  "in_grace_period": 9,
+  "dead": 167,
   "hd_channels": 611,
   "languages": {
     "Assamese": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 158,
-      "working": 121,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -215,6 +215,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -292,7 +297,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -527,7 +532,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
