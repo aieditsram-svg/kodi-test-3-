@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-24 17:41 UTC",
-  "fingerprint": "fbdb202492f4243cc35fa981236790f3",
+  "updated_at": "2026-10-24 18:02 UTC",
+  "fingerprint": "ca61f6a4033fc4017195e74ebef18b97",
   "total": 1323,
   "working": 1154,
-  "in_grace_period": 11,
+  "in_grace_period": 10,
   "dead": 169,
   "hd_channels": 613,
   "languages": {
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 41,
       "working": 31,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 4,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 158,
@@ -390,11 +390,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -413,6 +408,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
