@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 05:11 UTC",
-  "fingerprint": "da7d0a64b4a221bb67397ced6fb8458b",
+  "updated_at": "2026-10-24 05:34 UTC",
+  "fingerprint": "914b36d940daa76fc2d633b56c36fa06",
   "total": 1323,
-  "working": 1146,
+  "working": 1148,
   "in_grace_period": 5,
-  "dead": 177,
+  "dead": 175,
   "hd_channels": 550,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 104,
-      "working": 81,
+      "working": 82,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 428,
+      "working": 429,
       "hd": 207
     },
     "Kannada": {
@@ -345,11 +345,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Zee Bangla Sonar (576p)",
-      "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -410,11 +405,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
@@ -432,11 +422,6 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -818,6 +803,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
