@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 23:03 UTC",
-  "fingerprint": "1801def6cf53de18b918e82fd8c0e3c0",
+  "updated_at": "2026-10-24 23:24 UTC",
+  "fingerprint": "0e216fdb4fc4fa1b68fca8c4eab1817d",
   "total": 1323,
-  "working": 1152,
-  "in_grace_period": 41,
-  "dead": 171,
+  "working": 1149,
+  "in_grace_period": 3,
+  "dead": 174,
   "hd_channels": 613,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 434,
+      "working": 432,
       "hd": 231
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 158,
-      "working": 122,
+      "working": 121,
       "hd": 59
     },
     "Urdu": {
@@ -223,6 +223,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -410,6 +415,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -573,6 +583,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -872,52 +887,52 @@
     {
       "name": "Unite8 Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Colors Cineplex HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Gold HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Kiran (576p)",
       "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sony Sports Ten 4 Kannada (576p)",
       "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sony Sports Ten 5 (576p)",
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "MTV (576p)",
