@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
-# Working channels, all languages, updated 2026-10-24 07:12 UTC
+# Working channels, all languages, updated 2026-10-24 07:41 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
@@ -541,6 +541,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/ma
 https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143755_ld_h15_aa.png?lock=720x540" tvg-language="Gujarati" group-title="Gujarati" height="720",Sandesh News (576p)
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
+#EXTINF:-1 tvg-id="TV13Gujarati.in@SD" x-category="news" tvg-logo="https://www.tv13gujarati.com/assets/front/img/footer-logo.jpg" tvg-language="Gujarati" group-title="Gujarati" height="480",TV13 Gujarati (480p)
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
 #EXTINF:-1 tvg-id="TV9Gujarati.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144028_ld_h15_aa.png?lock=720x540" tvg-language="Gujarati" group-title="Gujarati" height="576",TV9 Gujarati (576p)
 https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TV9Gujarati.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144028_ld_h15_aa.png?lock=720x540" tvg-language="Gujarati" group-title="Gujarati" height="720",TV9 Gujarati (720p)
@@ -707,7 +709,7 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/index.m3u8
 #EXTINF:-1 tvg-id="BansalNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142702_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Bansal News (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8
-#EXTINF:-1 tvg-id="BhaktiDhara.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png" tvg-language="Hindi" group-title="Hindi" height="720",Bhakti Dhara (720p)
+#EXTINF:-1 tvg-id="BhaktiDhara.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png" tvg-language="Hindi" group-title="Hindi" height="1080",Bhakti Dhara (720p)
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 #EXTINF:-1 tvg-id="BhaktiSagar.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" tvg-language="Hindi" group-title="Hindi" height="720",Bhakti Sagar (576p)
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8

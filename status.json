@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24 07:12 UTC",
-  "fingerprint": "4c12c99029851861ffe0c68cf5dbd927",
+  "updated_at": "2026-10-24 07:41 UTC",
+  "fingerprint": "bd585cb99ebfd383d232c9a2a906b57e",
   "total": 1323,
-  "working": 1157,
-  "in_grace_period": 10,
-  "dead": 166,
+  "working": 1158,
+  "in_grace_period": 9,
+  "dead": 165,
   "hd_channels": 549,
   "languages": {
     "Assamese": {
@@ -34,7 +34,7 @@
     },
     "Gujarati": {
       "total": 24,
-      "working": 22,
+      "working": 23,
       "hd": 12
     },
     "Hindi": {
@@ -428,11 +428,6 @@
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "TV13 Gujarati (480p)",
-      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
