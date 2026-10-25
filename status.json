@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 02:04 UTC",
-  "fingerprint": "93ac6852e8c9974716ae6a33839759b7",
+  "updated_at": "2026-10-25 02:31 UTC",
+  "fingerprint": "c1137fe8890bfab50b180cde982fa573",
   "total": 1314,
-  "working": 1149,
-  "in_grace_period": 11,
-  "dead": 165,
-  "hd_channels": 613,
+  "working": 1150,
+  "in_grace_period": 16,
+  "dead": 164,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 78,
+      "working": 80,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 230
+      "working": 430,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -235,11 +235,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "High News (480p)",
-      "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
       "reason": "HTTP 403"
@@ -287,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -383,6 +378,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -748,11 +748,6 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
