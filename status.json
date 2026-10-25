@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 06:23 UTC",
-  "fingerprint": "17c0231c750669fb05574136f310de7c",
+  "updated_at": "2026-10-25 07:08 UTC",
+  "fingerprint": "dbf5b4939d87f28161d6a261f2502e83",
   "total": 1314,
   "working": 1149,
-  "in_grace_period": 12,
+  "in_grace_period": 10,
   "dead": 165,
-  "hd_channels": 615,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 79,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 232
+      "working": 431,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -385,13 +385,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -402,11 +407,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -542,12 +542,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -765,6 +765,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -857,11 +862,6 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
