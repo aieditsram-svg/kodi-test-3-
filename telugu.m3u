@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
-# Working Telugu channels, updated 2026-10-25 00:28 UTC
+# Working Telugu channels, updated 2026-10-25 01:07 UTC
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",10 TV (720p)
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" tvg-language="Telugu" group-title="Telugu" height="1080",4 SiDES TV (1080p)
@@ -18,6 +18,8 @@ https://cdn.pishow.tv/ott/live/262/master.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",Aastha Telugu (576p)
 https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142517_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",ABN Andhra Jyoti (720p)
+https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="BhakthiTV.in@SD" x-category="religious" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" tvg-language="Telugu" group-title="Telugu" height="576",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
 #EXTINF:-1 tvg-id="BhakthiTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg" tvg-language="Telugu" group-title="Telugu" height="720",Bhakthi TV (720p)
