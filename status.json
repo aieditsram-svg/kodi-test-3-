@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 09:26 UTC",
-  "fingerprint": "6fe05fbf1431313fca526918ccbcec8a",
+  "updated_at": "2026-10-25 09:55 UTC",
+  "fingerprint": "813a419731df8f41cd94675d8065ffcf",
   "total": 1314,
   "working": 1152,
-  "in_grace_period": 8,
+  "in_grace_period": 11,
   "dead": 162,
-  "hd_channels": 614,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 230
+      "working": 430,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 85,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -425,6 +425,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -767,11 +772,6 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "PTC Punjabi (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
