@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 04:31 UTC",
-  "fingerprint": "471c212f5f1f205068c2e17e838a9633",
+  "updated_at": "2026-10-25 05:03 UTC",
+  "fingerprint": "4f305d658b3d511076538cec727683e8",
   "total": 1314,
-  "working": 1151,
-  "in_grace_period": 7,
-  "dead": 163,
-  "hd_channels": 612,
+  "working": 1153,
+  "in_grace_period": 12,
+  "dead": 161,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 24,
-      "working": 22,
+      "working": 23,
       "hd": 15
     },
     "Hindi": {
       "total": 519,
-      "working": 429,
-      "hd": 229
+      "working": 430,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -390,16 +385,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bansal News (576p)",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Mantavya News (576p)",
-      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "YET TV (720p)",
       "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8",
       "reason": "URLError"
@@ -543,6 +528,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
