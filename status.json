@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 01:34 UTC",
-  "fingerprint": "14cd2d4459e0a26a64c2bda0e223f0a0",
+  "updated_at": "2026-10-25 02:04 UTC",
+  "fingerprint": "93ac6852e8c9974716ae6a33839759b7",
   "total": 1314,
-  "working": 1153,
-  "in_grace_period": 10,
-  "dead": 161,
-  "hd_channels": 615,
+  "working": 1149,
+  "in_grace_period": 11,
+  "dead": 165,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 78,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 433,
-      "hd": 232
+      "working": 431,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -235,6 +235,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "High News (480p)",
+      "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
       "reason": "HTTP 403"
@@ -282,7 +287,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -367,6 +372,11 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -517,12 +527,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -563,6 +573,11 @@
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Swastik TV (720p)",
+      "url": "https://server.playontv.in/swastiktv/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "ETV Andhra Pradesh (1080p)",
@@ -733,6 +748,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
