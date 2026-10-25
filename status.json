@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 11:07 UTC",
-  "fingerprint": "55bcd0a5c453fd3fb3cc78eb3edd0db3",
+  "updated_at": "2026-10-25 11:32 UTC",
+  "fingerprint": "22b595f17cd3bfbef9f7eb6c9ee6094c",
   "total": 1314,
   "working": 1154,
-  "in_grace_period": 27,
+  "in_grace_period": 12,
   "dead": 160,
-  "hd_channels": 611,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 227
+      "working": 430,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
+      "working": 121,
       "hd": 59
     },
     "Urdu": {
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -208,11 +203,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -355,6 +345,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Shemaroo TV (576p)",
       "url": "https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8",
       "reason": "HTTP 404"
@@ -387,6 +382,11 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -527,7 +527,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
