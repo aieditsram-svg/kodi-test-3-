@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 20:52 UTC",
-  "fingerprint": "2e0010045dfb57da2e11dbe480b753a2",
+  "updated_at": "2026-10-25 21:10 UTC",
+  "fingerprint": "e2e7c3e810f3ef5625d4ae4603a67ef6",
   "total": 1314,
   "working": 1149,
-  "in_grace_period": 11,
+  "in_grace_period": 87,
   "dead": 165,
-  "hd_channels": 611,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 100,
       "working": 81,
-      "hd": 44
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 23,
@@ -35,17 +35,17 @@
     "Gujarati": {
       "total": 24,
       "working": 23,
-      "hd": 15
+      "hd": 14
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 229
+      "working": 429,
+      "hd": 214
     },
     "Kannada": {
       "total": 65,
       "working": 51,
-      "hd": 27
+      "hd": 21
     },
     "Konkani": {
       "total": 2,
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 100,
       "working": 86,
-      "hd": 43
+      "hd": 39
     },
     "Marathi": {
       "total": 37,
       "working": 30,
-      "hd": 19
+      "hd": 17
     },
     "Nepali": {
       "total": 4,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
-      "hd": 47
+      "working": 86,
+      "hd": 42
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 167,
       "working": 134,
-      "hd": 72
+      "hd": 65
     },
     "Telugu": {
       "total": 152,
       "working": 121,
-      "hd": 59
+      "hd": 57
     },
     "Urdu": {
       "total": 13,
@@ -372,6 +372,11 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -772,7 +777,7 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4DANGAL/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -872,11 +877,6 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Zee Cinema HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
