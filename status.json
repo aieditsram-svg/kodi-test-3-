@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26 07:29 UTC",
-  "fingerprint": "cd58fdf6f26b4e7df3fab3e12d969955",
+  "updated_at": "2026-10-26 08:17 UTC",
+  "fingerprint": "706c43cf0257e054616119f4c447cee7",
   "total": 1315,
-  "working": 1155,
-  "in_grace_period": 9,
-  "dead": 160,
+  "working": 1156,
+  "in_grace_period": 18,
+  "dead": 159,
   "hd_channels": 613,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 79,
+      "working": 80,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 143,
-      "working": 120,
+      "working": 121,
       "hd": 63
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 433,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 100,
-      "working": 86,
+      "working": 87,
       "hd": 43
     },
     "Marathi": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -287,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -375,8 +370,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -417,6 +412,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -862,11 +862,6 @@
     {
       "name": "Sony Sports Ten 4 Kannada (576p)",
       "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Sports Ten 5 (576p)",
-      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
