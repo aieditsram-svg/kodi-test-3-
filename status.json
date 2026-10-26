@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-26 15:31 UTC",
-  "fingerprint": "261644bf8a777339ae670c8a3f117043",
+  "updated_at": "2026-10-26 16:24 UTC",
+  "fingerprint": "24098c4fa416f83796250bcd4994ef9f",
   "total": 1315,
-  "working": 1159,
-  "in_grace_period": 24,
-  "dead": 156,
-  "hd_channels": 609,
+  "working": 1147,
+  "in_grace_period": 14,
+  "dead": 168,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 12
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 79,
       "hd": 45
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 122,
-      "hd": 64
+      "hd": 65
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 434,
-      "hd": 225
+      "working": 428,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -64,7 +64,7 @@
     },
     "Nepali": {
       "total": 4,
-      "working": 4,
+      "working": 3,
       "hd": 1
     },
     "Odia": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
-      "hd": 72
+      "working": 138,
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
       "working": 119,
-      "hd": 58
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -125,9 +125,24 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -205,6 +220,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -250,6 +270,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -278,6 +303,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -345,6 +375,16 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "IBC 24 (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -355,6 +395,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nepal 1 (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -362,6 +407,11 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -378,6 +428,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -512,7 +567,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
@@ -535,6 +590,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "BVG (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
@@ -548,6 +608,11 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Mahimai TV (576p)",
@@ -812,11 +877,6 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
