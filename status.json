@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-26 22:42 UTC",
-  "fingerprint": "89af6427e1922172bc332942e05cf92d",
+  "updated_at": "2026-10-26 23:11 UTC",
+  "fingerprint": "55397da05a77239271562069f2fa79e9",
   "total": 1315,
-  "working": 1151,
-  "in_grace_period": 4,
-  "dead": 164,
+  "working": 1149,
+  "in_grace_period": 5,
+  "dead": 166,
   "hd_channels": 607,
   "languages": {
     "Assamese": {
@@ -14,12 +14,12 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 80,
       "hd": 44
     },
     "Bhojpuri": {
       "total": 23,
-      "working": 22,
+      "working": 21,
       "hd": 12
     },
     "Chhattisgarhi": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
+      "working": 120,
       "hd": 64
     },
     "Gujarati": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 100,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Marathi": {
@@ -363,6 +363,11 @@
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Manoranjan Prime (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "APN (576p)",
@@ -887,6 +892,11 @@
     {
       "name": "Sony Sports Ten 4 Kannada (576p)",
       "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Sports Ten 5 (576p)",
+      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
