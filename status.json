@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-26 03:14 UTC",
-  "fingerprint": "0312e7f10f39934af8e38e70bcedb652",
+  "updated_at": "2026-10-26 03:47 UTC",
+  "fingerprint": "857daab7c08bd6c765acb373adef22ed",
   "total": 1315,
   "working": 1149,
-  "in_grace_period": 20,
+  "in_grace_period": 6,
   "dead": 166,
   "hd_channels": 611,
   "languages": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 229
+      "working": 430,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 135,
-      "hd": 72
+      "working": 136,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -360,11 +360,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -380,18 +375,23 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
