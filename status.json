@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 22:12 UTC",
-  "fingerprint": "b5043395b42e489ef49439b677718b8b",
+  "updated_at": "2026-10-26 22:42 UTC",
+  "fingerprint": "89af6427e1922172bc332942e05cf92d",
   "total": 1315,
   "working": 1151,
-  "in_grace_period": 3,
+  "in_grace_period": 4,
   "dead": 164,
-  "hd_channels": 608,
+  "hd_channels": 607,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 429,
-      "hd": 226
+      "hd": 225
     },
     "Kannada": {
       "total": 65,
@@ -388,11 +388,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -798,6 +793,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "UP NOW (720p)",
