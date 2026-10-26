@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 23:44 UTC",
-  "fingerprint": "a3bc3e4e8358e2c5555c9dbe65e69584",
+  "updated_at": "2026-10-26 00:01 UTC",
+  "fingerprint": "dcc69255169b7e7dfd5ac02e65f4ed61",
   "total": 1314,
-  "working": 1135,
-  "in_grace_period": 9,
-  "dead": 179,
-  "hd_channels": 600,
+  "working": 1134,
+  "in_grace_period": 5,
+  "dead": 180,
+  "hd_channels": 601,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 76,
+      "working": 75,
       "hd": 41
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 119,
-      "hd": 61
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 425,
+      "working": 424,
       "hd": 225
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 85,
+      "working": 86,
       "hd": 46
     },
     "Santali": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 167,
       "working": 134,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 152,
@@ -420,11 +420,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -587,12 +582,17 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -852,6 +852,11 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Anand Wari TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
