@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 21:12 UTC",
-  "fingerprint": "c32696b05b223900d1a1a3d3b0a488d8",
+  "updated_at": "2026-10-26 21:41 UTC",
+  "fingerprint": "bdf6c0f6f13803023b55bfb01bbaffd8",
   "total": 1315,
-  "working": 1150,
-  "in_grace_period": 5,
-  "dead": 165,
-  "hd_channels": 608,
+  "working": 1152,
+  "in_grace_period": 4,
+  "dead": 163,
+  "hd_channels": 609,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 429,
-      "hd": 225
+      "working": 430,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -545,11 +545,6 @@
       "reason": "HTTP 456"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -558,11 +553,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sahana News (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Gyandarshan HD (576p)",
