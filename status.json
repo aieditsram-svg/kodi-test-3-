@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 00:01 UTC",
-  "fingerprint": "dcc69255169b7e7dfd5ac02e65f4ed61",
-  "total": 1314,
-  "working": 1134,
-  "in_grace_period": 5,
-  "dead": 180,
-  "hd_channels": 601,
+  "updated_at": "2026-10-26 00:46 UTC",
+  "fingerprint": "55aa31f125a441f576de30c988f74fa0",
+  "total": 1315,
+  "working": 1138,
+  "in_grace_period": 6,
+  "dead": 177,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 75,
+      "working": 76,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 424,
+      "working": 427,
       "hd": 225
     },
     "Kannada": {
@@ -88,9 +88,9 @@
       "hd": 0
     },
     "Tamil": {
-      "total": 167,
+      "total": 168,
       "working": 134,
-      "hd": 71
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -420,19 +420,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -472,11 +462,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -588,11 +573,6 @@
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
       "reason": "HTTP 456"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -993,6 +973,11 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
