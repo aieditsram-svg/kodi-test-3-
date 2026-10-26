@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 05:25 UTC",
-  "fingerprint": "9a07552a3ce9401e8bc120ccf5c7ce42",
+  "updated_at": "2026-10-26 05:59 UTC",
+  "fingerprint": "51a323b848cbce57e3735f8fe9acf752",
   "total": 1315,
-  "working": 1150,
-  "in_grace_period": 5,
-  "dead": 165,
-  "hd_channels": 613,
+  "working": 1151,
+  "in_grace_period": 7,
+  "dead": 164,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 229
+      "working": 431,
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -373,11 +373,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood (576p)",
