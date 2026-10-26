@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 19:40 UTC",
-  "fingerprint": "9df8fc0884f8371712e640c9315d2aed",
+  "updated_at": "2026-10-26 20:10 UTC",
+  "fingerprint": "3cfe52602b575387e3f7855247ed8d2f",
   "total": 1315,
-  "working": 1149,
-  "in_grace_period": 27,
-  "dead": 166,
-  "hd_channels": 601,
+  "working": 1150,
+  "in_grace_period": 33,
+  "dead": 165,
+  "hd_channels": 598,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 100,
       "working": 80,
-      "hd": 45
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 23,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 223
+      "hd": 222
     },
     "Kannada": {
       "total": 65,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 86,
+      "working": 87,
       "hd": 47
     },
     "Santali": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -157,7 +157,7 @@
     {
       "name": "DY 365 (360p)",
       "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "E-Vidya 4 (576p)",
@@ -242,7 +242,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Joy TV (576p)",
@@ -385,11 +385,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -397,11 +392,6 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -413,6 +403,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -547,12 +542,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
