@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 11:00 UTC",
-  "fingerprint": "1220173b59962c5458c3bd967a32b618",
+  "updated_at": "2026-10-26 11:36 UTC",
+  "fingerprint": "d903c6b30500597b75a26ab7ac8c8c11",
   "total": 1315,
-  "working": 1156,
+  "working": 1158,
   "in_grace_period": 10,
-  "dead": 159,
-  "hd_channels": 611,
+  "dead": 157,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 432,
+      "working": 434,
       "hd": 228
     },
     "Kannada": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 137,
-      "hd": 72
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -127,16 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ANB News (720p)",
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -267,7 +257,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -527,12 +517,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
