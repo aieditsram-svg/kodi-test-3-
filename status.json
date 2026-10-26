@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-26 02:10 UTC",
-  "fingerprint": "eb89b7b0e092599e11a6f34b7062c2ca",
+  "updated_at": "2026-10-26 02:40 UTC",
+  "fingerprint": "c11e0b0f46c653dd7c8004f1ce71193a",
   "total": 1315,
-  "working": 1143,
-  "in_grace_period": 14,
-  "dead": 172,
-  "hd_channels": 601,
+  "working": 1151,
+  "in_grace_period": 12,
+  "dead": 164,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 23,
-      "hd": 11
+      "working": 24,
+      "hd": 12
     },
     "Bengali": {
       "total": 100,
-      "working": 77,
-      "hd": 41
+      "working": 80,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 23,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 225
+      "working": 430,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -79,13 +79,13 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 86,
-      "hd": 46
+      "working": 87,
+      "hd": 47
     },
     "Santali": {
       "total": 1,
-      "working": 0,
-      "hd": 0
+      "working": 1,
+      "hd": 1
     },
     "Tamil": {
       "total": 168,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
-      "hd": 58
+      "working": 120,
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -130,18 +130,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ANB News (720p)",
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -235,11 +225,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Global Punjab (1080p)",
-      "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -257,11 +242,6 @@
     {
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "KTV Bangla (720p)",
-      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -283,11 +263,6 @@
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "Samay Kolkata (1080p)",
-      "url": "https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -402,6 +377,11 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -585,16 +565,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Gospel TV India (576p)",
-      "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "TV45 (1080p)",
-      "url": "https://server.livelegitpro.in/bnews24/bnews24/video.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
@@ -678,11 +648,6 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Samay Kolkata (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Public Music (576p)",
@@ -783,6 +748,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -935,19 +905,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "BHI Channel (720p)",
-      "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Global India (720p)",
-      "url": "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
