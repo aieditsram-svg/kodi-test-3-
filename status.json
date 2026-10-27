@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 23:21 UTC",
-  "fingerprint": "db1176901ca8daa555a39fbd06eb35a5",
+  "updated_at": "2026-10-27 23:51 UTC",
+  "fingerprint": "9a6156539aac94af949d124a2c0a6e15",
   "total": 1315,
-  "working": 1146,
-  "in_grace_period": 4,
-  "dead": 169,
-  "hd_channels": 608,
+  "working": 1145,
+  "in_grace_period": 5,
+  "dead": 170,
+  "hd_channels": 609,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
+      "working": 429,
       "hd": 228
     },
     "Kannada": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -562,7 +562,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
@@ -583,6 +583,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
