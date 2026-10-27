@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 15:33 UTC",
-  "fingerprint": "3b7c393a6b59ce9610c086d849d84820",
+  "updated_at": "2026-10-27 16:20 UTC",
+  "fingerprint": "150a0c365b1ddbd829168e7384133878",
   "total": 1315,
-  "working": 1149,
+  "working": 1147,
   "in_grace_period": 14,
-  "dead": 166,
+  "dead": 168,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 425,
-      "hd": 226
+      "working": 424,
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
-      "hd": 73
+      "working": 136,
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -247,7 +247,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Joy TV (576p)",
@@ -272,6 +272,11 @@
     {
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -390,6 +395,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -397,6 +407,11 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -557,7 +572,7 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -573,11 +588,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
