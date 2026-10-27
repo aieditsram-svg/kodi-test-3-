@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 21:20 UTC",
-  "fingerprint": "ae99985c99d1c7cb153a2a031df3dffa",
+  "updated_at": "2026-10-27 21:55 UTC",
+  "fingerprint": "b7a793b6556d8d4e935044c3dbb33a9c",
   "total": 1315,
   "working": 1152,
   "in_grace_period": 13,
   "dead": 163,
-  "hd_channels": 611,
+  "hd_channels": 608,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 121,
-      "hd": 64
+      "hd": 62
     },
     "Gujarati": {
       "total": 24,
@@ -40,12 +40,12 @@
     "Hindi": {
       "total": 519,
       "working": 431,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 2,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -137,6 +137,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -302,7 +307,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -312,7 +317,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -393,11 +398,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -797,7 +797,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
