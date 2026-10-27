@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 14:09 UTC",
-  "fingerprint": "2e8e549f5a5714ed5e825f4b6a260f55",
+  "updated_at": "2026-10-27 14:52 UTC",
+  "fingerprint": "871bd6a86dbe766cb10bad8a4236b97b",
   "total": 1315,
-  "working": 1146,
-  "in_grace_period": 5,
-  "dead": 169,
+  "working": 1150,
+  "in_grace_period": 13,
+  "dead": 165,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 425,
-      "hd": 227
+      "working": 426,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 100,
-      "working": 85,
-      "hd": 42
+      "working": 86,
+      "hd": 43
     },
     "Marathi": {
       "total": 37,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -148,11 +148,6 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD National HD (576p)",
@@ -228,11 +223,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -403,6 +393,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood (576p)",
@@ -825,11 +820,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Star Movies HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Movies/index.m3u8",
       "reason": "URLError"
@@ -870,11 +860,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Colors Bangla Cinema (576p)",
-      "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Colors Cineplex HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
       "reason": "HTTP 404"
@@ -902,11 +887,6 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Superhitz (576p)",
-      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
