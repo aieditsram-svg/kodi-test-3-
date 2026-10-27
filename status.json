@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 18:21 UTC",
-  "fingerprint": "4ebade365d3671276878886e17a675c8",
+  "updated_at": "2026-10-27 19:06 UTC",
+  "fingerprint": "3ca8421de1208fe7b9e3e977fbc55a9c",
   "total": 1315,
-  "working": 1155,
-  "in_grace_period": 11,
-  "dead": 160,
-  "hd_channels": 614,
+  "working": 1157,
+  "in_grace_period": 10,
+  "dead": 158,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 122,
-      "hd": 64
+      "working": 121,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 228
+      "working": 432,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 138,
-      "hd": 74
+      "working": 137,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
-      "hd": 59
+      "working": 119,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -137,11 +137,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -397,16 +392,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -842,6 +827,11 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
