@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 17:44 UTC",
-  "fingerprint": "f867c665f6db411f075a31253e51e6a8",
+  "updated_at": "2026-10-27 18:21 UTC",
+  "fingerprint": "4ebade365d3671276878886e17a675c8",
   "total": 1315,
-  "working": 1156,
-  "in_grace_period": 9,
-  "dead": 159,
-  "hd_channels": 616,
+  "working": 1155,
+  "in_grace_period": 11,
+  "dead": 160,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 230
+      "working": 430,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -395,13 +395,18 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
