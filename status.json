@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 16:20 UTC",
-  "fingerprint": "150a0c365b1ddbd829168e7384133878",
+  "updated_at": "2026-10-27 17:04 UTC",
+  "fingerprint": "c15690bb4733455083dc8df7dab6bbbc",
   "total": 1315,
-  "working": 1147,
-  "in_grace_period": 14,
-  "dead": 168,
-  "hd_channels": 612,
+  "working": 1149,
+  "in_grace_period": 13,
+  "dead": 166,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
-      "hd": 63
+      "working": 122,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 424,
-      "hd": 227
+      "working": 426,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 136,
-      "hd": 72
+      "working": 137,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
-      "hd": 58
+      "working": 120,
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -247,7 +247,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -410,8 +410,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -452,11 +452,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -567,7 +562,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
@@ -877,11 +872,6 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
