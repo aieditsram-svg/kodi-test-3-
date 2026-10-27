@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 14:52 UTC",
-  "fingerprint": "871bd6a86dbe766cb10bad8a4236b97b",
+  "updated_at": "2026-10-27 15:33 UTC",
+  "fingerprint": "3b7c393a6b59ce9610c086d849d84820",
   "total": 1315,
-  "working": 1150,
-  "in_grace_period": 13,
-  "dead": 165,
+  "working": 1149,
+  "in_grace_period": 14,
+  "dead": 166,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 122,
-      "hd": 64
+      "working": 121,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 426,
+      "working": 425,
       "hd": 226
     },
     "Kannada": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 138,
-      "hd": 74
+      "working": 137,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
-      "hd": 59
+      "working": 119,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -552,12 +552,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -867,6 +867,11 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
