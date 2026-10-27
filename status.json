@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 23:37 UTC",
-  "fingerprint": "f60e2985be9038c2decccbeaa1c744e4",
+  "updated_at": "2026-10-27 00:03 UTC",
+  "fingerprint": "99c402c4850563d0ab52b029e86090b1",
   "total": 1315,
-  "working": 1154,
-  "in_grace_period": 3,
-  "dead": 161,
-  "hd_channels": 609,
+  "working": 1153,
+  "in_grace_period": 6,
+  "dead": 162,
+  "hd_channels": 608,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 122,
-      "hd": 64
+      "working": 121,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 227
+      "working": 432,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -75,7 +75,7 @@
     "Other": {
       "total": 15,
       "working": 14,
-      "hd": 12
+      "hd": 13
     },
     "Punjabi": {
       "total": 88,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
+      "working": 118,
       "hd": 59
     },
     "Urdu": {
@@ -205,6 +205,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -245,6 +250,11 @@
       "reason": "HTTP 451"
     },
     {
+      "name": "NDTV Profit (1080p)",
+      "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
       "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
       "reason": "HTTP 451"
@@ -277,7 +287,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -857,11 +867,6 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Zee Cinema HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
