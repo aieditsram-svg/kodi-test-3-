@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 08:27 UTC",
-  "fingerprint": "275ea50ff5b2bf7deeeec548949d8ef7",
+  "updated_at": "2026-10-28 09:17 UTC",
+  "fingerprint": "c175f03a849d8e8b163b93ce228788ef",
   "total": 1425,
-  "working": 1269,
-  "in_grace_period": 22,
-  "dead": 156,
-  "hd_channels": 634,
+  "working": 1268,
+  "in_grace_period": 31,
+  "dead": 157,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 483,
-      "hd": 242
+      "working": 482,
+      "hd": 241
     },
     "Kannada": {
       "total": 65,
@@ -372,6 +372,11 @@
     {
       "name": "9X Tashan (576p)",
       "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
