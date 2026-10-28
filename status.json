@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-28 14:31 UTC",
-  "fingerprint": "c9da7073f6e3ee5c89fb34405eb720d1",
+  "updated_at": "2026-10-28 15:22 UTC",
+  "fingerprint": "f10c4ec3eb24fae588eb3b0f48067ee7",
   "total": 1425,
-  "working": 1258,
-  "in_grace_period": 47,
-  "dead": 167,
-  "hd_channels": 617,
+  "working": 1255,
+  "in_grace_period": 13,
+  "dead": 170,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 32,
-      "working": 28,
+      "working": 27,
       "hd": 12
     },
     "Bengali": {
       "total": 103,
-      "working": 83,
-      "hd": 46
+      "working": 82,
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 23,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 149,
-      "working": 129,
-      "hd": 64
+      "working": 128,
+      "hd": 65
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 473,
-      "hd": 231
+      "working": 472,
+      "hd": 238
     },
     "Kannada": {
       "total": 65,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 4,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 113,
       "working": 108,
-      "hd": 47
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 176,
       "working": 147,
-      "hd": 74
+      "hd": 75
     },
     "Telugu": {
       "total": 160,
-      "working": 129,
-      "hd": 58
+      "working": 130,
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -125,6 +125,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -133,6 +138,11 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -208,11 +218,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -298,6 +303,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -393,6 +403,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -792,12 +807,12 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "StarPlus HD (1080p)",
