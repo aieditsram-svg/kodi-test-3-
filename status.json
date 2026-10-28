@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28 02:03 UTC",
-  "fingerprint": "9c65851e41fb63dd7d39ea874c81caa0",
+  "updated_at": "2026-10-28 02:45 UTC",
+  "fingerprint": "25e914dec5ce87c37c4fdca265320647",
   "total": 1425,
-  "working": 1257,
-  "in_grace_period": 16,
-  "dead": 168,
+  "working": 1255,
+  "in_grace_period": 14,
+  "dead": 170,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 479,
+      "working": 477,
       "hd": 241
     },
     "Kannada": {
@@ -137,6 +137,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -297,7 +302,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -392,6 +397,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
