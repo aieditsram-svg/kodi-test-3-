@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 06:03 UTC",
-  "fingerprint": "71bf21f762bac4d58a7d71bab170a0f5",
+  "updated_at": "2026-10-28 06:48 UTC",
+  "fingerprint": "4d5de5baa1ff361c5fe5060ae3db7e89",
   "total": 1425,
-  "working": 1256,
-  "in_grace_period": 11,
-  "dead": 169,
-  "hd_channels": 632,
+  "working": 1265,
+  "in_grace_period": 21,
+  "dead": 160,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 476,
-      "hd": 241
+      "working": 478,
+      "hd": 240
     },
     "Kannada": {
       "total": 65,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 113,
-      "working": 103,
-      "hd": 47
+      "working": 109,
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 160,
-      "working": 129,
+      "working": 130,
       "hd": 59
     },
     "Urdu": {
@@ -157,7 +157,7 @@
     {
       "name": "DY 365 (360p)",
       "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "E-Vidya 4 (576p)",
@@ -242,7 +242,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -380,18 +380,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -520,16 +515,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sun Gemini (576p)",
-      "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Fast1 (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
@@ -548,6 +533,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -780,11 +770,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
       "reason": "TimeoutError"
@@ -875,26 +860,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Chintpurni Live (360p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Padharo SA (720p)",
-      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Punjabi Music HD (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Punjabi TV (720p)",
-      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -903,11 +868,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shaheedan Shahib (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -923,11 +883,6 @@
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Punjabi TV (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Ind 24 (576p)",
