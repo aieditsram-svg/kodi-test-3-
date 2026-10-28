@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 11:22 UTC",
-  "fingerprint": "334a90de9a6a0872e610b15c5b7a6294",
+  "updated_at": "2026-10-28 12:03 UTC",
+  "fingerprint": "76c962b27e470994ebfce0400d78b262",
   "total": 1425,
-  "working": 1266,
+  "working": 1264,
   "in_grace_period": 21,
-  "dead": 159,
-  "hd_channels": 627,
+  "dead": 161,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 81,
+      "working": 82,
       "hd": 45
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 128,
-      "hd": 62
+      "hd": 63
     },
     "Gujarati": {
       "total": 27,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 482,
-      "hd": 237
+      "working": 479,
+      "hd": 238
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -255,6 +255,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -377,6 +387,11 @@
     {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -728,11 +743,6 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
