@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 21:43 UTC",
-  "fingerprint": "9675582c8a67413c6347649958073421",
-  "total": 1425,
+  "updated_at": "2026-10-28 22:18 UTC",
+  "fingerprint": "147b8dd3dd35bbad44d446a72931be62",
+  "total": 1423,
   "working": 1225,
-  "in_grace_period": 7,
-  "dead": 200,
-  "hd_channels": 622,
+  "in_grace_period": 13,
+  "dead": 198,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 564,
       "working": 462,
-      "hd": 237
+      "hd": 235
     },
     "Kannada": {
       "total": 65,
@@ -88,7 +88,7 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 176,
+      "total": 174,
       "working": 137,
       "hd": 70
     },
@@ -405,8 +405,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -423,16 +428,6 @@
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "YET TV (720p)",
-      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "YET Max (720p)",
-      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Win TV (576p)",
@@ -768,11 +763,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
