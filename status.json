@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 20:26 UTC",
-  "fingerprint": "210e11df2eaa8a1de287dccd12ef6329",
+  "updated_at": "2026-10-28 21:07 UTC",
+  "fingerprint": "2b04f1384b44f6516b19d69215c4a781",
   "total": 1425,
-  "working": 1224,
-  "in_grace_period": 5,
-  "dead": 201,
-  "hd_channels": 622,
+  "working": 1225,
+  "in_grace_period": 4,
+  "dead": 200,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 459,
-      "hd": 236
+      "working": 462,
+      "hd": 235
     },
     "Kannada": {
       "total": 65,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 88,
-      "hd": 41
+      "working": 86,
+      "hd": 40
     },
     "Marathi": {
       "total": 39,
@@ -138,6 +138,11 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD National HD (576p)",
@@ -345,6 +350,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -395,11 +405,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -412,11 +417,6 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -447,11 +447,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -797,12 +792,12 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "StarPlus HD (1080p)",
