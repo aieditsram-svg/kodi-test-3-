@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 13:42 UTC",
-  "fingerprint": "9f961c5de7c14cf66f7017af7c4bc348",
+  "updated_at": "2026-10-28 14:31 UTC",
+  "fingerprint": "c9da7073f6e3ee5c89fb34405eb720d1",
   "total": 1425,
-  "working": 1263,
-  "in_grace_period": 55,
-  "dead": 162,
-  "hd_channels": 615,
+  "working": 1258,
+  "in_grace_period": 47,
+  "dead": 167,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 478,
-      "hd": 229
+      "working": 473,
+      "hd": 231
     },
     "Kannada": {
       "total": 65,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 91,
+      "working": 92,
       "hd": 43
     },
     "Marathi": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 148,
+      "working": 147,
       "hd": 74
     },
     "Telugu": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -265,6 +270,11 @@
       "reason": "HTTP 401"
     },
     {
+      "name": "Sai TV",
+      "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -320,11 +330,6 @@
       "reason": "HTTP 401"
     },
     {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -365,6 +370,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "IBC 24 (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -375,6 +385,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -382,6 +397,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -417,6 +437,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -533,6 +558,11 @@
       "name": "Gyandarshan HD (576p)",
       "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "BVG (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -742,11 +772,6 @@
     {
       "name": "Sangeet Bangla (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
