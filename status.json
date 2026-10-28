@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 22:55 UTC",
-  "fingerprint": "ab38c6c32b91b3b2cc496a27b8f0b983",
+  "updated_at": "2026-10-28 23:23 UTC",
+  "fingerprint": "d843f8a4b73cd49c467ebd3c4b4234aa",
   "total": 1423,
-  "working": 1222,
-  "in_grace_period": 4,
-  "dead": 201,
-  "hd_channels": 619,
+  "working": 1221,
+  "in_grace_period": 6,
+  "dead": 202,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 113,
-      "hd": 59
+      "hd": 58
     },
     "Gujarati": {
       "total": 27,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 462,
+      "working": 461,
       "hd": 235
     },
     "Kannada": {
@@ -450,6 +450,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Soham TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
       "reason": "HTTP 404"
@@ -797,7 +802,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
