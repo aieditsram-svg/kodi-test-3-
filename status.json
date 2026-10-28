@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 16:12 UTC",
-  "fingerprint": "f2e584f042f416a403fbc4962a746457",
+  "updated_at": "2026-10-28 16:57 UTC",
+  "fingerprint": "3e0bf124d2f3f79a97c021e8aee4d157",
   "total": 1425,
-  "working": 1255,
-  "in_grace_period": 11,
-  "dead": 170,
-  "hd_channels": 631,
+  "working": 1254,
+  "in_grace_period": 13,
+  "dead": 171,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 147,
-      "hd": 75
+      "working": 146,
+      "hd": 74
     },
     "Telugu": {
       "total": 160,
@@ -250,6 +250,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Life TV (720p)",
+      "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -375,11 +380,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 404"
@@ -420,11 +420,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -452,6 +447,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -582,7 +582,7 @@
     {
       "name": "BVG (576p)",
       "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -790,6 +790,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -912,7 +917,7 @@
     {
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
