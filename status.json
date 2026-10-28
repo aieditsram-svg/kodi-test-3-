@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-28 04:07 UTC",
-  "fingerprint": "57516f7ebcacfe20ae4dd7065fdbac3c",
+  "updated_at": "2026-10-28 04:48 UTC",
+  "fingerprint": "793f61a70d3d0b0c1fa2b4d8b51ab08e",
   "total": 1425,
-  "working": 1250,
-  "in_grace_period": 13,
-  "dead": 175,
+  "working": 1254,
+  "in_grace_period": 12,
+  "dead": 171,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 32,
-      "working": 27,
+      "working": 28,
       "hd": 12
     },
     "Bengali": {
       "total": 103,
-      "working": 83,
+      "working": 84,
       "hd": 45
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 128,
-      "hd": 64
+      "hd": 63
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 473,
-      "hd": 241
+      "working": 475,
+      "hd": 242
     },
     "Kannada": {
       "total": 65,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "Malayalam": {
       "total": 105,
@@ -125,11 +125,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Aastha Bhajan (576p)",
       "url": "http://103.175.73.12:8080/live/339/master.m3u8",
       "reason": "URLError"
@@ -148,11 +143,6 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -285,9 +275,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "name": "Prudent Media (1080p)",
+      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -312,17 +302,12 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -405,11 +390,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -417,6 +397,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -578,11 +563,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -817,7 +797,7 @@
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "UP NOW (720p)",
