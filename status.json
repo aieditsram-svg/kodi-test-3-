@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 12:50 UTC",
-  "fingerprint": "fe0507d9149615e6702ea1f86e0e533c",
+  "updated_at": "2026-10-28 13:42 UTC",
+  "fingerprint": "9f961c5de7c14cf66f7017af7c4bc348",
   "total": 1425,
-  "working": 1260,
-  "in_grace_period": 18,
-  "dead": 165,
-  "hd_channels": 629,
+  "working": 1263,
+  "in_grace_period": 55,
+  "dead": 162,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 82,
+      "working": 83,
       "hd": 46
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 149,
-      "working": 128,
+      "working": 129,
       "hd": 64
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 475,
-      "hd": 236
+      "working": 478,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 113,
       "working": 108,
-      "hd": 50
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 147,
+      "working": 148,
       "hd": 74
     },
     "Telugu": {
       "total": 160,
-      "working": 128,
+      "working": 129,
       "hd": 58
     },
     "Urdu": {
@@ -257,12 +257,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -287,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -325,14 +320,14 @@
       "reason": "HTTP 401"
     },
     {
-      "name": "YRF Music (1080p)",
-      "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
       "reason": "URLError"
     },
     {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
+      "name": "YRF Music (1080p)",
+      "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -383,11 +378,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -777,7 +767,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -827,11 +817,6 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
