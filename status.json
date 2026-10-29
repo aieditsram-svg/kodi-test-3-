@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 06:23 UTC",
-  "fingerprint": "93785e29a01f581213ed8ab3027e5c0e",
+  "updated_at": "2026-10-29 07:28 UTC",
+  "fingerprint": "b92345eaeb074be9ad49438fb99508d8",
   "total": 1657,
-  "working": 1440,
-  "in_grace_period": 5,
-  "dead": 217,
-  "hd_channels": 623,
+  "working": 1445,
+  "in_grace_period": 13,
+  "dead": 212,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Hindi": {
       "total": 686,
-      "working": 573,
+      "working": 575,
       "hd": 235
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 95,
-      "hd": 40
+      "working": 97,
+      "hd": 42
     },
     "Marathi": {
       "total": 46,
@@ -133,11 +133,6 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
-    },
-    {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Chardikla Time TV (1080p)",
@@ -318,11 +313,6 @@
       "name": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "VCV (720p) [Not 24/7]",
-      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "VIP News (360p)",
@@ -570,16 +560,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Swastik TV (720p)",
-      "url": "https://server.playontv.in/swastiktv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
@@ -753,11 +733,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
