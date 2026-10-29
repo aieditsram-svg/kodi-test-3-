@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 13:40 UTC",
-  "fingerprint": "89ba9416a4c20e85110a3b4c39b1762f",
+  "updated_at": "2026-10-29 14:30 UTC",
+  "fingerprint": "d64944c8e64e9955f777c1484b588dc4",
   "total": 1657,
-  "working": 1440,
-  "in_grace_period": 22,
-  "dead": 217,
-  "hd_channels": 629,
+  "working": 1442,
+  "in_grace_period": 10,
+  "dead": 215,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 577,
-      "hd": 240
+      "working": 579,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -335,6 +335,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Taaza TV (720p)",
+      "url": "https://live.we2live.in/taazatv/live/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Times Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/timesnow/timesnow_master.m3u8",
       "reason": "HTTP 403"
@@ -405,11 +410,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -417,16 +417,6 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -438,11 +428,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -557,7 +542,7 @@
     {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Nick Jr. (576p)",
@@ -1073,6 +1058,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",

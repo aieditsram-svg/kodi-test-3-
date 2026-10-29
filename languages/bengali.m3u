@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
-# Working Bengali channels, updated 2026-10-29 13:40 UTC
+# Working Bengali channels, updated 2026-10-29 14:30 UTC
 #EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Aakaash Aath (576p)
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Aakaash Aath (576p)
