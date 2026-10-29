@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-29 20:04 UTC",
-  "fingerprint": "b0d09d682c8c289513d3cde8fe51feaf",
+  "updated_at": "2026-10-29 20:44 UTC",
+  "fingerprint": "2cd3fa87eec9e855e7b6fdf8040b5a73",
   "total": 1657,
-  "working": 1411,
-  "in_grace_period": 20,
-  "dead": 246,
-  "hd_channels": 630,
+  "working": 1409,
+  "in_grace_period": 24,
+  "dead": 248,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 39,
-      "working": 33,
+      "working": 31,
       "hd": 12
     },
     "Bengali": {
       "total": 113,
-      "working": 80,
-      "hd": 42
+      "working": 78,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 126,
-      "hd": 61
+      "working": 125,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 571,
+      "working": 573,
       "hd": 240
     },
     "Kannada": {
@@ -255,6 +255,11 @@
       "reason": "URLError"
     },
     {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 302"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -268,6 +273,16 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "NK TV 24x7 (1080p)",
+      "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "NK TV Bangla (1080p)",
+      "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -293,6 +308,11 @@
       "name": "Sony Wah (1080p) [Geo-blocked]",
       "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
       "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Spondon (1080p)",
+      "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -385,11 +405,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
@@ -432,11 +447,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
