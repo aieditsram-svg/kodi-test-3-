@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 11:18 UTC",
-  "fingerprint": "9284bbd6b30fb9e3d21cd57ec7e85331",
+  "updated_at": "2026-10-29 11:58 UTC",
+  "fingerprint": "f7ae86d03d3b48ee0ed985f9c222f2f7",
   "total": 1657,
-  "working": 1453,
-  "in_grace_period": 21,
-  "dead": 204,
-  "hd_channels": 630,
+  "working": 1452,
+  "in_grace_period": 27,
+  "dead": 205,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 583,
-      "hd": 240
+      "working": 581,
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 147,
+      "working": 148,
       "hd": 72
     },
     "Telugu": {
@@ -363,6 +363,16 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -978,11 +988,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Dukhniwaran (576p)",
