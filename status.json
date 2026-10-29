@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 20:44 UTC",
-  "fingerprint": "2cd3fa87eec9e855e7b6fdf8040b5a73",
+  "updated_at": "2026-10-29 21:21 UTC",
+  "fingerprint": "c1a0a440f2d3d66923f5fe3106aa0f21",
   "total": 1657,
-  "working": 1409,
-  "in_grace_period": 24,
-  "dead": 248,
-  "hd_channels": 628,
+  "working": 1410,
+  "in_grace_period": 8,
+  "dead": 247,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -19,7 +19,7 @@
     },
     "Bhojpuri": {
       "total": 31,
-      "working": 27,
+      "working": 28,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -29,18 +29,18 @@
     },
     "English": {
       "total": 165,
-      "working": 125,
+      "working": 124,
       "hd": 60
     },
     "Gujarati": {
       "total": 34,
       "working": 34,
-      "hd": 17
+      "hd": 18
     },
     "Hindi": {
       "total": 686,
-      "working": 573,
-      "hd": 240
+      "working": 572,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
-      "hd": 50
+      "working": 125,
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -420,18 +420,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,6 +770,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
@@ -1040,6 +1040,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bhakti Dhara (720p)",
+      "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "ATN Samachar (1080p)",
+      "url": "https://newsliveindia.com:4433/atn/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Zee Tamil (576p) [Geo-blocked]",
       "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
@@ -1067,11 +1077,6 @@
     {
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan Movies (576p)",
-      "url": "https://fta.ektv.in/live/47/47_0.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1122,11 +1127,6 @@
     {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/332/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan Prime (576p)",
-      "url": "https://fta.ektv.in/live/345/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1232,11 +1232,6 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Raftaar Media (576p)",
-      "url": "https://fta.ektv.in/live/306/master.m3u8",
       "reason": "HTTP 404"
     },
     {
