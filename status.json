@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 07:28 UTC",
-  "fingerprint": "b92345eaeb074be9ad49438fb99508d8",
+  "updated_at": "2026-10-29 08:20 UTC",
+  "fingerprint": "b61ac8e45af2369ef84c72ec7117565a",
   "total": 1657,
-  "working": 1445,
-  "in_grace_period": 13,
-  "dead": 212,
+  "working": 1451,
+  "in_grace_period": 10,
+  "dead": 206,
   "hd_channels": 626,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 575,
+      "working": 579,
       "hd": 235
     },
     "Kannada": {
@@ -49,12 +49,12 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 3,
+      "hd": 2
     },
     "Malayalam": {
       "total": 113,
-      "working": 97,
+      "working": 98,
       "hd": 42
     },
     "Marathi": {
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 19,
@@ -128,11 +128,6 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Chardikla Time TV (1080p)",
@@ -255,11 +250,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
-    },
-    {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
       "reason": "HTTP 404"
@@ -368,21 +358,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Network 10 (576p)",
@@ -1013,11 +988,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Asianet Movies (396p)",
-      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
