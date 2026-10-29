@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29 15:22 UTC",
-  "fingerprint": "7c910a2cee6ccded8072e6bb32744aa5",
+  "updated_at": "2026-10-29 16:14 UTC",
+  "fingerprint": "1977206aa68274d4b760c1015dc48437",
   "total": 1657,
   "working": 1442,
-  "in_grace_period": 34,
+  "in_grace_period": 33,
   "dead": 215,
   "hd_channels": 627,
   "languages": {
