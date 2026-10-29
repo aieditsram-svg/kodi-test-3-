@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 18:24 UTC",
-  "fingerprint": "e6b06164ba8e5fbe859814c48f055c55",
+  "updated_at": "2026-10-29 19:20 UTC",
+  "fingerprint": "c910b5a3c41de283634209cdacf36f3e",
   "total": 1657,
-  "working": 1416,
-  "in_grace_period": 24,
-  "dead": 241,
-  "hd_channels": 627,
+  "working": 1417,
+  "in_grace_period": 19,
+  "dead": 240,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 79,
-      "hd": 41
+      "working": 81,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 31,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 574,
-      "hd": 239
+      "working": 573,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -340,11 +340,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -388,6 +383,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
@@ -1033,11 +1033,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
