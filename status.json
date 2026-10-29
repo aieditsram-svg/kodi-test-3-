@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 22:36 UTC",
-  "fingerprint": "ec8a1f0af5793fd18efaef133150ee3d",
+  "updated_at": "2026-10-29 23:13 UTC",
+  "fingerprint": "085746cad5c8c78ac8290cd9ac8c141e",
   "total": 1657,
-  "working": 1413,
-  "in_grace_period": 8,
-  "dead": 244,
-  "hd_channels": 630,
+  "working": 1417,
+  "in_grace_period": 11,
+  "dead": 240,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 78,
+      "working": 80,
       "hd": 41
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 124,
-      "hd": 60
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 575,
-      "hd": 239
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -94,13 +94,13 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 127,
+      "working": 128,
       "hd": 58
     },
     "Urdu": {
       "total": 16,
-      "working": 14,
-      "hd": 6
+      "working": 15,
+      "hd": 7
     }
   },
   "dead_channels": [
@@ -1080,11 +1080,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "R Plus Gold (576p)",
-      "url": "https://fta.ektv.in/live/198/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Anmol TV (576p)",
       "url": "https://fta.ektv.in/live/256/master.m3u8",
       "reason": "HTTP 404"
@@ -1102,11 +1097,6 @@
     {
       "name": "Anmol Cinema (576p)",
       "url": "https://fta.ektv.in/live/271/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Subhavaartha TV (576p)",
-      "url": "https://fta.ektv.in/live/301/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1235,18 +1225,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "4TV News (576p)",
-      "url": "https://fta.ektv.in/live/647/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "R Plus (576p)",
-      "url": "https://fta.ektv.in/live/662/master.m3u8",
       "reason": "HTTP 404"
     },
     {
