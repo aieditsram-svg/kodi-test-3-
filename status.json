@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 09:11 UTC",
-  "fingerprint": "8b8526dd2ae91b5d114596fc751e8624",
+  "updated_at": "2026-10-29 09:56 UTC",
+  "fingerprint": "307ffb858c017bc3993b402369e2f463",
   "total": 1657,
   "working": 1450,
-  "in_grace_period": 13,
+  "in_grace_period": 11,
   "dead": 207,
-  "hd_channels": 629,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 579,
-      "hd": 238
+      "working": 580,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 31,
-      "working": 23,
+      "working": 22,
       "hd": 9
     },
     "Other": {
@@ -367,11 +367,6 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1092,6 +1087,11 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Odia (576p)",
+      "url": "https://fta.ektv.in/live/384/master.m3u8",
       "reason": "HTTP 404"
     },
     {
