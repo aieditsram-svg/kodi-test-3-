@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 09:56 UTC",
-  "fingerprint": "307ffb858c017bc3993b402369e2f463",
+  "updated_at": "2026-10-29 10:34 UTC",
+  "fingerprint": "f22b30713556220ca36544273ad62657",
   "total": 1657,
-  "working": 1450,
-  "in_grace_period": 11,
-  "dead": 207,
-  "hd_channels": 630,
+  "working": 1451,
+  "in_grace_period": 14,
+  "dead": 206,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 83,
+      "working": 84,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 580,
-      "hd": 239
+      "working": 581,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 3,
-      "hd": 2
+      "working": 2,
+      "hd": 1
     },
     "Malayalam": {
       "total": 113,
@@ -128,6 +128,11 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Chardikla Time TV (1080p)",
@@ -255,6 +260,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
+    },
+    {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
       "reason": "HTTP 404"
@@ -345,11 +355,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "APN (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -363,11 +368,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -488,11 +488,6 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
