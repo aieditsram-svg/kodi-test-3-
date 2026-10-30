@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30 09:52 UTC",
-  "fingerprint": "66f6742e5e3d29c4413d9fd4c51673b7",
+  "updated_at": "2026-10-30 10:31 UTC",
+  "fingerprint": "b8f586f524763fd6f895d169e2cc3873",
   "total": 1655,
-  "working": 1438,
-  "in_grace_period": 74,
-  "dead": 217,
-  "hd_channels": 600,
+  "working": 1444,
+  "in_grace_period": 80,
+  "dead": 211,
+  "hd_channels": 604,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 8
+      "hd": 9
     },
     "Bengali": {
       "total": 113,
-      "working": 82,
-      "hd": 41
+      "working": 83,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 31,
       "working": 29,
-      "hd": 12
+      "hd": 10
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 61
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 572,
-      "hd": 225
+      "working": 576,
+      "hd": 234
     },
     "Kannada": {
       "total": 70,
@@ -55,22 +55,22 @@
     "Malayalam": {
       "total": 113,
       "working": 98,
-      "hd": 42
+      "hd": 38
     },
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 1
+      "hd": 2
     },
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 9
+      "hd": 10
     },
     "Other": {
       "total": 19,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
-      "hd": 50
+      "working": 126,
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -95,12 +95,12 @@
     "Telugu": {
       "total": 171,
       "working": 138,
-      "hd": 58
+      "hd": 55
     },
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 5
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -130,6 +130,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Ayush TV (360p) [Not 24/7]",
       "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
@@ -147,7 +152,7 @@
     {
       "name": "DD National HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Dharsan TV (720p)",
@@ -395,38 +400,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -457,11 +437,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -763,11 +738,6 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
