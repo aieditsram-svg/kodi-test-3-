@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 22:15 UTC",
-  "fingerprint": "e6189885b42e1019801d73fa3e761dfd",
+  "updated_at": "2026-10-30 22:49 UTC",
+  "fingerprint": "38e53d7b614def8741483ac79a0dfa55",
   "total": 1655,
-  "working": 1432,
+  "working": 1433,
   "in_grace_period": 9,
-  "dead": 223,
+  "dead": 222,
   "hd_channels": 626,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 573,
+      "working": 574,
       "hd": 238
     },
     "Kannada": {
@@ -405,18 +405,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
