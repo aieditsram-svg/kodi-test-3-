@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 02:11 UTC",
-  "fingerprint": "f58a71f29ea5db6b6e4a950e3cfaad77",
+  "updated_at": "2026-10-30 02:54 UTC",
+  "fingerprint": "90a1f8379c9b74d9653e66f41788d4aa",
   "total": 1655,
-  "working": 1419,
-  "in_grace_period": 14,
-  "dead": 236,
+  "working": 1418,
+  "in_grace_period": 19,
+  "dead": 237,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -24,7 +24,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 3,
+      "working": 2,
       "hd": 0
     },
     "English": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 577,
+      "working": 575,
       "hd": 238
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 128,
+      "working": 129,
       "hd": 58
     },
     "Urdu": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -220,11 +225,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -238,6 +238,11 @@
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "INH 24x7 (360p)",
+      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
