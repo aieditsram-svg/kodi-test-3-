@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-30 10:31 UTC",
-  "fingerprint": "b8f586f524763fd6f895d169e2cc3873",
+  "updated_at": "2026-10-30 11:12 UTC",
+  "fingerprint": "e0b429d09adbdb4c932dbfdf8362f1b0",
   "total": 1655,
   "working": 1444,
-  "in_grace_period": 80,
+  "in_grace_period": 92,
   "dead": 211,
   "hd_channels": 604,
   "languages": {
@@ -147,7 +147,7 @@
     {
       "name": "Chardikla Time TV (1080p)",
       "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "DD National HD (576p)",
