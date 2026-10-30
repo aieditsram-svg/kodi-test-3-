@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 12:23 UTC",
-  "fingerprint": "7db1f9d6b80d3eb0e330be1c05e36f45",
+  "updated_at": "2026-10-30 13:23 UTC",
+  "fingerprint": "c5a3b6d560ff9e7700c3a2ac7cf11e36",
   "total": 1655,
-  "working": 1439,
-  "in_grace_period": 16,
-  "dead": 216,
-  "hd_channels": 630,
+  "working": 1436,
+  "in_grace_period": 15,
+  "dead": 219,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 165,
-      "working": 129,
+      "working": 128,
       "hd": 61
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 576,
+      "working": 575,
       "hd": 240
     },
     "Kannada": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 147,
+      "working": 146,
       "hd": 72
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
-      "hd": 57
+      "working": 136,
+      "hd": 58
     },
     "Urdu": {
       "total": 16,
@@ -220,6 +220,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -263,6 +268,11 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 429"
     },
     {
       "name": "MTV HD (396p)",
@@ -423,6 +433,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -765,11 +780,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1057,6 +1067,11 @@
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 403"
     },
     {
