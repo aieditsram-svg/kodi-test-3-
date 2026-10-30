@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30 08:17 UTC",
-  "fingerprint": "31fceb6d5143653b1f9ea611a970c7aa",
+  "updated_at": "2026-10-30 09:06 UTC",
+  "fingerprint": "d06f0bd31c7615ef357ec9768ad0a2dc",
   "total": 1655,
-  "working": 1442,
-  "in_grace_period": 72,
-  "dead": 213,
-  "hd_channels": 605,
+  "working": 1439,
+  "in_grace_period": 11,
+  "dead": 216,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 9
+      "hd": 12
     },
     "Bengali": {
       "total": 113,
-      "working": 83,
-      "hd": 41
+      "working": 82,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 31,
       "working": 29,
-      "hd": 12
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 61
+      "hd": 62
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 575,
-      "hd": 227
+      "working": 574,
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -60,17 +60,17 @@
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 1
+      "hd": 2
     },
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 9
+      "hd": 10
     },
     "Other": {
       "total": 19,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 50
+      "hd": 51
     },
     "Santali": {
       "total": 1,
@@ -90,17 +90,17 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 69
+      "hd": 72
     },
     "Telugu": {
       "total": 171,
-      "working": 138,
+      "working": 137,
       "hd": 58
     },
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 5
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -218,6 +218,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -415,6 +420,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -423,11 +433,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -442,6 +447,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Disha TV (396p)",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -748,6 +758,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
