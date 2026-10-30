@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 21:07 UTC",
-  "fingerprint": "c9573bf88d33c05a0bfe77da6733faed",
+  "updated_at": "2026-10-30 21:40 UTC",
+  "fingerprint": "92c05dc6ad31f56b4d3750253fcdd593",
   "total": 1655,
   "working": 1433,
-  "in_grace_period": 13,
+  "in_grace_period": 5,
   "dead": 222,
-  "hd_channels": 628,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 684,
       "working": 572,
-      "hd": 240
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -595,6 +595,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Swastik TV (720p)",
+      "url": "https://server.playontv.in/swastiktv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
@@ -783,11 +788,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
