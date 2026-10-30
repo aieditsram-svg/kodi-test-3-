@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 01:21 UTC",
-  "fingerprint": "33738672a17a613ae2c58d9e2913fb34",
+  "updated_at": "2026-10-30 02:11 UTC",
+  "fingerprint": "f58a71f29ea5db6b6e4a950e3cfaad77",
   "total": 1655,
-  "working": 1420,
-  "in_grace_period": 6,
-  "dead": 235,
+  "working": 1419,
+  "in_grace_period": 14,
+  "dead": 236,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 578,
+      "working": 577,
       "hd": 238
     },
     "Kannada": {
@@ -242,7 +242,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -393,6 +393,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
