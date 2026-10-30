@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30 07:21 UTC",
-  "fingerprint": "6c5d53b5513dc181c68e27d955bb9492",
+  "updated_at": "2026-10-30 08:17 UTC",
+  "fingerprint": "31fceb6d5143653b1f9ea611a970c7aa",
   "total": 1655,
-  "working": 1444,
-  "in_grace_period": 11,
-  "dead": 211,
-  "hd_channels": 633,
+  "working": 1442,
+  "in_grace_period": 72,
+  "dead": 213,
+  "hd_channels": 605,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 12
+      "hd": 9
     },
     "Bengali": {
       "total": 113,
       "working": 83,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
       "working": 29,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 577,
-      "hd": 241
+      "working": 575,
+      "hd": 227
     },
     "Kannada": {
       "total": 70,
@@ -60,17 +60,17 @@
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 2
+      "hd": 1
     },
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 19,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 51
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 72
+      "hd": 69
     },
     "Telugu": {
       "total": 171,
@@ -100,7 +100,7 @@
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 6
+      "hd": 5
     }
   },
   "dead_channels": [
@@ -400,9 +400,24 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -738,11 +753,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
