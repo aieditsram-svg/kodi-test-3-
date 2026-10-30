@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 15:09 UTC",
-  "fingerprint": "16af3d06c2e7549674bde8e615f5c953",
+  "updated_at": "2026-10-30 15:54 UTC",
+  "fingerprint": "293bed48d6a456a25e7f6f91453be954",
   "total": 1655,
-  "working": 1440,
-  "in_grace_period": 20,
-  "dead": 215,
+  "working": 1441,
+  "in_grace_period": 22,
+  "dead": 214,
   "hd_channels": 629,
   "languages": {
     "Assamese": {
@@ -24,7 +24,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 2,
+      "working": 3,
       "hd": 0
     },
     "English": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 575,
+      "working": 576,
       "hd": 240
     },
     "Kannada": {
@@ -238,11 +238,6 @@
       "name": "Harvest TV Keralam (720p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "INH 24x7 (360p)",
-      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Jonack TV (360p) [Not 24/7]",
@@ -450,6 +445,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -567,12 +567,7 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Mahimai TV (576p)",
@@ -1070,11 +1065,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -1132,6 +1122,11 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
