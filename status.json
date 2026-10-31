@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 04:53 UTC",
-  "fingerprint": "cafe0f76c69d46f0639efe07bc9a3265",
+  "updated_at": "2026-10-31 05:25 UTC",
+  "fingerprint": "3a20335c788c5b907ff511c5e0a3954a",
   "total": 1677,
-  "working": 1454,
-  "in_grace_period": 18,
-  "dead": 223,
-  "hd_channels": 630,
+  "working": 1451,
+  "in_grace_period": 5,
+  "dead": 226,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 585,
-      "hd": 238
+      "working": 584,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -64,7 +64,7 @@
     },
     "Nepali": {
       "total": 5,
-      "working": 5,
+      "working": 2,
       "hd": 1
     },
     "Odia": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
+      "working": 125,
       "hd": 51
     },
     "Santali": {
@@ -255,6 +255,11 @@
       "reason": "HTTP 451"
     },
     {
+      "name": "Nepal 1 (396p)",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
       "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8",
       "reason": "HTTP 451"
@@ -385,6 +390,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nepal 1 (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -393,11 +403,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines (576p)",
@@ -412,6 +417,11 @@
     {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -770,6 +780,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -1080,11 +1095,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -1162,6 +1172,11 @@
     {
       "name": "DD Kashir (576p)",
       "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Nepal 1 (576p)",
+      "url": "https://fta.ektv.in/live/380/master.m3u8",
       "reason": "HTTP 404"
     },
     {
