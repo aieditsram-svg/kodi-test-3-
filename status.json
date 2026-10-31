@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 22:15 UTC",
-  "fingerprint": "19eab90a11f088284ae86eb65f2249fd",
+  "updated_at": "2026-10-31 22:46 UTC",
+  "fingerprint": "ecc2403fe4cc747955c918a033796785",
   "total": 1677,
-  "working": 1454,
-  "in_grace_period": 2,
-  "dead": 223,
-  "hd_channels": 628,
+  "working": 1456,
+  "in_grace_period": 4,
+  "dead": 221,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 590,
-      "hd": 238
+      "working": 592,
+      "hd": 237
     },
     "Kannada": {
       "total": 70,
@@ -415,19 +415,9 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -542,12 +532,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "reason": "HTTP 403"
     },
     {
       "name": "Nickelodeon (576p)",
