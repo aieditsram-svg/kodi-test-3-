@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 04:13 UTC",
-  "fingerprint": "8955882476d48a4affdf399c70100e09",
+  "updated_at": "2026-10-31 04:53 UTC",
+  "fingerprint": "cafe0f76c69d46f0639efe07bc9a3265",
   "total": 1677,
-  "working": 1455,
+  "working": 1454,
   "in_grace_period": 18,
-  "dead": 222,
+  "dead": 223,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 114,
       "working": 81,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 586,
-      "hd": 239
+      "working": 585,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -395,6 +395,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
@@ -437,6 +442,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -753,11 +763,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
