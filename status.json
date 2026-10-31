@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 22:46 UTC",
-  "fingerprint": "ecc2403fe4cc747955c918a033796785",
+  "updated_at": "2026-10-31 23:16 UTC",
+  "fingerprint": "57c4791763b063dc1284dfe0320dc2d5",
   "total": 1677,
-  "working": 1456,
-  "in_grace_period": 4,
-  "dead": 221,
-  "hd_channels": 627,
+  "working": 1455,
+  "in_grace_period": 1,
+  "dead": 222,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 592,
-      "hd": 237
+      "working": 591,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -132,6 +132,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -532,12 +537,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 403"
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
