@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 15:20 UTC",
-  "fingerprint": "3ff020e6b84f9b5b9f5fda80268f71a8",
+  "updated_at": "2026-10-31 15:54 UTC",
+  "fingerprint": "767d806722007b490b5b0327fbc32fb7",
   "total": 1677,
-  "working": 1452,
-  "in_grace_period": 9,
-  "dead": 225,
+  "working": 1455,
+  "in_grace_period": 8,
+  "dead": 222,
   "hd_channels": 633,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 81,
+      "working": 80,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 587,
+      "working": 591,
       "hd": 241
     },
     "Kannada": {
@@ -430,16 +430,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -467,11 +457,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,14 +760,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
