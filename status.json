@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 20:40 UTC",
-  "fingerprint": "bc20b523ff318354d3b49a6192486e65",
+  "updated_at": "2026-10-31 21:13 UTC",
+  "fingerprint": "4a28b4a3bd23f150ff6a7a084b8eedbf",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 5,
-  "dead": 224,
-  "hd_channels": 628,
+  "working": 1456,
+  "in_grace_period": 9,
+  "dead": 221,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
-      "hd": 238
+      "working": 590,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 97,
+      "working": 98,
       "hd": 41
     },
     "Marathi": {
@@ -138,11 +138,6 @@
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Awaaz India TV (720p) [Not 24/7]",
-      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Ayush TV (360p) [Not 24/7]",
@@ -258,11 +253,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "KCL TV (720p)",
@@ -418,11 +408,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -582,7 +567,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
