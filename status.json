@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 13:45 UTC",
-  "fingerprint": "19d74f077165569d18cf830db8e86855",
+  "updated_at": "2026-10-31 14:20 UTC",
+  "fingerprint": "ed54d0139931bf2cdfff7760636e3f23",
   "total": 1677,
-  "working": 1455,
-  "in_grace_period": 13,
-  "dead": 222,
-  "hd_channels": 635,
+  "working": 1456,
+  "in_grace_period": 15,
+  "dead": 221,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 81,
+      "working": 82,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
-      "hd": 242
+      "working": 589,
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
@@ -755,11 +755,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -1060,6 +1055,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -1152,11 +1152,6 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
