@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 07:37 UTC",
-  "fingerprint": "b535a0ddcc0fec7835b10dac7821d1db",
+  "updated_at": "2026-10-31 08:22 UTC",
+  "fingerprint": "a0071f9234615bcc8342cd9ff255a1b0",
   "total": 1677,
-  "working": 1457,
-  "in_grace_period": 16,
-  "dead": 220,
+  "working": 1455,
+  "in_grace_period": 13,
+  "dead": 222,
   "hd_channels": 632,
   "languages": {
     "Assamese": {
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 31,
-      "working": 23,
+      "working": 21,
       "hd": 10
     },
     "Other": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -205,6 +210,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Ekamra Bharat Odia (400p)",
+      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "ET Now (720p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8",
       "reason": "HTTP 403"
@@ -265,6 +275,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "HTTP 403"
@@ -273,6 +288,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "One Paschima (400p)",
+      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -375,11 +395,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Manoranjan Grand (576p)",
-      "url": "https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -405,8 +420,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -418,11 +433,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -847,7 +857,7 @@
     {
       "name": "Jalsha Movies HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Movies Now HD (1080p)",
