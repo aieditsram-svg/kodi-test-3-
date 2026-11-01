@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 14:06 UTC",
-  "fingerprint": "142f24c1604ce1dca953cf5ac7cd593d",
+  "updated_at": "2026-11-01 14:39 UTC",
+  "fingerprint": "9c07705180dcddd04c56ffc7cc430913",
   "total": 1672,
-  "working": 1459,
-  "in_grace_period": 16,
-  "dead": 213,
-  "hd_channels": 627,
+  "working": 1457,
+  "in_grace_period": 8,
+  "dead": 215,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 82,
+      "working": 81,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
+      "working": 590,
       "hd": 239
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 147,
-      "hd": 71
+      "working": 148,
+      "hd": 72
     },
     "Telugu": {
       "total": 170,
@@ -285,11 +285,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -420,14 +415,24 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -562,7 +567,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -738,6 +743,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
