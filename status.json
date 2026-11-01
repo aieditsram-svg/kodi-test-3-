@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 19:34 UTC",
-  "fingerprint": "d0e6a2601eaae52d9db1cdfab6c1f998",
+  "updated_at": "2026-11-01 20:07 UTC",
+  "fingerprint": "2d8762bc3d5359738bedde78a7abce6a",
   "total": 1672,
-  "working": 1459,
-  "in_grace_period": 9,
-  "dead": 213,
-  "hd_channels": 627,
+  "working": 1458,
+  "in_grace_period": 10,
+  "dead": 214,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 84,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 591,
-      "hd": 239
+      "working": 592,
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 145,
-      "hd": 71
+      "working": 144,
+      "hd": 70
     },
     "Telugu": {
       "total": 170,
-      "working": 140,
+      "working": 139,
       "hd": 58
     },
     "Urdu": {
@@ -210,6 +210,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -263,6 +268,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raj Musix Tamil (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj TV (1080p)",
@@ -427,11 +437,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
