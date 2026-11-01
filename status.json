@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-01 19:00 UTC",
-  "fingerprint": "617691701810a7ceb3b9a3367174ff64",
+  "updated_at": "2026-11-01 19:34 UTC",
+  "fingerprint": "d0e6a2601eaae52d9db1cdfab6c1f998",
   "total": 1672,
   "working": 1459,
-  "in_grace_period": 16,
+  "in_grace_period": 9,
   "dead": 213,
   "hd_channels": 627,
   "languages": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 588,
-      "hd": 238
+      "working": 591,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 148,
-      "hd": 72
+      "working": 145,
+      "hd": 71
     },
     "Telugu": {
       "total": 170,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -270,6 +265,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Raj TV (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -385,23 +385,23 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -735,11 +735,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -763,11 +758,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1035,6 +1025,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -1053,6 +1048,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Raj TV (1080p)",
+      "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8",
+      "reason": "HTTP 504"
     },
     {
       "name": "FashionTV (576p)",
