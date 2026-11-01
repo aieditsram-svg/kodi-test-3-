@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01 09:48 UTC",
-  "fingerprint": "72262b1007470cb006f1f90506863bc1",
+  "updated_at": "2026-11-01 10:23 UTC",
+  "fingerprint": "ef5ad2712c76292f21deca1a17a5a3aa",
   "total": 1672,
-  "working": 1457,
-  "in_grace_period": 6,
-  "dead": 215,
+  "working": 1459,
+  "in_grace_period": 12,
+  "dead": 213,
   "hd_channels": 627,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
+      "working": 592,
       "hd": 238
     },
     "Kannada": {
@@ -272,7 +272,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -422,6 +422,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -995,11 +1000,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Colors HD (1080p)",
-      "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
@@ -1033,16 +1033,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9XM (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
