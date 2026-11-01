@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 09:09 UTC",
-  "fingerprint": "9e144274cb7e73be87daf1f8da6c3165",
+  "updated_at": "2026-11-01 09:48 UTC",
+  "fingerprint": "72262b1007470cb006f1f90506863bc1",
   "total": 1672,
-  "working": 1459,
-  "in_grace_period": 10,
-  "dead": 213,
-  "hd_channels": 628,
+  "working": 1457,
+  "in_grace_period": 6,
+  "dead": 215,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
-      "hd": 239
+      "working": 590,
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -395,11 +395,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -422,11 +417,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -750,6 +740,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "StarPlus HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Plus/index.m3u8",
       "reason": "URLError"
@@ -1000,6 +995,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Colors HD (1080p)",
+      "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
@@ -1033,6 +1033,16 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
