@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-01 10:59 UTC",
-  "fingerprint": "351987aa723c2a25b086dc3646743c00",
+  "updated_at": "2026-11-01 11:26 UTC",
+  "fingerprint": "52ea6ae8c51e0529427d34371b884c17",
   "total": 1672,
   "working": 1460,
-  "in_grace_period": 13,
+  "in_grace_period": 14,
   "dead": 212,
   "hd_channels": 628,
   "languages": {
@@ -390,6 +390,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -738,11 +743,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
