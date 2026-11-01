@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01 20:39 UTC",
-  "fingerprint": "83bd1e462a2e778aa9ba6a3a39cf6cbd",
+  "updated_at": "2026-11-01 21:14 UTC",
+  "fingerprint": "0993267ba0a7e9ea156416120d8ed936",
   "total": 1672,
-  "working": 1458,
-  "in_grace_period": 6,
-  "dead": 214,
+  "working": 1455,
+  "in_grace_period": 5,
+  "dead": 217,
   "hd_channels": 624,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 84,
+      "working": 83,
       "hd": 42
     },
     "Bhojpuri": {
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Hindi": {
       "total": 696,
-      "working": 591,
+      "working": 589,
       "hd": 238
     },
     "Kannada": {
@@ -74,8 +74,8 @@
     },
     "Other": {
       "total": 19,
-      "working": 16,
-      "hd": 12
+      "working": 15,
+      "hd": 11
     },
     "Punjabi": {
       "total": 132,
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -275,8 +280,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Raj Musix Tamil (1080p)",
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "name": "Peques TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Raj Digital Plus (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -525,6 +535,11 @@
       "reason": "HTTP 456"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -558,11 +573,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Capital Gujarat (1080p)",
-      "url": "https://newscapital.com/hls/main4/stream.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -768,6 +778,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
