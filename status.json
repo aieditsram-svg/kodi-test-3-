@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 15:13 UTC",
-  "fingerprint": "9a878028e7bd7e9441cc3c37317db76f",
+  "updated_at": "2026-11-01 15:43 UTC",
+  "fingerprint": "8d846ba0e90963bdf8b6658a32c1afa1",
   "total": 1672,
-  "working": 1460,
-  "in_grace_period": 11,
-  "dead": 212,
-  "hd_channels": 629,
+  "working": 1461,
+  "in_grace_period": 8,
+  "dead": 211,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 82,
+      "working": 83,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 696,
       "working": 591,
-      "hd": 239
+      "hd": 240
     },
     "Kannada": {
       "total": 69,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -390,14 +385,14 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines (576p)",
@@ -432,6 +427,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -513,6 +513,11 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -725,19 +730,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
