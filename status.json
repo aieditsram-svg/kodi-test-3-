@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 01:23 UTC",
-  "fingerprint": "bf7b8ab1127e0ce4d15a3b8f60f7d3fa",
+  "updated_at": "2026-11-01 02:15 UTC",
+  "fingerprint": "27a37677aad9300189c68714e50edc28",
   "total": 1672,
-  "working": 1454,
+  "working": 1456,
   "in_grace_period": 28,
-  "dead": 218,
-  "hd_channels": 626,
+  "dead": 216,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
-      "hd": 238
+      "working": 592,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -132,11 +132,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -748,11 +743,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
