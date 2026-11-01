@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 22:49 UTC",
-  "fingerprint": "3dd44b474fab1a7faa5a906051056bb9",
+  "updated_at": "2026-11-01 23:18 UTC",
+  "fingerprint": "f938aff01d06e2e6afb5b7eba91e9140",
   "total": 1672,
-  "working": 1457,
-  "in_grace_period": 8,
-  "dead": 215,
-  "hd_channels": 625,
+  "working": 1454,
+  "in_grace_period": 35,
+  "dead": 218,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 83,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 60
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
-      "hd": 238
+      "working": 587,
+      "hd": 232
     },
     "Kannada": {
       "total": 69,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 45,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 5,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 50
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 179,
       "working": 145,
-      "hd": 70
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
       "working": 139,
-      "hd": 58
+      "hd": 57
     },
     "Urdu": {
       "total": 17,
@@ -405,6 +405,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
@@ -423,6 +428,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1027,7 +1037,7 @@
     {
       "name": "India Talkies (360p)",
       "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
@@ -1063,6 +1073,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
