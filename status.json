@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01 21:14 UTC",
-  "fingerprint": "0993267ba0a7e9ea156416120d8ed936",
+  "updated_at": "2026-11-01 21:45 UTC",
+  "fingerprint": "b17b495138db379910f162db4cb7e49a",
   "total": 1672,
-  "working": 1455,
-  "in_grace_period": 5,
-  "dead": 217,
+  "working": 1456,
+  "in_grace_period": 7,
+  "dead": 216,
   "hd_channels": 624,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
+      "working": 590,
       "hd": 238
     },
     "Kannada": {
@@ -277,7 +277,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peques TV (720p)",
@@ -422,11 +422,6 @@
     {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
