@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 11:58 UTC",
-  "fingerprint": "bbcadf93330941cd9ab8af80f91cb75d",
+  "updated_at": "2026-11-01 12:35 UTC",
+  "fingerprint": "6a9865ff0c029739c8f4a2df7e17aff0",
   "total": 1672,
-  "working": 1455,
-  "in_grace_period": 8,
-  "dead": 217,
-  "hd_channels": 625,
+  "working": 1457,
+  "in_grace_period": 7,
+  "dead": 215,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
-      "hd": 237
+      "working": 592,
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -410,19 +410,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
