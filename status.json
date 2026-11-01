@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-01 20:07 UTC",
-  "fingerprint": "2d8762bc3d5359738bedde78a7abce6a",
+  "updated_at": "2026-11-01 20:39 UTC",
+  "fingerprint": "83bd1e462a2e778aa9ba6a3a39cf6cbd",
   "total": 1672,
   "working": 1458,
-  "in_grace_period": 10,
+  "in_grace_period": 6,
   "dead": 214,
   "hd_channels": 624,
   "languages": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 592,
+      "working": 591,
       "hd": 238
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 144,
+      "working": 145,
       "hd": 70
     },
     "Telugu": {
@@ -270,13 +270,13 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Raj Musix Tamil (1080p)",
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Raj TV (1080p)",
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+      "name": "Raj Musix Tamil (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -402,6 +402,11 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1053,11 +1058,6 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Raj TV (1080p)",
-      "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8",
-      "reason": "HTTP 504"
     },
     {
       "name": "FashionTV (576p)",
