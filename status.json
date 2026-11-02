@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 03:59 UTC",
-  "fingerprint": "50174e7919f7647baa6b496da2b84e6b",
+  "updated_at": "2026-11-02 04:51 UTC",
+  "fingerprint": "bff54c76c9a59e4843f538540cf0ad23",
   "total": 1675,
-  "working": 1468,
-  "in_grace_period": 12,
-  "dead": 207,
+  "working": 1467,
+  "in_grace_period": 13,
+  "dead": 208,
   "hd_channels": 628,
   "languages": {
     "Assamese": {
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 84,
-      "hd": 42
+      "working": 83,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 129,
-      "hd": 60
+      "working": 130,
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 593,
+      "working": 595,
       "hd": 238
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 148,
-      "hd": 72
+      "working": 146,
+      "hd": 71
     },
     "Telugu": {
       "total": 170,
@@ -268,6 +268,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raj TV (1080p)",
+      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -492,7 +497,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -705,19 +715,9 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -730,9 +730,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
+      "name": "Anand Wari TV (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -1023,6 +1023,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Raj TV (1080p)",
+      "url": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8",
+      "reason": "HTTP 504"
     },
     {
       "name": "FashionTV (576p)",
