@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-02 15:30 UTC",
-  "fingerprint": "4d2b376982fe5844df5d6c8c788683cb",
+  "updated_at": "2026-11-02 16:30 UTC",
+  "fingerprint": "9d5a4e965c44529b7aaf645ec2acf857",
   "total": 1675,
   "working": 1350,
-  "in_grace_period": 12,
+  "in_grace_period": 20,
   "dead": 325,
   "hd_channels": 576,
   "languages": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
+      "working": 554,
       "hd": 221
     },
     "Kannada": {
@@ -94,12 +94,12 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
+      "working": 130,
       "hd": 55
     },
     "Urdu": {
       "total": 17,
-      "working": 16,
+      "working": 14,
       "hd": 5
     }
   },
@@ -253,11 +253,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -760,11 +755,6 @@
       "reason": "empty HLS manifest"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -945,6 +935,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Munsif TV (576p)",
+      "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Goldmines Action (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
       "reason": "HTTP 403"
@@ -1013,6 +1008,11 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Munsif TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Win TV (576p)",
