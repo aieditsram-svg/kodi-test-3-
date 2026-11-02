@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 01:27 UTC",
-  "fingerprint": "d2f791c3798101581c2a00f0017acb1c",
+  "updated_at": "2026-11-02 02:21 UTC",
+  "fingerprint": "5264f12807a4dcfc6ddf1d4ccf8a40f7",
   "total": 1675,
-  "working": 1433,
-  "in_grace_period": 12,
-  "dead": 242,
-  "hd_channels": 604,
+  "working": 1432,
+  "in_grace_period": 11,
+  "dead": 243,
+  "hd_channels": 603,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 582,
+      "working": 581,
       "hd": 229
     },
     "Kannada": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 179,
       "working": 143,
-      "hd": 69
+      "hd": 68
     },
     "Telugu": {
       "total": 170,
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -272,7 +277,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -537,7 +542,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "NH BollyGold (1080p)",
