@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-02 02:21 UTC",
-  "fingerprint": "5264f12807a4dcfc6ddf1d4ccf8a40f7",
+  "updated_at": "2026-11-02 03:11 UTC",
+  "fingerprint": "84ff5ef84dd12e8ebe331f71528a91fa",
   "total": 1675,
   "working": 1432,
-  "in_grace_period": 11,
+  "in_grace_period": 10,
   "dead": 243,
   "hd_channels": 603,
   "languages": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 581,
-      "hd": 229
+      "working": 580,
+      "hd": 228
     },
     "Kannada": {
       "total": 69,
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 179,
       "working": 143,
-      "hd": 68
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 138,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -215,11 +215,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -277,7 +272,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -728,6 +723,11 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
