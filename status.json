@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03 05:22 UTC",
-  "fingerprint": "55f4f162464738ef9dcf6307b08eee76",
+  "updated_at": "2026-11-03 06:15 UTC",
+  "fingerprint": "1232063c8b38de4051b69e416cffcf79",
   "total": 1676,
-  "working": 1349,
-  "in_grace_period": 17,
-  "dead": 327,
+  "working": 1351,
+  "in_grace_period": 11,
+  "dead": 325,
   "hd_channels": 571,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 549,
+      "working": 551,
       "hd": 218
     },
     "Kannada": {
@@ -645,11 +645,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1213,11 +1208,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
