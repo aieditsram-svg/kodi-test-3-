@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 17:04 UTC",
-  "fingerprint": "885a1740d2d5b5d85c5ac53c6c6d5be1",
+  "updated_at": "2026-11-03 17:50 UTC",
+  "fingerprint": "7fdadbacb55cd91c1ee196cdec2eb8b9",
   "total": 1676,
-  "working": 1353,
-  "in_grace_period": 11,
-  "dead": 323,
-  "hd_channels": 577,
+  "working": 1348,
+  "in_grace_period": 10,
+  "dead": 328,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 75,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 550,
-      "hd": 221
+      "working": 546,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -337,7 +337,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -407,7 +407,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -640,13 +640,28 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -750,6 +765,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -832,7 +852,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sandesh News (576p)",
@@ -1118,6 +1138,11 @@
       "name": "Sangeet Bangla (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
