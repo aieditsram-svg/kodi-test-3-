@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 02:49 UTC",
-  "fingerprint": "742c82790596ebeb11960608272af99a",
+  "updated_at": "2026-11-03 03:34 UTC",
+  "fingerprint": "576a3118e5720602a8f0ba97f8212e6b",
   "total": 1676,
-  "working": 1353,
-  "in_grace_period": 19,
-  "dead": 323,
-  "hd_channels": 568,
+  "working": 1348,
+  "in_grace_period": 10,
+  "dead": 328,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 121,
-      "hd": 54
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
-      "hd": 218
+      "working": 549,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 30,
       "working": 21,
-      "hd": 9
+      "hd": 8
     },
     "Other": {
       "total": 20,
@@ -158,6 +158,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -635,6 +640,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -737,6 +747,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -853,6 +868,11 @@
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "MH One Movies (576p)",
@@ -1602,6 +1622,11 @@
     {
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
