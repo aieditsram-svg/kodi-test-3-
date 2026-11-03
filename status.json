@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 00:12 UTC",
-  "fingerprint": "4eabb3ac3c512e14148b5c11a49eea6a",
+  "updated_at": "2026-11-03 01:08 UTC",
+  "fingerprint": "7e89d009cd9fc83648bf6fd4b210c82d",
   "total": 1676,
-  "working": 1354,
-  "in_grace_period": 10,
-  "dead": 322,
-  "hd_channels": 572,
+  "working": 1353,
+  "in_grace_period": 13,
+  "dead": 323,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
-      "hd": 220
+      "working": 553,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -630,8 +630,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -927,7 +927,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "News Capital Gujarat (1080p)",
@@ -1148,6 +1148,11 @@
       "name": "MH One Dil Se (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONEDILSE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Rang (576p)",
