@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 20:14 UTC",
-  "fingerprint": "612768aed7781eb4975563f070813746",
+  "updated_at": "2026-11-03 20:57 UTC",
+  "fingerprint": "b4b0de22ea5db945f5c1d799223b3cd6",
   "total": 1676,
   "working": 1352,
   "in_grace_period": 8,
   "dead": 324,
-  "hd_channels": 576,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
-      "hd": 41
+      "working": 76,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 546,
+      "working": 547,
       "hd": 220
     },
     "Kannada": {
@@ -455,6 +455,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -645,8 +650,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -747,11 +752,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
