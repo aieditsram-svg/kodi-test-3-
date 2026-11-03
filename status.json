@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 06:15 UTC",
-  "fingerprint": "1232063c8b38de4051b69e416cffcf79",
+  "updated_at": "2026-11-03 07:27 UTC",
+  "fingerprint": "8c5212be0465d05e5aa642f57b3427ea",
   "total": 1676,
-  "working": 1351,
-  "in_grace_period": 11,
-  "dead": 325,
-  "hd_channels": 571,
+  "working": 1352,
+  "in_grace_period": 18,
+  "dead": 324,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
+      "working": 76,
       "hd": 41
     },
     "Bhojpuri": {
@@ -29,18 +29,18 @@
     },
     "English": {
       "total": 165,
-      "working": 121,
-      "hd": 55
+      "working": 122,
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
-      "working": 29,
-      "hd": 12
+      "working": 30,
+      "hd": 13
     },
     "Hindi": {
       "total": 697,
-      "working": 551,
-      "hd": 218
+      "working": 552,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 88,
+      "working": 87,
       "hd": 34
     },
     "Marathi": {
@@ -320,6 +320,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Madhimugam TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8",
       "reason": "HTTP 403"
@@ -407,11 +412,6 @@
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -645,6 +645,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -827,7 +832,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sandesh News (576p)",
@@ -858,11 +863,6 @@
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MH One Movies (576p)",
@@ -938,11 +938,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Capital Gujarat (1080p)",
-      "url": "https://newscapital.com/hls/main4/stream.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "News Nation 81 (1080p)",
@@ -1128,6 +1123,11 @@
       "name": "Hindi Khabar (576p) [Geo-blocked]",
       "url": "https://tvsen7.aynaott.com/HindiKhabar/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1607,11 +1607,6 @@
     {
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
