@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03 11:47 UTC",
-  "fingerprint": "cba4e097f0f7c8977a841a524fc13bfb",
+  "updated_at": "2026-11-03 12:38 UTC",
+  "fingerprint": "2d1b17d141c7342254461fad35a64c51",
   "total": 1676,
-  "working": 1357,
-  "in_grace_period": 13,
-  "dead": 319,
+  "working": 1356,
+  "in_grace_period": 18,
+  "dead": 320,
   "hd_channels": 578,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
+      "working": 76,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
+      "working": 552,
       "hd": 221
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -635,8 +635,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -825,6 +830,11 @@
       "reason": "HTTP 456"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Sandesh News (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -943,11 +953,6 @@
       "name": "ETV Telangana (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "INews (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/INews/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Vanitha TV (576p)",
