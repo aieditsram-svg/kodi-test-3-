@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 19:25 UTC",
-  "fingerprint": "55f2a3baef0aec0c1126545b19b55425",
+  "updated_at": "2026-11-03 20:14 UTC",
+  "fingerprint": "612768aed7781eb4975563f070813746",
   "total": 1676,
-  "working": 1351,
-  "in_grace_period": 9,
-  "dead": 325,
-  "hd_channels": 578,
+  "working": 1352,
+  "in_grace_period": 8,
+  "dead": 324,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
-      "hd": 42
+      "working": 77,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 547,
-      "hd": 221
+      "working": 546,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
@@ -645,6 +645,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -1115,11 +1120,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -1488,11 +1488,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "News Live (576p)",
