@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03 08:29 UTC",
-  "fingerprint": "ff78a204240915036f8871413e0a711a",
+  "updated_at": "2026-11-03 09:19 UTC",
+  "fingerprint": "737607f91f67ff355402be9c8ead53ec",
   "total": 1676,
-  "working": 1358,
-  "in_grace_period": 8,
-  "dead": 318,
+  "working": 1357,
+  "in_grace_period": 19,
+  "dead": 319,
   "hd_channels": 576,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 555,
-      "hd": 220
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 86,
       "hd": 34
     },
     "Marathi": {
@@ -448,6 +448,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
