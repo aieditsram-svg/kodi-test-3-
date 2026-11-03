@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 01:08 UTC",
-  "fingerprint": "7e89d009cd9fc83648bf6fd4b210c82d",
+  "updated_at": "2026-11-03 02:03 UTC",
+  "fingerprint": "4867cf71fdd4828ffe7b3f645352ee3c",
   "total": 1676,
   "working": 1353,
-  "in_grace_period": 13,
+  "in_grace_period": 15,
   "dead": 323,
-  "hd_channels": 573,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 553,
-      "hd": 222
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -927,7 +927,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "News Capital Gujarat (1080p)",
