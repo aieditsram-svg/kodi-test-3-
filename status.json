@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 21:16 UTC",
-  "fingerprint": "8e83cfb2c6bcc2394cdc71c9f08e3bc2",
+  "updated_at": "2026-11-04 21:59 UTC",
+  "fingerprint": "bc2169575d283a0f6e2443917e03f7fe",
   "total": 1675,
   "working": 1323,
-  "in_grace_period": 6,
+  "in_grace_period": 1,
   "dead": 352,
-  "hd_channels": 568,
+  "hd_channels": 567,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 118,
-      "hd": 54
+      "working": 117,
+      "hd": 53
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 545,
-      "hd": 217
+      "hd": 216
     },
     "Kannada": {
       "total": 69,
@@ -163,6 +163,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -665,19 +670,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
@@ -1207,6 +1202,11 @@
     {
       "name": "Bharat24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
