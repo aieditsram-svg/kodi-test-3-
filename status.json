@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 04:25 UTC",
-  "fingerprint": "00dbc27d24162f13d5a1e9533ee8b9c6",
+  "updated_at": "2026-11-04 05:23 UTC",
+  "fingerprint": "79f887179416946ba932340a948352d5",
   "total": 1675,
   "working": 1355,
-  "in_grace_period": 11,
+  "in_grace_period": 20,
   "dead": 320,
-  "hd_channels": 573,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 550,
-      "hd": 218
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -635,8 +635,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1435,11 +1435,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Aagaaz Times (1080p)",
-      "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -1588,6 +1583,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
