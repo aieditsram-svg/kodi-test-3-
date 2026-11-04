@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-04 01:07 UTC",
-  "fingerprint": "e5d2b84df1933e5f6bba43b4bc43cf18",
+  "updated_at": "2026-11-04 02:00 UTC",
+  "fingerprint": "af754312b86ceb1a9e2f331227bce108",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 10,
-  "dead": 321,
-  "hd_channels": 573,
+  "working": 1356,
+  "in_grace_period": 17,
+  "dead": 319,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 27,
-      "hd": 10
+      "hd": 8
     },
     "Bengali": {
       "total": 111,
-      "working": 73,
+      "working": 75,
       "hd": 39
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 552,
-      "hd": 220
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 140,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -245,11 +245,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -358,11 +353,6 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "R Plus (768p)",
-      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -1115,11 +1105,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1458,6 +1443,11 @@
       "name": "BHI Channel (720p)",
       "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Zee Tamil (576p) [Geo-blocked]",
+      "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
+      "reason": "HTTP 403"
     },
     {
       "name": "Punjabi Beats HD (720p)",
