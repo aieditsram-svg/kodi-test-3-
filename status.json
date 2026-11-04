@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04 21:59 UTC",
-  "fingerprint": "bc2169575d283a0f6e2443917e03f7fe",
+  "updated_at": "2026-11-04 22:42 UTC",
+  "fingerprint": "2edd39f03f95cd714a2bd4809eebe533",
   "total": 1675,
   "working": 1323,
-  "in_grace_period": 1,
+  "in_grace_period": 2,
   "dead": 352,
   "hd_channels": 567,
   "languages": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 545,
+      "working": 544,
       "hd": 216
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 120,
+      "working": 121,
       "hd": 55
     },
     "Urdu": {
@@ -253,11 +253,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1223,6 +1218,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
