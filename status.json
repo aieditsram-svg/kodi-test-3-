@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 11:34 UTC",
-  "fingerprint": "6073b2fd8a157147a87f84a2296755ce",
+  "updated_at": "2026-11-04 12:18 UTC",
+  "fingerprint": "c7f2b23a3806d20b5cdaa93cbebef249",
   "total": 1675,
-  "working": 1348,
-  "in_grace_period": 64,
-  "dead": 327,
-  "hd_channels": 549,
+  "working": 1347,
+  "in_grace_period": 11,
+  "dead": 328,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -30,22 +30,22 @@
     "English": {
       "total": 164,
       "working": 121,
-      "hd": 55
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
       "working": 30,
-      "hd": 12
+      "hd": 13
     },
     "Hindi": {
       "total": 695,
-      "working": 553,
-      "hd": 215
+      "working": 552,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
       "working": 52,
-      "hd": 21
+      "hd": 24
     },
     "Konkani": {
       "total": 3,
@@ -55,12 +55,12 @@
     "Malayalam": {
       "total": 114,
       "working": 87,
-      "hd": 30
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
       "working": 38,
-      "hd": 17
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -90,17 +90,17 @@
     "Tamil": {
       "total": 178,
       "working": 138,
-      "hd": 63
+      "hd": 69
     },
     "Telugu": {
       "total": 170,
       "working": 126,
-      "hd": 52
+      "hd": 55
     },
     "Urdu": {
       "total": 17,
       "working": 16,
-      "hd": 5
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -158,11 +158,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -341,8 +336,18 @@
     },
     {
       "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -645,8 +650,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -832,7 +837,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
