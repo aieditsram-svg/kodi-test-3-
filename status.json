@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 23:25 UTC",
-  "fingerprint": "507856d3a853bfd74f4fb276eaf07a46",
+  "updated_at": "2026-11-05 00:00 UTC",
+  "fingerprint": "5995f81ee1edef3273722b430d007bea",
   "total": 1675,
-  "working": 1328,
-  "in_grace_period": 9,
-  "dead": 347,
-  "hd_channels": 569,
+  "working": 1327,
+  "in_grace_period": 8,
+  "dead": 348,
+  "hd_channels": 567,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 76,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 544,
-      "hd": 216
+      "working": 543,
+      "hd": 215
     },
     "Kannada": {
       "total": 69,
@@ -337,7 +337,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -407,7 +407,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -747,6 +747,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1167,7 +1172,7 @@
     {
       "name": "Sarv Dharm Sangam (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Anand Wari TV (576p)",
