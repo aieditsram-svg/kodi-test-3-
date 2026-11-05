@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 00:52 UTC",
-  "fingerprint": "76933502bc26cced1f97a177d2ba81ac",
+  "updated_at": "2026-11-05 01:55 UTC",
+  "fingerprint": "aada54f6ff8861811b4b1db69e0b1e5b",
   "total": 1675,
   "working": 1324,
-  "in_grace_period": 7,
+  "in_grace_period": 9,
   "dead": 351,
-  "hd_channels": 567,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 118,
-      "hd": 54
+      "working": 119,
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 542,
-      "hd": 215
+      "working": 543,
+      "hd": 216
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 121,
+      "working": 120,
       "hd": 55
     },
     "Urdu": {
@@ -253,6 +253,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1197,11 +1202,6 @@
     {
       "name": "Bharat24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
