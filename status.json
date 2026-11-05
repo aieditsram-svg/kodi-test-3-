@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05 16:34 UTC",
-  "fingerprint": "a497ff3538f25f01e85196fff3973d84",
+  "updated_at": "2026-11-05 17:34 UTC",
+  "fingerprint": "5eb5391c07fcef38bfcf34a149fa4d4c",
   "total": 1675,
   "working": 1362,
-  "in_grace_period": 9,
+  "in_grace_period": 15,
   "dead": 313,
   "hd_channels": 576,
   "languages": {
@@ -168,6 +168,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -1213,11 +1218,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
