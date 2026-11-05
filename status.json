@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 06:28 UTC",
-  "fingerprint": "fde8a95454c2b82989ed5b4fd6b81982",
+  "updated_at": "2026-11-05 07:47 UTC",
+  "fingerprint": "91c86390a1d6fbb60de1a5b47080f9d9",
   "total": 1675,
-  "working": 1351,
-  "in_grace_period": 15,
-  "dead": 324,
-  "hd_channels": 572,
+  "working": 1354,
+  "in_grace_period": 18,
+  "dead": 321,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 544,
+      "working": 546,
       "hd": 218
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 33
+      "working": 88,
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 170,
       "working": 129,
-      "hd": 54
+      "hd": 55
     },
     "Urdu": {
       "total": 17,
@@ -260,11 +260,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
@@ -353,6 +348,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -925,11 +925,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1100,11 +1095,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Pravasi Channel (1080p)",
-      "url": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Prime9 News (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1258,11 +1248,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
