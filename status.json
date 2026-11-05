@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 10:38 UTC",
-  "fingerprint": "543dfb3f7013b60379ca281b31032e48",
+  "updated_at": "2026-11-05 11:30 UTC",
+  "fingerprint": "2e4f5797ea35fbf1d2a193fb28bfd090",
   "total": 1675,
-  "working": 1360,
-  "in_grace_period": 226,
-  "dead": 315,
+  "working": 1361,
+  "in_grace_period": 10,
+  "dead": 314,
   "hd_channels": 574,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
+      "working": 552,
       "hd": 219
     },
     "Kannada": {
@@ -618,11 +618,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
