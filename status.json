@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 19:05 UTC",
-  "fingerprint": "73d5052d2ddc628409924f49a0b21530",
+  "updated_at": "2026-11-05 19:54 UTC",
+  "fingerprint": "9d565640266676340fa2d2bdaf1ac62a",
   "total": 1675,
-  "working": 1364,
-  "in_grace_period": 9,
-  "dead": 311,
-  "hd_channels": 577,
+  "working": 1365,
+  "in_grace_period": 13,
+  "dead": 310,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 76,
-      "hd": 42
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
+      "working": 123,
       "hd": 56
     },
     "Gujarati": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 88,
-      "hd": 34
+      "working": 87,
+      "hd": 33
     },
     "Marathi": {
       "total": 45,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 118,
       "hd": 49
     },
     "Santali": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -765,6 +760,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -843,11 +843,6 @@
       "name": "MH One Shraddha (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mirror Now (720p)",
-      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Movie Punjab (720p)",
@@ -1367,7 +1362,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
