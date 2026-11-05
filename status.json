@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 05:30 UTC",
-  "fingerprint": "0b7a16697c79f88be4e76b7aa66fdf5f",
+  "updated_at": "2026-11-05 06:28 UTC",
+  "fingerprint": "fde8a95454c2b82989ed5b4fd6b81982",
   "total": 1675,
   "working": 1351,
-  "in_grace_period": 12,
+  "in_grace_period": 15,
   "dead": 324,
-  "hd_channels": 571,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -20,7 +20,7 @@
     "Bhojpuri": {
       "total": 32,
       "working": 27,
-      "hd": 9
+      "hd": 10
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 544,
-      "hd": 217
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
+      "working": 87,
       "hd": 33
     },
     "Marathi": {
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
-      "hd": 55
+      "working": 129,
+      "hd": 54
     },
     "Urdu": {
       "total": 17,
@@ -173,11 +173,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -263,6 +258,11 @@
       "name": "Bada Khabar (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bansal News (720p)",
@@ -545,6 +545,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -775,11 +780,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kalinga TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8",
       "reason": "HTTP 403"
@@ -838,11 +838,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -982,7 +977,7 @@
     {
       "name": "News Capital Market (1080p)",
       "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
-      "reason": "HTTP 502"
+      "reason": "TimeoutError"
     },
     {
       "name": "News Daily 24 (576p)",
@@ -1263,6 +1258,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
