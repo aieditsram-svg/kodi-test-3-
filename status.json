@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-05 19:54 UTC",
-  "fingerprint": "9d565640266676340fa2d2bdaf1ac62a",
+  "updated_at": "2026-11-05 20:33 UTC",
+  "fingerprint": "6119257eba882f6ea80b2ccbe4337475",
   "total": 1675,
-  "working": 1365,
-  "in_grace_period": 13,
-  "dead": 310,
-  "hd_channels": 574,
+  "working": 1362,
+  "in_grace_period": 17,
+  "dead": 313,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 29,
-      "hd": 10
+      "hd": 9
     },
     "Bengali": {
       "total": 111,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 556,
-      "hd": 221
+      "working": 553,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -205,6 +205,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -258,6 +263,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -1203,6 +1213,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
