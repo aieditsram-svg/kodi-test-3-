@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 14:37 UTC",
-  "fingerprint": "bd9b8548a0849b1ecb88d1efa7e84dfd",
+  "updated_at": "2026-11-05 15:30 UTC",
+  "fingerprint": "f1a52d6570dbceb5bbae4a2ecbd6ac4c",
   "total": 1675,
-  "working": 1359,
-  "in_grace_period": 224,
-  "dead": 316,
+  "working": 1365,
+  "in_grace_period": 12,
+  "dead": 310,
   "hd_channels": 576,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 549,
+      "working": 554,
       "hd": 220
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 129,
+      "working": 130,
       "hd": 54
     },
     "Urdu": {
@@ -188,11 +188,6 @@
       "name": "Angel TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Anjan TV (720p)",
-      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Anmol TV (576p)",
@@ -515,11 +510,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -595,11 +585,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -613,11 +598,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -956,18 +936,8 @@
     },
     {
       "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News Daily 24 (576p)",
@@ -1037,7 +1007,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
