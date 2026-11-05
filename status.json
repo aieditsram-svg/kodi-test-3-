@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 22:05 UTC",
-  "fingerprint": "ab692a5b2c0ab8d8c6994019950c3ac0",
+  "updated_at": "2026-11-05 22:49 UTC",
+  "fingerprint": "ebe07eecaf54af1e1b2941fa634cec1c",
   "total": 1675,
-  "working": 1358,
-  "in_grace_period": 2,
-  "dead": 317,
-  "hd_channels": 572,
+  "working": 1361,
+  "in_grace_period": 3,
+  "dead": 314,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
+      "working": 76,
       "hd": 40
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 555,
-      "hd": 221
+      "working": 556,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 128,
+      "working": 129,
       "hd": 54
     },
     "Urdu": {
@@ -173,11 +173,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -540,11 +535,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -798,11 +788,6 @@
       "name": "Khushboo Bangla (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
