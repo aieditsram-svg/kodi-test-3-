@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 23:29 UTC",
-  "fingerprint": "24654a6e1535172f7c74eee780abe064",
+  "updated_at": "2026-11-06 00:07 UTC",
+  "fingerprint": "680133850f435cd7cfa07b79ca444111",
   "total": 1675,
-  "working": 1361,
+  "working": 1359,
   "in_grace_period": 6,
-  "dead": 314,
-  "hd_channels": 570,
+  "dead": 316,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 556,
-      "hd": 220
+      "working": 554,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -207,6 +207,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -968,6 +973,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News State MP & CHG (576p)",
