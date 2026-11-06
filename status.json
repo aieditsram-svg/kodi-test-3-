@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-06 16:39 UTC",
-  "fingerprint": "0c06f42afbcf90f06f63e5ef586b8e70",
+  "updated_at": "2026-11-06 17:28 UTC",
+  "fingerprint": "92e184cf4e5afc17bcee3513d8349bfa",
   "total": 1675,
-  "working": 1351,
-  "in_grace_period": 13,
-  "dead": 324,
-  "hd_channels": 570,
+  "working": 1350,
+  "in_grace_period": 14,
+  "dead": 325,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 29,
+      "working": 28,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 73,
+      "working": 72,
       "hd": 38
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 123,
-      "hd": 56
+      "working": 122,
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 546,
+      "working": 548,
       "hd": 218
     },
     "Kannada": {
@@ -156,6 +156,11 @@
     },
     {
       "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -225,6 +230,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
@@ -273,11 +283,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -348,11 +353,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -1433,6 +1433,11 @@
       "name": "Star Sports Select 2 HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
