@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-06 09:34 UTC",
-  "fingerprint": "9132e3300c87c116e7790ad6a3e91dd6",
+  "updated_at": "2026-11-06 10:34 UTC",
+  "fingerprint": "63485ff73af5ab63793007fd090b5985",
   "total": 1675,
-  "working": 1356,
-  "in_grace_period": 14,
-  "dead": 319,
-  "hd_channels": 575,
+  "working": 1359,
+  "in_grace_period": 10,
+  "dead": 316,
+  "hd_channels": 578,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 28,
+      "working": 29,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
       "working": 75,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
-      "hd": 55
+      "working": 123,
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 550,
-      "hd": 220
+      "working": 551,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -161,11 +161,6 @@
     },
     {
       "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -210,11 +205,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -223,11 +213,6 @@
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -952,7 +937,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -1370,6 +1355,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Kiran (576p)",
       "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1387,7 +1377,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1408,11 +1398,6 @@
       "name": "Star Sports Select 2 HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
