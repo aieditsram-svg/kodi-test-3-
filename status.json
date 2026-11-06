@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 10:34 UTC",
-  "fingerprint": "63485ff73af5ab63793007fd090b5985",
+  "updated_at": "2026-11-06 11:27 UTC",
+  "fingerprint": "934a91d03b468618d661d09e502dd3ec",
   "total": 1675,
-  "working": 1359,
-  "in_grace_period": 10,
-  "dead": 316,
-  "hd_channels": 578,
+  "working": 1356,
+  "in_grace_period": 11,
+  "dead": 319,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
-      "hd": 221
+      "working": 549,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 34
+      "working": 86,
+      "hd": 33
     },
     "Marathi": {
       "total": 45,
@@ -580,6 +580,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -768,6 +773,11 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
@@ -1673,6 +1683,11 @@
       "name": "Zee TV (576p)",
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
