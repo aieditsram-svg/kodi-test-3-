@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-06 19:46 UTC",
-  "fingerprint": "c21f1868e5eeaea6612bc1364430d538",
+  "updated_at": "2026-11-06 20:29 UTC",
+  "fingerprint": "fbac7b5c5a6fcf7366f5c055171111e5",
   "total": 1675,
-  "working": 1352,
-  "in_grace_period": 12,
-  "dead": 323,
+  "working": 1351,
+  "in_grace_period": 10,
+  "dead": 324,
   "hd_channels": 566,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 547,
+      "working": 546,
       "hd": 214
     },
     "Kannada": {
@@ -618,6 +618,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
