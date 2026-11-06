@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 14:29 UTC",
-  "fingerprint": "cd9ef268d55a449ded644be1a70a9e06",
+  "updated_at": "2026-11-06 15:12 UTC",
+  "fingerprint": "24fefece3ddf5cca566251ba4b6827f8",
   "total": 1675,
-  "working": 1359,
-  "in_grace_period": 19,
-  "dead": 316,
-  "hd_channels": 576,
+  "working": 1358,
+  "in_grace_period": 26,
+  "dead": 317,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 31,
-      "hd": 14
+      "working": 30,
+      "hd": 13
     },
     "Hindi": {
       "total": 695,
@@ -137,11 +137,6 @@
     {
       "name": "9XM (1080p)",
       "url": "https://epiconvh.akamaized.net/live/9XM/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "&TV (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -590,11 +585,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -905,6 +895,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1053,6 +1053,11 @@
       "name": "Pogo (576p)",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
