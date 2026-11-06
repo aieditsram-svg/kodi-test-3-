@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 06:35 UTC",
-  "fingerprint": "2c967f6d41b82afda51c11c8a7cb79c9",
+  "updated_at": "2026-11-06 07:49 UTC",
+  "fingerprint": "8af29d125a92ac43e904430cc3c07256",
   "total": 1675,
   "working": 1351,
-  "in_grace_period": 15,
+  "in_grace_period": 12,
   "dead": 324,
-  "hd_channels": 571,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 548,
-      "hd": 218
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 170,
       "working": 129,
-      "hd": 54
+      "hd": 55
     },
     "Urdu": {
       "total": 17,
@@ -346,11 +346,6 @@
     },
     {
       "name": "CVR OM Spiritual (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "CVR OM Spiritual (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3CVRSPRITUALOM/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -523,6 +518,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -850,6 +850,11 @@
       "reason": "not a valid HLS manifest"
     },
     {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1133,11 +1138,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
