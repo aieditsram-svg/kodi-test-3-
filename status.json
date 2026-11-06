@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 21:47 UTC",
-  "fingerprint": "e5c17ebb4ff973411c5ceb5ed4329a8d",
+  "updated_at": "2026-11-06 22:24 UTC",
+  "fingerprint": "12a4e03dcf7d7935a0b33ff2a20429ac",
   "total": 1675,
-  "working": 1351,
-  "in_grace_period": 4,
-  "dead": 324,
-  "hd_channels": 570,
+  "working": 1350,
+  "in_grace_period": 5,
+  "dead": 325,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 547,
-      "hd": 217
+      "hd": 215
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
@@ -540,6 +540,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -938,11 +943,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1503,6 +1503,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
