@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 15:56 UTC",
-  "fingerprint": "a65853814a1c18b0ac4dcffde1bbe373",
+  "updated_at": "2026-11-06 16:39 UTC",
+  "fingerprint": "0c06f42afbcf90f06f63e5ef586b8e70",
   "total": 1675,
   "working": 1351,
-  "in_grace_period": 10,
+  "in_grace_period": 13,
   "dead": 324,
-  "hd_channels": 569,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
-      "hd": 55
+      "working": 123,
+      "hd": 56
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 546,
-      "hd": 217
+      "hd": 218
     },
     "Kannada": {
       "total": 69,
@@ -168,6 +168,11 @@
       "name": "Akhon Kolkata (478p)",
       "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -343,6 +348,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -680,11 +690,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -835,6 +840,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -925,11 +935,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -973,11 +978,6 @@
       "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News Daily 24 (576p)",
