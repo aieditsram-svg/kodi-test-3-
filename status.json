@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 15:12 UTC",
-  "fingerprint": "24fefece3ddf5cca566251ba4b6827f8",
+  "updated_at": "2026-11-06 15:56 UTC",
+  "fingerprint": "a65853814a1c18b0ac4dcffde1bbe373",
   "total": 1675,
-  "working": 1358,
-  "in_grace_period": 26,
-  "dead": 317,
-  "hd_channels": 575,
+  "working": 1351,
+  "in_grace_period": 10,
+  "dead": 324,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
-      "hd": 41
+      "working": 73,
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 123,
-      "hd": 56
+      "working": 122,
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
-      "hd": 220
+      "working": 546,
+      "hd": 217
     },
     "Kannada": {
       "total": 69,
@@ -165,6 +165,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Akhon Kolkata (478p)",
+      "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -197,6 +202,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -258,6 +268,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -570,6 +585,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Friends TV (1080p)",
+      "url": "https://server.playontv.in/friendstv/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -657,6 +677,11 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -875,6 +900,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Nation News (720p)",
+      "url": "https://server.playontv.in/nationnews/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
       "reason": "HTTP 404"
@@ -937,7 +967,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -1103,6 +1133,11 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raatdin Bangla (720p)",
+      "url": "https://server.playontv.in/raatdinbangla/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Raj Musix Kannada (576p)",
@@ -1360,11 +1395,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Kiran (576p)",
       "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1382,7 +1412,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1463,6 +1493,11 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Swastik TV (720p)",
+      "url": "https://server.playontv.in/swastiktv/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "T News (576p)",
