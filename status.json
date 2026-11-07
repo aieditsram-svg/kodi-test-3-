@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 12:17 UTC",
-  "fingerprint": "082e4ff7ca9ce10181d880ca47b97d57",
+  "updated_at": "2026-11-07 13:10 UTC",
+  "fingerprint": "2adc4cbb8f076f485891f25aed37620e",
   "total": 1806,
-  "working": 1492,
-  "in_grace_period": 42,
-  "dead": 314,
-  "hd_channels": 585,
+  "working": 1493,
+  "in_grace_period": 46,
+  "dead": 313,
+  "hd_channels": 584,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 629,
+      "working": 630,
       "hd": 228
     },
     "Kannada": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 190,
       "working": 150,
-      "hd": 73
+      "hd": 72
     },
     "Telugu": {
       "total": 178,
@@ -168,11 +168,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -987,7 +982,7 @@
     {
       "name": "News Nation 81 (1080p)",
       "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1037,7 +1032,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1057,7 +1052,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Pasand TV (576p)",
