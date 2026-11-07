@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 14:29 UTC",
-  "fingerprint": "122360b794447cdf30992de091a9dc9b",
+  "updated_at": "2026-11-07 15:10 UTC",
+  "fingerprint": "2f2b3387f0112e8b7308a3fda6e5ccda",
   "total": 1806,
-  "working": 1494,
-  "in_grace_period": 13,
-  "dead": 312,
+  "working": 1497,
+  "in_grace_period": 10,
+  "dead": 309,
   "hd_channels": 600,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 96,
+      "working": 97,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 630,
+      "working": 632,
       "hd": 233
     },
     "Kannada": {
@@ -1180,11 +1180,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1233,11 +1228,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1642,11 +1632,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
