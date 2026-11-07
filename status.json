@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 22:27 UTC",
-  "fingerprint": "04b369e628d6f96626825e3c611d96de",
+  "updated_at": "2026-11-07 23:00 UTC",
+  "fingerprint": "29db90f3b98cfd4d669f2e35b623144b",
   "total": 1806,
   "working": 1471,
-  "in_grace_period": 14,
+  "in_grace_period": 18,
   "dead": 335,
-  "hd_channels": 598,
+  "hd_channels": 597,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 97,
-      "hd": 45
+      "working": 96,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 631,
+      "working": 632,
       "hd": 233
     },
     "Kannada": {
@@ -915,11 +915,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1298,6 +1293,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
