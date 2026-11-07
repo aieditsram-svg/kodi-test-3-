@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 17:25 UTC",
-  "fingerprint": "fce48fc7f6afe0942bbddb271264296c",
+  "updated_at": "2026-11-07 17:56 UTC",
+  "fingerprint": "184335d4e4ae64973086188179ba717a",
   "total": 1806,
-  "working": 1466,
-  "in_grace_period": 15,
-  "dead": 340,
-  "hd_channels": 597,
+  "working": 1465,
+  "in_grace_period": 10,
+  "dead": 341,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 630,
-      "hd": 234
+      "working": 629,
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -175,19 +175,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Amrita TV (576p)",
@@ -227,6 +217,16 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Arputhar Yesu TV (576p)",
+      "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -383,6 +383,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
