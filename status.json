@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 20:56 UTC",
-  "fingerprint": "1cc43ccc1bd163e52dc2f6f16672bffb",
+  "updated_at": "2026-11-07 21:25 UTC",
+  "fingerprint": "aca56ceacb8a6a9a18b18d2087dd258c",
   "total": 1806,
-  "working": 1475,
-  "in_grace_period": 4,
-  "dead": 331,
-  "hd_channels": 598,
+  "working": 1477,
+  "in_grace_period": 9,
+  "dead": 329,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 635,
-      "hd": 233
+      "working": 636,
+      "hd": 234
     },
     "Kannada": {
       "total": 76,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
-      "hd": 51
+      "working": 127,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -438,11 +438,6 @@
       "name": "Disney Junior (576p)",
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -1048,11 +1043,6 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
