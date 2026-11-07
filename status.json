@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 11:06 UTC",
-  "fingerprint": "902e3ddf6c26617a9fdf722e3a5d1277",
+  "updated_at": "2026-11-07 11:41 UTC",
+  "fingerprint": "a8ca37fbf68832d1039b38948c370f88",
   "total": 1806,
-  "working": 1499,
-  "in_grace_period": 17,
-  "dead": 307,
-  "hd_channels": 602,
+  "working": 1497,
+  "in_grace_period": 9,
+  "dead": 309,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 150,
-      "hd": 75
+      "working": 149,
+      "hd": 74
     },
     "Telugu": {
       "total": 178,
-      "working": 139,
-      "hd": 57
+      "working": 138,
+      "hd": 56
     },
     "Urdu": {
       "total": 18,
@@ -182,7 +182,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 503"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -270,9 +270,19 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat24 (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "BRK News (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "BRK News (576p)",
@@ -605,11 +615,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -915,11 +920,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -973,6 +973,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1038,6 +1043,11 @@
       "name": "Northeast Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
