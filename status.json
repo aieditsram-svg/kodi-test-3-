@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07 20:19 UTC",
-  "fingerprint": "da7c8bd12e651076af747fa653e4bc5d",
+  "updated_at": "2026-11-07 20:56 UTC",
+  "fingerprint": "1cc43ccc1bd163e52dc2f6f16672bffb",
   "total": 1806,
   "working": 1475,
-  "in_grace_period": 5,
+  "in_grace_period": 4,
   "dead": 331,
   "hd_channels": 598,
   "languages": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 634,
-      "hd": 232
+      "working": 635,
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 91,
-      "hd": 38
+      "working": 90,
+      "hd": 37
     },
     "Marathi": {
       "total": 55,
@@ -222,11 +222,6 @@
     {
       "name": "Arputhar Yesu TV (576p)",
       "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -833,6 +828,11 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
