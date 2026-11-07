@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 00:11 UTC",
-  "fingerprint": "a74309d8f4b1faade333d56a3e39c17d",
-  "total": 1808,
+  "updated_at": "2026-11-07 01:02 UTC",
+  "fingerprint": "539aaeb755be4f74cabdc3c0ceb426af",
+  "total": 1806,
   "working": 1490,
-  "in_grace_period": 9,
-  "dead": 318,
-  "hd_channels": 592,
+  "in_grace_period": 14,
+  "dead": 316,
+  "hd_channels": 591,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 629,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 76,
@@ -93,7 +93,7 @@
       "hd": 75
     },
     "Telugu": {
-      "total": 180,
+      "total": 178,
       "working": 139,
       "hd": 57
     },
@@ -282,7 +282,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -1673,16 +1673,6 @@
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports 2 (576p)",
-      "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports 2 HD (720p)",
-      "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
