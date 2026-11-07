@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 19:50 UTC",
-  "fingerprint": "9fe0116fb60631e2906a1779b2e1c521",
+  "updated_at": "2026-11-07 20:19 UTC",
+  "fingerprint": "da7c8bd12e651076af747fa653e4bc5d",
   "total": 1806,
-  "working": 1472,
-  "in_grace_period": 7,
-  "dead": 334,
+  "working": 1475,
+  "in_grace_period": 5,
+  "dead": 331,
   "hd_channels": 598,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 632,
+      "working": 634,
       "hd": 232
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 130,
+      "working": 131,
       "hd": 57
     },
     "Urdu": {
@@ -225,6 +225,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://fta.ektv.in/live/697/master.m3u8",
       "reason": "HTTP 404"
@@ -248,11 +253,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -553,11 +553,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -905,11 +900,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1213,11 +1203,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
