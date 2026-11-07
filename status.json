@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 19:14 UTC",
-  "fingerprint": "a398b7d126d587456accac839817241a",
+  "updated_at": "2026-11-07 19:50 UTC",
+  "fingerprint": "9fe0116fb60631e2906a1779b2e1c521",
   "total": 1806,
-  "working": 1470,
-  "in_grace_period": 12,
-  "dead": 336,
-  "hd_channels": 596,
+  "working": 1472,
+  "in_grace_period": 7,
+  "dead": 334,
+  "hd_channels": 598,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 94,
-      "hd": 42
+      "working": 97,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 633,
-      "hd": 233
+      "working": 632,
+      "hd": 232
     },
     "Kannada": {
       "total": 76,
@@ -1060,6 +1060,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "News State MP & CHG (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
       "reason": "HTTP 403"
@@ -1658,21 +1663,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
