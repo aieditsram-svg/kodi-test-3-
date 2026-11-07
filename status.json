@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 10:26 UTC",
-  "fingerprint": "2dec047db81d28643e34760e9fffa4a7",
+  "updated_at": "2026-11-07 11:06 UTC",
+  "fingerprint": "902e3ddf6c26617a9fdf722e3a5d1277",
   "total": 1806,
-  "working": 1501,
-  "in_grace_period": 11,
-  "dead": 305,
-  "hd_channels": 603,
+  "working": 1499,
+  "in_grace_period": 17,
+  "dead": 307,
+  "hd_channels": 602,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 636,
-      "hd": 234
+      "working": 634,
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -182,7 +182,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -605,6 +605,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -908,6 +913,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
