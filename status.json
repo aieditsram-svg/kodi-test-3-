@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 18:26 UTC",
-  "fingerprint": "9f9d6e6d0b23c098b1d246519f076b6e",
+  "updated_at": "2026-11-07 19:14 UTC",
+  "fingerprint": "a398b7d126d587456accac839817241a",
   "total": 1806,
-  "working": 1465,
-  "in_grace_period": 11,
-  "dead": 341,
-  "hd_channels": 597,
+  "working": 1470,
+  "in_grace_period": 12,
+  "dead": 336,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 92,
+      "working": 94,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 630,
-      "hd": 234
+      "working": 633,
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -635,11 +635,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -653,11 +648,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -907,12 +897,17 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1008,11 +1003,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1305,11 +1295,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1473,11 +1458,6 @@
       "name": "Star Jalsha (576p)",
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Kiran (576p)",
@@ -1788,11 +1768,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
