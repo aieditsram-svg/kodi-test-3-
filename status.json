@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 17:56 UTC",
-  "fingerprint": "184335d4e4ae64973086188179ba717a",
+  "updated_at": "2026-11-07 18:26 UTC",
+  "fingerprint": "9f9d6e6d0b23c098b1d246519f076b6e",
   "total": 1806,
   "working": 1465,
-  "in_grace_period": 10,
+  "in_grace_period": 11,
   "dead": 341,
-  "hd_channels": 596,
+  "hd_channels": 597,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 93,
+      "working": 92,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 629,
-      "hd": 233
+      "working": 630,
+      "hd": 234
     },
     "Kannada": {
       "total": 76,
@@ -225,11 +225,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://fta.ektv.in/live/697/master.m3u8",
       "reason": "HTTP 404"
@@ -383,11 +378,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -917,7 +907,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Makkal TV (576p)",
@@ -1020,8 +1010,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1230,6 +1220,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1308,6 +1303,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
