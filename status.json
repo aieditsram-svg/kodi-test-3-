@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 23:03 UTC",
-  "fingerprint": "03c85b79fbd2ad7f30c9acb3b2f165a7",
+  "updated_at": "2026-11-08 23:36 UTC",
+  "fingerprint": "ab85ad6d34e254defb738547237fff59",
   "total": 1776,
   "working": 1436,
-  "in_grace_period": 3,
+  "in_grace_period": 4,
   "dead": 340,
-  "hd_channels": 584,
+  "hd_channels": 583,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 610,
-      "hd": 225
+      "hd": 224
     },
     "Kannada": {
       "total": 75,
@@ -827,7 +827,7 @@
     {
       "name": "KBP Times (1080p)",
       "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Kerala Vision (576p)",
