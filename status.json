@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 18:23 UTC",
-  "fingerprint": "6f1dd0b9bea335a49e52069bfe44b941",
+  "updated_at": "2026-11-08 19:11 UTC",
+  "fingerprint": "77e9e25fc5a46d808f30f37b84aab001",
   "total": 1776,
   "working": 1438,
-  "in_grace_period": 11,
+  "in_grace_period": 21,
   "dead": 338,
-  "hd_channels": 586,
+  "hd_channels": 587,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 86,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 612,
-      "hd": 226
+      "working": 611,
+      "hd": 227
     },
     "Kannada": {
       "total": 75,
@@ -313,6 +313,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -833,11 +838,6 @@
       "name": "Khushboo Bangla (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
