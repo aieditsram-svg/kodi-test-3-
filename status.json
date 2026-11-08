@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 16:54 UTC",
-  "fingerprint": "a443a12e6264c5c43e4047661d531ff9",
+  "updated_at": "2026-11-08 17:22 UTC",
+  "fingerprint": "f333e9954200720021a4a9343cb1c56c",
   "total": 1776,
-  "working": 1446,
-  "in_grace_period": 31,
-  "dead": 330,
-  "hd_channels": 591,
+  "working": 1421,
+  "in_grace_period": 13,
+  "dead": 355,
+  "hd_channels": 579,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 88,
-      "hd": 44
+      "working": 79,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 155,
-      "working": 125,
-      "hd": 57
+      "working": 118,
+      "hd": 53
     },
     "Gujarati": {
       "total": 36,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 621,
-      "hd": 229
+      "working": 604,
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
-      "working": 58,
-      "hd": 28
+      "working": 53,
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 92,
-      "hd": 39
+      "working": 87,
+      "hd": 37
     },
     "Marathi": {
       "total": 54,
-      "working": 48,
-      "hd": 22
+      "working": 44,
+      "hd": 21
     },
     "Nepali": {
       "total": 6,
@@ -75,7 +75,7 @@
     "Other": {
       "total": 23,
       "working": 20,
-      "hd": 11
+      "hd": 12
     },
     "Punjabi": {
       "total": 144,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 145,
-      "hd": 73
+      "working": 137,
+      "hd": 69
     },
     "Telugu": {
       "total": 174,
-      "working": 132,
-      "hd": 58
+      "working": 126,
+      "hd": 56
     },
     "Urdu": {
       "total": 18,
@@ -352,6 +352,11 @@
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "http://103.165.93.31:8095/colorsBangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors HD (1080p)",
+      "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -635,6 +640,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -783,6 +793,11 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "JTBS Classic",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "reason": "HTTP 429"
     },
     {
       "name": "K News India (720p)",
@@ -1645,8 +1660,78 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Hungama TV (576p)",
+      "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "National Geographic HD (1080p)",
+      "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Movies Now + (1080p)",
+      "url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Movies Now HD (1080p)",
+      "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Bharat HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Star Movies HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Nickelodeon (576p)",
+      "url": "http://103.135.253.32:8080/NICK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Nick Jr. (576p)",
+      "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla HD (1080p)",
+      "url": "http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla Cinema (576p)",
+      "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Cineplex HD (1080p)",
+      "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "StarPlus HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-PLUS/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Gold HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Jalsha Movies HD (1080p)",
+      "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha HD (1080p)",
+      "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1655,89 +1740,129 @@
       "reason": "URLError"
     },
     {
+      "name": "Zee Cinema HD (1080p)",
+      "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Zee Bangla Sonar (576p)",
       "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8",
       "reason": "URLError"
     },
     {
+      "name": "Discovery Channel HD (1080p)",
+      "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Cartoon Network HD+ (1080p)",
+      "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Pogo (576p)",
+      "url": "http://103.135.253.32:8080/POGO/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Aath (576p)",
+      "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "&pictures HD (1080p)",
+      "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "B4U Movies (1080p)",
+      "url": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Max HD (1080p)",
+      "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Zee Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Zee Cinema HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Gold HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Movies HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Movies Select HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Gold Select (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Taaza TV (576p)",
