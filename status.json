@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 07:38 UTC",
-  "fingerprint": "69792e38756e3b7310158b81b1dbd129",
+  "updated_at": "2026-11-08 08:25 UTC",
+  "fingerprint": "cab2ff812fcaf49118549345759e6aa1",
   "total": 1776,
-  "working": 1476,
-  "in_grace_period": 19,
-  "dead": 300,
+  "working": 1474,
+  "in_grace_period": 12,
+  "dead": 302,
   "hd_channels": 600,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 633,
+      "working": 631,
       "hd": 233
     },
     "Kannada": {
@@ -298,6 +298,16 @@
       "name": "Bhakthi Siri (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat24 (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat24 (576p)",
+      "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -590,11 +600,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -858,6 +863,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mahotsav TV (576p)",
+      "url": "https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Makkal TV (576p)",
@@ -1127,6 +1137,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1583,11 +1598,6 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
