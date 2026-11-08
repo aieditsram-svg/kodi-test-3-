@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 03:25 UTC",
-  "fingerprint": "b1814cf8dcf465bf1e7a23c44ec8a8f5",
+  "updated_at": "2026-11-08 04:18 UTC",
+  "fingerprint": "f4e25885c118a421ea79e8c58c910100",
   "total": 1776,
-  "working": 1467,
-  "in_grace_period": 13,
-  "dead": 309,
+  "working": 1468,
+  "in_grace_period": 12,
+  "dead": 308,
   "hd_channels": 598,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 96,
+      "working": 97,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 630,
+      "working": 629,
       "hd": 234
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -358,6 +358,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -1135,11 +1140,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Pitaara (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1258,11 +1258,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
