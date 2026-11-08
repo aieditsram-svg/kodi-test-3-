@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 13:58 UTC",
-  "fingerprint": "e15e028384c0031678f998d3da237a36",
+  "updated_at": "2026-11-08 14:31 UTC",
+  "fingerprint": "5a0e4363914007000f8dd44ef337297e",
   "total": 1776,
-  "working": 1447,
-  "in_grace_period": 14,
-  "dead": 329,
-  "hd_channels": 594,
+  "working": 1456,
+  "in_grace_period": 13,
+  "dead": 320,
+  "hd_channels": 595,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 88,
+      "working": 95,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 155,
-      "working": 126,
-      "hd": 59
+      "working": 128,
+      "hd": 60
     },
     "Gujarati": {
       "total": 36,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 621,
+      "working": 623,
       "hd": 231
     },
     "Kannada": {
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 144,
       "working": 126,
-      "hd": 51
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 148,
-      "hd": 74
+      "working": 150,
+      "hd": 75
     },
     "Telugu": {
       "total": 174,
@@ -677,7 +677,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -833,11 +833,6 @@
       "name": "Khushboo Bangla (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -1203,6 +1198,11 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1655,54 +1655,19 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Colors HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Colors Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Colors Bangla Cinema (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Enterr 10 Bangla (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Zee Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cinema HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Sony Aath (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Jalsha HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1712,17 +1677,7 @@
     {
       "name": "Star Gold HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Movies HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Star Movies Select HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Gold Select (1080p)",
