@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 17:54 UTC",
-  "fingerprint": "7ea314df9c65aeba88b5d4d7e277d893",
+  "updated_at": "2026-11-08 18:23 UTC",
+  "fingerprint": "6f1dd0b9bea335a49e52069bfe44b941",
   "total": 1776,
-  "working": 1440,
-  "in_grace_period": 6,
-  "dead": 336,
-  "hd_channels": 587,
+  "working": 1438,
+  "in_grace_period": 11,
+  "dead": 338,
+  "hd_channels": 586,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 87,
-      "hd": 37
+      "working": 86,
+      "hd": 36
     },
     "Marathi": {
       "total": 54,
@@ -835,6 +835,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1542,6 +1547,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
