@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 04:18 UTC",
-  "fingerprint": "f4e25885c118a421ea79e8c58c910100",
+  "updated_at": "2026-11-08 05:10 UTC",
+  "fingerprint": "5c51fec603ea542a6572835e797f59c3",
   "total": 1776,
-  "working": 1468,
-  "in_grace_period": 12,
-  "dead": 308,
-  "hd_channels": 598,
+  "working": 1474,
+  "in_grace_period": 8,
+  "dead": 302,
+  "hd_channels": 601,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 97,
-      "hd": 44
+      "working": 98,
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 629,
+      "working": 634,
       "hd": 234
     },
     "Kannada": {
       "total": 75,
       "working": 59,
-      "hd": 28
+      "hd": 29
     },
     "Konkani": {
       "total": 3,
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 92,
-      "hd": 38
+      "working": 94,
+      "hd": 40
     },
     "Marathi": {
       "total": 54,
-      "working": 48,
-      "hd": 22
+      "working": 49,
+      "hd": 23
     },
     "Nepali": {
       "total": 6,
@@ -69,8 +69,8 @@
     },
     "Odia": {
       "total": 34,
-      "working": 22,
-      "hd": 10
+      "working": 23,
+      "hd": 11
     },
     "Other": {
       "total": 23,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 149,
-      "hd": 75
+      "working": 150,
+      "hd": 76
     },
     "Telugu": {
       "total": 174,
-      "working": 130,
-      "hd": 58
+      "working": 132,
+      "hd": 59
     },
     "Urdu": {
       "total": 18,
@@ -360,11 +360,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -545,11 +540,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -618,11 +608,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -815,11 +800,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -980,11 +960,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1013,11 +988,6 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -1138,6 +1108,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1623,11 +1598,6 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony Yay! (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Taaza TV (576p)",
