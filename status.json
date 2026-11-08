@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 22:29 UTC",
-  "fingerprint": "87220ed767fe00cd56fcbdacf2b72510",
+  "updated_at": "2026-11-08 23:03 UTC",
+  "fingerprint": "03c85b79fbd2ad7f30c9acb3b2f165a7",
   "total": 1776,
-  "working": 1435,
-  "in_grace_period": 0,
-  "dead": 341,
+  "working": 1436,
+  "in_grace_period": 3,
+  "dead": 340,
   "hd_channels": 584,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 609,
+      "working": 610,
       "hd": 225
     },
     "Kannada": {
@@ -263,11 +263,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
