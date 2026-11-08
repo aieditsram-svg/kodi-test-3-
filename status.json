@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 11:44 UTC",
-  "fingerprint": "9525dbbdfa3a49d0258b7b2551e01549",
+  "updated_at": "2026-11-08 12:20 UTC",
+  "fingerprint": "ff662e998dcd606e3891f269bf17e91b",
   "total": 1776,
   "working": 1451,
-  "in_grace_period": 5,
+  "in_grace_period": 12,
   "dead": 325,
-  "hd_channels": 597,
+  "hd_channels": 595,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 90,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 623,
-      "hd": 233
+      "hd": 232
     },
     "Kannada": {
       "total": 75,
@@ -980,6 +980,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1188,11 +1193,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
