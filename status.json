@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 05:53 UTC",
-  "fingerprint": "a7434b4ecb09edf7f3c3016ff8540c2e",
+  "updated_at": "2026-11-08 06:34 UTC",
+  "fingerprint": "8376c659dd68f098a909a10332c1effb",
   "total": 1776,
   "working": 1474,
-  "in_grace_period": 14,
+  "in_grace_period": 12,
   "dead": 302,
-  "hd_channels": 601,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 99,
-      "hd": 46
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 634,
-      "hd": 235
+      "hd": 233
     },
     "Kannada": {
       "total": 75,
