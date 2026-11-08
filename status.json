@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 15:43 UTC",
-  "fingerprint": "8f19257e331883dca54b7b052fa64a85",
+  "updated_at": "2026-11-08 16:17 UTC",
+  "fingerprint": "328c9d8570d183d30deb754a278c0114",
   "total": 1776,
-  "working": 1455,
-  "in_grace_period": 25,
-  "dead": 321,
-  "hd_channels": 594,
+  "working": 1445,
+  "in_grace_period": 41,
+  "dead": 331,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 95,
-      "hd": 45
+      "working": 89,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 155,
-      "working": 128,
-      "hd": 60
+      "working": 126,
+      "hd": 58
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 622,
-      "hd": 231
+      "working": 620,
+      "hd": 230
     },
     "Kannada": {
       "total": 75,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 125,
+      "working": 124,
       "hd": 51
     },
     "Santali": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 149,
-      "hd": 75
+      "working": 146,
+      "hd": 74
     },
     "Telugu": {
       "total": 174,
@@ -193,6 +193,11 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Amrita TV (576p)",
@@ -995,11 +1000,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1153,6 +1153,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pitaara (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Power TV (576p)",
@@ -1660,19 +1665,44 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Colors HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Colors Bangla HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Colors Bangla Cinema (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
       "reason": "TimeoutError"
     },
     {
+      "name": "Enterr 10 Bangla (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee Bangla HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cinema HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Z-Cinema/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Sony Yay! (576p)",
@@ -1680,19 +1710,39 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sony Aath (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Jalsha HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Gold HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/StarGold/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Movies HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Movies Select HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Gold Select (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
