@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-08 05:10 UTC",
-  "fingerprint": "5c51fec603ea542a6572835e797f59c3",
+  "updated_at": "2026-11-08 05:53 UTC",
+  "fingerprint": "a7434b4ecb09edf7f3c3016ff8540c2e",
   "total": 1776,
   "working": 1474,
-  "in_grace_period": 8,
+  "in_grace_period": 14,
   "dead": 302,
   "hd_channels": 601,
   "languages": {
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 98,
-      "hd": 47
+      "working": 99,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 634,
-      "hd": 234
+      "hd": 235
     },
     "Kannada": {
       "total": 75,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 94,
+      "working": 93,
       "hd": 40
     },
     "Marathi": {
@@ -243,6 +243,11 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Asianet News (576p)",
+      "url": "https://fta.ektv.in/live/699/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Suvarna News (576p)",
@@ -1343,11 +1348,6 @@
       "name": "Star Gold HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "StarPlus HD (1080p)",
