@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 00:50 UTC",
-  "fingerprint": "79f0b7c8ae6e4a2bc4d490a66afba0d9",
+  "updated_at": "2026-11-08 01:49 UTC",
+  "fingerprint": "8962ca0d48e882fecb700346a2629cf5",
   "total": 1776,
-  "working": 1464,
-  "in_grace_period": 8,
-  "dead": 312,
-  "hd_channels": 597,
+  "working": 1467,
+  "in_grace_period": 14,
+  "dead": 309,
+  "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 36,
-      "working": 32,
-      "hd": 14
+      "working": 33,
+      "hd": 15
     },
     "Hindi": {
       "total": 754,
-      "working": 627,
-      "hd": 234
+      "working": 629,
+      "hd": 235
     },
     "Kannada": {
       "total": 75,
@@ -270,11 +270,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -373,11 +368,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -885,6 +875,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -973,11 +968,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1 India (576p)",
@@ -1137,11 +1127,6 @@
     {
       "name": "Pitaara (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
