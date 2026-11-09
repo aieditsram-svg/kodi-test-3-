@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09 10:04 UTC",
-  "fingerprint": "e89f216a91f17dcaa4679696de09fe39",
+  "updated_at": "2026-11-09 10:57 UTC",
+  "fingerprint": "09477c5df2ed13c19aa25e4e38ef6ccd",
   "total": 1768,
-  "working": 1444,
-  "in_grace_period": 5,
-  "dead": 324,
+  "working": 1445,
+  "in_grace_period": 14,
+  "dead": 323,
   "hd_channels": 571,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 86,
+      "working": 87,
       "hd": 42
     },
     "Bhojpuri": {
@@ -183,6 +183,11 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "ANB News (720p)",
+      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -372,11 +377,6 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Sports (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1140,11 +1140,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1318,11 +1313,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
@@ -1702,6 +1692,11 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ANB News (1080p)",
+      "url": "https://stream.ottlive.co.in/anb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
