@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 23:36 UTC",
-  "fingerprint": "ab85ad6d34e254defb738547237fff59",
+  "updated_at": "2026-11-09 00:11 UTC",
+  "fingerprint": "f81f5d0166aacd4bfd8f2cb500a5d1a7",
   "total": 1776,
   "working": 1436,
-  "in_grace_period": 4,
+  "in_grace_period": 3,
   "dead": 340,
-  "hd_channels": 583,
+  "hd_channels": 585,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 86,
-      "hd": 41
+      "working": 87,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 155,
-      "working": 121,
-      "hd": 55
+      "working": 122,
+      "hd": 56
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 610,
-      "hd": 224
+      "working": 609,
+      "hd": 225
     },
     "Kannada": {
       "total": 75,
@@ -780,11 +780,6 @@
       "reason": "URLError"
     },
     {
-      "name": "JTBS Classic",
-      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
-      "reason": "HTTP 429"
-    },
-    {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
@@ -827,7 +822,7 @@
     {
       "name": "KBP Times (1080p)",
       "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
@@ -898,6 +893,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
