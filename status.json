@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 13:55 UTC",
-  "fingerprint": "95827c40e2c426e85b4756655d4966c9",
+  "updated_at": "2026-11-09 14:44 UTC",
+  "fingerprint": "c3f34e4d6b9daa3563ffea3bbd9214b3",
   "total": 1768,
-  "working": 1442,
-  "in_grace_period": 9,
-  "dead": 326,
-  "hd_channels": 571,
+  "working": 1443,
+  "in_grace_period": 12,
+  "dead": 325,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 87,
-      "hd": 32
+      "working": 88,
+      "hd": 33
     },
     "Marathi": {
       "total": 54,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 128,
+      "working": 127,
       "hd": 51
     },
     "Urdu": {
@@ -157,7 +157,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -168,6 +168,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -237,7 +242,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -378,6 +383,11 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Deewana HD (540p)",
@@ -987,7 +997,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -1088,11 +1098,6 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pitaara (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Pradesh24 Gujarati (1080p)",
@@ -1327,7 +1332,7 @@
     {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1388,11 +1393,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
@@ -1477,11 +1477,6 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "VCV (720p) [Not 24/7]",
-      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
