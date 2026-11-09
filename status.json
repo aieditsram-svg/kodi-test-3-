@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09 19:23 UTC",
-  "fingerprint": "835d66ca5c4bcb7672107dfb99eee975",
+  "updated_at": "2026-11-09 20:13 UTC",
+  "fingerprint": "ef1c2e685ad7fdcf69ec14ff90083f7b",
   "total": 1768,
-  "working": 1444,
-  "in_grace_period": 9,
-  "dead": 324,
+  "working": 1446,
+  "in_grace_period": 11,
+  "dead": 322,
   "hd_channels": 572,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 86,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 595,
-      "hd": 212
+      "working": 597,
+      "hd": 213
     },
     "Kannada": {
       "total": 75,
@@ -288,11 +288,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -960,11 +955,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1067,7 +1057,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1492,7 +1482,7 @@
     {
       "name": "VTU (1080p)",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Win TV (576p)",
