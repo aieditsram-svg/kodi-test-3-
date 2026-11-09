@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 10:57 UTC",
-  "fingerprint": "09477c5df2ed13c19aa25e4e38ef6ccd",
+  "updated_at": "2026-11-09 11:45 UTC",
+  "fingerprint": "2eea416929c3f0db11cc03a79613b520",
   "total": 1768,
-  "working": 1445,
+  "working": 1443,
   "in_grace_period": 14,
-  "dead": 323,
-  "hd_channels": 571,
+  "dead": 325,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 596,
+      "working": 595,
       "hd": 212
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 132,
-      "hd": 64
+      "working": 131,
+      "hd": 63
     },
     "Telugu": {
       "total": 173,
@@ -905,6 +905,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "MTV (576p)",
+      "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -1068,6 +1073,11 @@
       "name": "Northeast Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Pasand TV (576p)",
