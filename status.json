@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 02:15 UTC",
-  "fingerprint": "9f73b00e4c110da914e3a80b4f1f1f86",
+  "updated_at": "2026-11-09 02:59 UTC",
+  "fingerprint": "53301fd555f6e36b7326a885cf4acbb2",
   "total": 1768,
-  "working": 1433,
-  "in_grace_period": 12,
-  "dead": 335,
-  "hd_channels": 580,
+  "working": 1432,
+  "in_grace_period": 15,
+  "dead": 336,
+  "hd_channels": 581,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 605,
-      "hd": 219
+      "working": 604,
+      "hd": 220
     },
     "Kannada": {
       "total": 75,
@@ -615,6 +615,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -818,11 +823,6 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
@@ -1212,7 +1212,7 @@
     {
       "name": "Raj Musix Tamil (1080p)",
       "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -1763,6 +1763,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
