@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 23:10 UTC",
-  "fingerprint": "3b18e82d1ef171c3b1d4c5253e0bce05",
+  "updated_at": "2026-11-09 23:45 UTC",
+  "fingerprint": "471adfee4291e0b4359b58d85a54c4f1",
   "total": 1768,
-  "working": 1446,
-  "in_grace_period": 7,
-  "dead": 322,
-  "hd_channels": 569,
+  "working": 1444,
+  "in_grace_period": 16,
+  "dead": 324,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 152,
-      "working": 112,
+      "working": 111,
       "hd": 46
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 597,
-      "hd": 211
+      "working": 596,
+      "hd": 210
     },
     "Kannada": {
       "total": 75,
@@ -895,6 +895,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mirror Now (720p)",
+      "url": "https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Movie Punjab (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
       "reason": "HTTP 403"
@@ -1008,6 +1013,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1692,7 +1702,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Taaza TV (576p)",
