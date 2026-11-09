@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 20:13 UTC",
-  "fingerprint": "ef1c2e685ad7fdcf69ec14ff90083f7b",
+  "updated_at": "2026-11-09 20:59 UTC",
+  "fingerprint": "785b07588d6ff33175bb5b3ec2792ff7",
   "total": 1768,
   "working": 1446,
-  "in_grace_period": 11,
+  "in_grace_period": 8,
   "dead": 322,
-  "hd_channels": 572,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 86,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 33,
@@ -635,11 +635,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -865,6 +860,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1057,7 +1057,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1315,11 +1315,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -1498,6 +1493,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
