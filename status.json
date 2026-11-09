@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 20:59 UTC",
-  "fingerprint": "785b07588d6ff33175bb5b3ec2792ff7",
+  "updated_at": "2026-11-09 21:43 UTC",
+  "fingerprint": "559f72241e64d04950e3796f098aaff8",
   "total": 1768,
-  "working": 1446,
-  "in_grace_period": 8,
-  "dead": 322,
-  "hd_channels": 571,
+  "working": 1445,
+  "in_grace_period": 3,
+  "dead": 323,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 597,
-      "hd": 213
+      "working": 596,
+      "hd": 212
     },
     "Kannada": {
       "total": 75,
@@ -1563,6 +1563,11 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Hungama TV (576p)",
