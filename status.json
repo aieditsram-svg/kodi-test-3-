@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 19:21 UTC",
-  "fingerprint": "761a59faf47bcbd936a35305ea2c0efb",
+  "updated_at": "2026-11-10 20:09 UTC",
+  "fingerprint": "1bff6a41c3130714ae0fc7829d2825a4",
   "total": 1752,
-  "working": 1475,
-  "in_grace_period": 6,
-  "dead": 277,
+  "working": 1476,
+  "in_grace_period": 8,
+  "dead": 276,
   "hd_channels": 593,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 88,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 592,
-      "hd": 218
+      "working": 593,
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -828,11 +828,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
