@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10 01:23 UTC",
-  "fingerprint": "2e7a0684809a5c14b7c6922782e5d542",
+  "updated_at": "2026-11-10 02:20 UTC",
+  "fingerprint": "dc48cf066f1bd503074bbfa81b5898c7",
   "total": 1752,
   "working": 1427,
-  "in_grace_period": 13,
+  "in_grace_period": 12,
   "dead": 325,
   "hd_channels": 565,
   "languages": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 585,
+      "working": 584,
       "hd": 209
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 132,
+      "working": 133,
       "hd": 64
     },
     "Telugu": {
@@ -173,11 +173,6 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -358,6 +353,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
