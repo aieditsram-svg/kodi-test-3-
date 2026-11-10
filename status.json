@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 11:07 UTC",
-  "fingerprint": "35e6bb8f26ac11ae11711ab518b72270",
+  "updated_at": "2026-11-10 11:53 UTC",
+  "fingerprint": "98e16ad5462795f9929407d6ca138dce",
   "total": 1752,
-  "working": 1266,
-  "in_grace_period": 11,
-  "dead": 486,
-  "hd_channels": 592,
+  "working": 1273,
+  "in_grace_period": 5,
+  "dead": 479,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 70,
-      "hd": 42
+      "working": 77,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 152,
-      "working": 101,
-      "hd": 48
+      "working": 102,
+      "hd": 49
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 481,
-      "hd": 216
+      "working": 482,
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 84,
-      "hd": 33
+      "working": 82,
+      "hd": 32
     },
     "Marathi": {
       "total": 54,
@@ -1300,6 +1300,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Manorama News (576p)",
       "url": "https://fta.ektv.in/live/55/55_0.m3u8",
       "reason": "HTTP 404"
@@ -2210,6 +2215,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "UTV Palakkad (1080p)",
+      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "UTV Palakkad (1080p)",
+      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "V6 News (576p)",
       "url": "https://fta.ektv.in/live/694/master.m3u8",
       "reason": "HTTP 404"
@@ -2460,59 +2475,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Colors HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Colors Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Colors Bangla Cinema (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Eurosport HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Enterr 10 Bangla (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Jalsha Movies (720p)",
-      "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Zee Bangla HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Aath (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "StarPlus HD (1080p)",
-      "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Taaza TV (576p)",
