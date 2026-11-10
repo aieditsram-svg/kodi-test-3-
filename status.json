@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 04:37 UTC",
-  "fingerprint": "96289783085b74bd30086dfef7069b9e",
+  "updated_at": "2026-11-10 05:30 UTC",
+  "fingerprint": "17314d2ceb1985b516be2a709f9a834b",
   "total": 1752,
-  "working": 1427,
-  "in_grace_period": 13,
-  "dead": 325,
-  "hd_channels": 566,
+  "working": 1422,
+  "in_grace_period": 56,
+  "dead": 330,
+  "hd_channels": 558,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 80,
-      "hd": 40
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 152,
-      "working": 110,
+      "working": 111,
       "hd": 44
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 585,
-      "hd": 209
+      "working": 583,
+      "hd": 208
     },
     "Kannada": {
       "total": 75,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 119,
       "working": 88,
-      "hd": 33
+      "hd": 32
     },
     "Marathi": {
       "total": 54,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 128,
+      "working": 126,
       "hd": 52
     },
     "Santali": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 133,
-      "hd": 64
+      "working": 131,
+      "hd": 61
     },
     "Telugu": {
       "total": 173,
-      "working": 126,
-      "hd": 51
+      "working": 127,
+      "hd": 48
     },
     "Urdu": {
       "total": 18,
@@ -180,6 +180,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Amrit Gurbani (720p)",
+      "url": "https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
@@ -222,7 +227,7 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -302,7 +307,7 @@
     {
       "name": "Captain (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Cartoon Network (720p)",
@@ -382,7 +387,7 @@
     {
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "DD Yadagiri (576p)",
@@ -485,11 +490,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -497,12 +497,12 @@
     {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Life (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Music (1080p)",
@@ -522,7 +522,7 @@
     {
       "name": "ETV Plus HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Telangana (1080p)",
@@ -532,7 +532,7 @@
     {
       "name": "ETV Telangana (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Telugu HD (1080p)",
@@ -567,7 +567,7 @@
     {
       "name": "Food Food (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Food Food (576p)",
@@ -667,11 +667,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -837,7 +832,7 @@
     {
       "name": "MBC TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Mercy TV (576p)",
@@ -915,6 +910,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -937,7 +937,7 @@
     {
       "name": "News18 Odia (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (720p)",
@@ -1017,7 +1017,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1032,6 +1032,16 @@
     {
       "name": "Northeast Live (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -1087,7 +1097,7 @@
     {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Punjabi Beats HD (720p)",
@@ -1098,6 +1108,11 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1340,6 +1355,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
       "reason": "HTTP 404"
@@ -1397,7 +1417,7 @@
     {
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Vaanavil TV (576p)",
@@ -1412,7 +1432,7 @@
     {
       "name": "Vanitha TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Vanitha TV (576p)",
@@ -1442,11 +1462,16 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
