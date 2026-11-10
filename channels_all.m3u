@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
-# All channels found (links not verified from this server included), updated 2026-11-10 18:21 UTC
+# All channels found (links not verified from this server included), updated 2026-11-10 19:21 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese" height="576",Asom Live 24 (576p)
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -2654,7 +2654,7 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=s
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" x-category="animation" tvg-logo="https://i.imgur.com/pH6ao2T.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",Cartoon Network HD+ (1080p)
 http://103.135.253.32:8080/CN-NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/4ss0KfA.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",CCV (480p)
+#EXTINF:-1 tvg-id="CCV.in@SD" x-category="general" tvg-logo="https://i.imgur.com/4ss0KfA.png" tvg-language="Malayalam" group-title="Malayalam" height="480",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="DarshanaTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142774_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Darshana TV (576p)
 https://cdn.pishow.tv/ott/live/1453/master.m3u8
