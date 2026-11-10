@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 10:18 UTC",
-  "fingerprint": "b5e2016d782bde20f01036dba32a98b7",
+  "updated_at": "2026-11-10 11:07 UTC",
+  "fingerprint": "35e6bb8f26ac11ae11711ab518b72270",
   "total": 1752,
-  "working": 1264,
-  "in_grace_period": 7,
-  "dead": 488,
-  "hd_channels": 593,
+  "working": 1266,
+  "in_grace_period": 11,
+  "dead": 486,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 479,
-      "hd": 217
+      "working": 481,
+      "hd": 216
     },
     "Kannada": {
       "total": 75,
@@ -2513,16 +2513,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
