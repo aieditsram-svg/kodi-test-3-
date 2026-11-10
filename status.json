@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 21:26 UTC",
-  "fingerprint": "c8ff6f61da891a5715fcaf5db367e08e",
+  "updated_at": "2026-11-10 22:06 UTC",
+  "fingerprint": "1403c0eb6c04647de6aa73e81f36d276",
   "total": 1752,
   "working": 1474,
-  "in_grace_period": 6,
+  "in_grace_period": 5,
   "dead": 278,
-  "hd_channels": 590,
+  "hd_channels": 591,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 88,
+      "working": 89,
       "hd": 42
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 730,
       "working": 593,
-      "hd": 218
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 134,
+      "working": 133,
       "hd": 54
     },
     "Urdu": {
@@ -478,6 +478,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -892,7 +897,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1088,11 +1093,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 403"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
