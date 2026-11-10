@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 20:50 UTC",
-  "fingerprint": "f8a494e85d8cab044e87fc285c11bd37",
+  "updated_at": "2026-11-10 21:26 UTC",
+  "fingerprint": "c8ff6f61da891a5715fcaf5db367e08e",
   "total": 1752,
-  "working": 1473,
-  "in_grace_period": 3,
-  "dead": 279,
-  "hd_channels": 592,
+  "working": 1474,
+  "in_grace_period": 6,
+  "dead": 278,
+  "hd_channels": 590,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 592,
-      "hd": 219
+      "working": 593,
+      "hd": 218
     },
     "Kannada": {
       "total": 75,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 138,
-      "hd": 68
+      "working": 137,
+      "hd": 67
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 134,
       "hd": 54
     },
     "Urdu": {
@@ -390,11 +390,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Deewana HD (540p)",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
       "reason": "URLError"
@@ -632,7 +627,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -745,11 +740,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -835,11 +825,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -907,7 +892,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1105,6 +1090,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
@@ -1143,6 +1133,11 @@
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "SVBC 2 (1080p)",
+      "url": "https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "SVBC 2 (576p)",
