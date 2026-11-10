@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 03:08 UTC",
-  "fingerprint": "4b34da075f8c25f018c016d648a1bd1b",
+  "updated_at": "2026-11-10 03:53 UTC",
+  "fingerprint": "0cac526e680a9d944f5d6098c5abe717",
   "total": 1752,
-  "working": 1426,
+  "working": 1428,
   "in_grace_period": 12,
-  "dead": 326,
+  "dead": 324,
   "hd_channels": 565,
   "languages": {
     "Assamese": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 152,
-      "working": 111,
-      "hd": 45
+      "working": 110,
+      "hd": 44
     },
     "Gujarati": {
       "total": 36,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 584,
+      "working": 585,
       "hd": 208
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -353,11 +348,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -675,6 +665,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -978,11 +973,6 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
