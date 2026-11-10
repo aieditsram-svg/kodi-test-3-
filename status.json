@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 23:18 UTC",
-  "fingerprint": "7dbb45823868c1bbe3bc34ff515920f2",
+  "updated_at": "2026-11-10 23:50 UTC",
+  "fingerprint": "58a7315d0f52ca11af0fde2abad196de",
   "total": 1752,
-  "working": 1475,
-  "in_grace_period": 1,
-  "dead": 277,
+  "working": 1476,
+  "in_grace_period": 30,
+  "dead": 276,
   "hd_channels": 590,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 593,
-      "hd": 218
+      "working": 594,
+      "hd": 219
     },
     "Kannada": {
       "total": 75,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 26,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 23,
@@ -1463,11 +1463,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
