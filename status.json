@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 20:09 UTC",
-  "fingerprint": "1bff6a41c3130714ae0fc7829d2825a4",
+  "updated_at": "2026-11-10 20:50 UTC",
+  "fingerprint": "f8a494e85d8cab044e87fc285c11bd37",
   "total": 1752,
-  "working": 1476,
-  "in_grace_period": 8,
-  "dead": 276,
-  "hd_channels": 593,
+  "working": 1473,
+  "in_grace_period": 3,
+  "dead": 279,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 593,
+      "working": 592,
       "hd": 219
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 89,
-      "hd": 31
+      "working": 87,
+      "hd": 30
     },
     "Marathi": {
       "total": 54,
@@ -302,6 +302,11 @@
     {
       "name": "Cartoon Network HD+ (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -627,7 +632,7 @@
     {
       "name": "Harvest USA (576p)",
       "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hi Dost! (576p)",
@@ -828,6 +833,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1237,6 +1247,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
