@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 22:53 UTC",
-  "fingerprint": "5c646b7717e5312825e8aecc9de67757",
+  "updated_at": "2026-11-11 23:37 UTC",
+  "fingerprint": "97d2df4f3b053aed268bff8fb01f00d7",
   "total": 1736,
-  "working": 1478,
-  "in_grace_period": 2,
-  "dead": 258,
+  "working": 1477,
+  "in_grace_period": 4,
+  "dead": 259,
   "hd_channels": 593,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 89,
+      "working": 88,
       "hd": 42
     },
     "Bhojpuri": {
@@ -678,6 +678,11 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
