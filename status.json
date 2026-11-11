@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 05:43 UTC",
-  "fingerprint": "0a4a76b57a86e7d2409ba004e56afddc",
+  "updated_at": "2026-11-11 06:40 UTC",
+  "fingerprint": "8029ecddd26f79475db14dd1b4b382c3",
   "total": 1736,
-  "working": 1465,
-  "in_grace_period": 6,
-  "dead": 271,
-  "hd_channels": 592,
+  "working": 1469,
+  "in_grace_period": 13,
+  "dead": 267,
+  "hd_channels": 594,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 88,
-      "hd": 42
+      "working": 89,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 587,
+      "working": 588,
       "hd": 218
     },
     "Kannada": {
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 131,
-      "hd": 52
+      "working": 132,
+      "hd": 53
     },
     "Santali": {
       "total": 1,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 133,
+      "working": 134,
       "hd": 55
     },
     "Urdu": {
@@ -448,11 +448,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -915,11 +910,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -933,11 +923,6 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Ragni (360p)",
-      "url": "https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -1233,11 +1218,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
