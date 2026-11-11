@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 14:34 UTC",
-  "fingerprint": "6e54f6fd5625f75aa6984c5fd273d378",
+  "updated_at": "2026-11-11 15:21 UTC",
+  "fingerprint": "ecdb35604bf78bd1f7e83f0bca5189a5",
   "total": 1736,
-  "working": 1478,
-  "in_grace_period": 11,
-  "dead": 258,
+  "working": 1476,
+  "in_grace_period": 15,
+  "dead": 260,
   "hd_channels": 594,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 85,
+      "working": 84,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
-      "hd": 218
+      "working": 593,
+      "hd": 219
     },
     "Kannada": {
       "total": 71,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 168,
       "working": 134,
-      "hd": 55
+      "hd": 54
     },
     "Urdu": {
       "total": 18,
@@ -665,6 +665,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -780,6 +785,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
@@ -817,7 +827,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
