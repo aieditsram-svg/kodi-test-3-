@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 01:29 UTC",
-  "fingerprint": "916edcc3c1afa94b94121ab184bf4689",
+  "updated_at": "2026-11-11 02:21 UTC",
+  "fingerprint": "4deeec8ded7318ca9940c46d6fc6acec",
   "total": 1736,
-  "working": 1452,
-  "in_grace_period": 37,
-  "dead": 284,
-  "hd_channels": 591,
+  "working": 1450,
+  "in_grace_period": 64,
+  "dead": 286,
+  "hd_channels": 579,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 121,
       "working": 87,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -30,7 +30,7 @@
     "English": {
       "total": 141,
       "working": 114,
-      "hd": 49
+      "hd": 48
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 583,
-      "hd": 218
+      "working": 581,
+      "hd": 214
     },
     "Kannada": {
       "total": 71,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 51,
       "working": 39,
-      "hd": 18
+      "hd": 17
     },
     "Nepali": {
       "total": 6,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 131,
-      "hd": 52
+      "working": 130,
+      "hd": 49
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 174,
       "working": 137,
-      "hd": 68
+      "hd": 67
     },
     "Telugu": {
       "total": 168,
-      "working": 132,
-      "hd": 54
+      "working": 133,
+      "hd": 53
     },
     "Urdu": {
       "total": 18,
@@ -505,11 +505,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -572,7 +567,7 @@
     {
       "name": "Fast1 (576p)",
       "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "First India News (576p)",
@@ -997,7 +992,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Public Music (576p)",
@@ -1007,6 +1002,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1310,6 +1310,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -1508,6 +1513,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
