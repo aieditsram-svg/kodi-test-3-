@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-11 08:44 UTC",
-  "fingerprint": "918b4998e17d8626f516c5f0f9a577b0",
+  "updated_at": "2026-11-11 09:39 UTC",
+  "fingerprint": "2ace264ec853e0efdacb9cd6cf4cb6bd",
   "total": 1736,
   "working": 1476,
-  "in_grace_period": 14,
+  "in_grace_period": 12,
   "dead": 260,
   "hd_channels": 594,
   "languages": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 121,
       "working": 88,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 36,
-      "working": 34,
-      "hd": 16
+      "working": 33,
+      "hd": 15
     },
     "Hindi": {
       "total": 717,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 137,
+      "working": 138,
       "hd": 68
     },
     "Telugu": {
@@ -840,6 +840,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1093,11 +1098,6 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Thendral TV (576p)",
-      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
