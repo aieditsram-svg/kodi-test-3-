@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 07:44 UTC",
-  "fingerprint": "583e58378120078296e5c243064a17c4",
+  "updated_at": "2026-11-12 08:42 UTC",
+  "fingerprint": "aee822c539005f1cc7ce917078e2cde0",
   "total": 1838,
   "working": 1586,
-  "in_grace_period": 7,
+  "in_grace_period": 6,
   "dead": 252,
-  "hd_channels": 622,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 747,
       "working": 632,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 76,
@@ -277,7 +277,7 @@
     {
       "name": "Chardikla Time TV (1080p)",
       "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -743,11 +743,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1227,7 +1222,7 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -1353,6 +1348,11 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sony Max 1 (720p)",
+      "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
+      "reason": "HTTP 403"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
