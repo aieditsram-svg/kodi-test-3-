@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-12 20:34 UTC",
-  "fingerprint": "7cf720b63b90cd33857e2f89b96eceb8",
+  "updated_at": "2026-11-12 21:24 UTC",
+  "fingerprint": "a79029b6cd75709c36403ff63992fdfe",
   "total": 1838,
   "working": 1587,
-  "in_grace_period": 30,
+  "in_grace_period": 33,
   "dead": 251,
   "hd_channels": 621,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 629,
+      "working": 628,
       "hd": 226
     },
     "Kannada": {
@@ -685,6 +685,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -1023,11 +1028,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
