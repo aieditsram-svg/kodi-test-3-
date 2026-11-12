@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 14:35 UTC",
-  "fingerprint": "79929b1f881cecd6bf577745be54ac54",
+  "updated_at": "2026-11-12 15:29 UTC",
+  "fingerprint": "973938c0d85ae76368a8063bcba392ed",
   "total": 1838,
-  "working": 1592,
-  "in_grace_period": 14,
-  "dead": 246,
-  "hd_channels": 624,
+  "working": 1591,
+  "in_grace_period": 26,
+  "dead": 247,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 632,
-      "hd": 228
+      "working": 631,
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -668,6 +668,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1322,7 +1327,7 @@
     {
       "name": "Sony Max 1 (720p)",
       "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
