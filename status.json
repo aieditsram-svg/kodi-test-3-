@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 15:29 UTC",
-  "fingerprint": "973938c0d85ae76368a8063bcba392ed",
+  "updated_at": "2026-11-12 16:30 UTC",
+  "fingerprint": "ea204e7dbd36c5efff63ee3a9554026b",
   "total": 1838,
-  "working": 1591,
-  "in_grace_period": 26,
-  "dead": 247,
-  "hd_channels": 622,
+  "working": 1586,
+  "in_grace_period": 8,
+  "dead": 252,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 94,
+      "working": 93,
       "hd": 44
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
-      "hd": 226
+      "working": 628,
+      "hd": 228
     },
     "Kannada": {
       "total": 76,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 154,
+      "working": 153,
       "hd": 56
     },
     "Santali": {
@@ -160,6 +160,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -187,6 +192,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -478,6 +488,11 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Fast1 (576p)",
+      "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "First India News (576p)",
@@ -860,6 +875,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1013,6 +1033,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
@@ -1327,7 +1352,7 @@
     {
       "name": "Sony Max 1 (720p)",
       "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
