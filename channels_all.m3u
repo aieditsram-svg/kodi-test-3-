@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
-# All channels found (links not verified from this server included), updated 2026-11-12 22:09 UTC
+# All channels found (links not verified from this server included), updated 2026-11-12 22:51 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese" height="576",Asom Live 24 (576p)
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -47,7 +47,7 @@ https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Prag News (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/336/master.m3u8
-#EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Prag News (576p)
+#EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Prag News (576p)
 https://hls.pragnews.com/master.m3u8
 #EXTINF:-1 tvg-id="PragNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Prag News (576p)
 https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
@@ -2372,7 +2372,7 @@ https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
 https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
 #EXTINF:-1 tvg-id="TV45.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV45.png" tvg-language="Hindi" group-title="Hindi" height="1080",TV45 (1080p)
 https://stream.ottlive.co.in/tv45/index.m3u8
-#EXTINF:-1 tvg-id="TV7Bharat.in@SD" x-category="news" tvg-logo="https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg" tvg-language="Hindi" group-title="Hindi" height="1080",TV7 Bharat (576p)
+#EXTINF:-1 tvg-id="TV7Bharat.in@SD" x-category="news" tvg-logo="https://tv7bharat.tv/wp-content/uploads/2023/07/Logo-Bharat.jpg" tvg-language="Hindi" group-title="Hindi" height="576",TV7 Bharat (576p)
 https://stream.ottlive.co.in/tv7bharat/index.m3u8
 #EXTINF:-1 tvg-id="TV7National.in@SD" x-category="news" tvg-logo="https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/52ac91e7-2c9d-415b-a63f-fb41413105ff.jpg" tvg-language="Hindi" group-title="Hindi" height="1080",TV7 National (1080p)
 https://stream.ottlive.co.in/tv7national/index.m3u8
@@ -3702,7 +3702,7 @@ https://galaxyott.live/hls/ntv.m3u8
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
 https://hlslive.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="576",OM TV (576p)
+#EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
 https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8
