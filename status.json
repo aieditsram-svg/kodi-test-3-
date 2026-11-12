@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 12:23 UTC",
-  "fingerprint": "b893e16260ef4d117bbc85f9a9fb4796",
+  "updated_at": "2026-11-12 13:40 UTC",
+  "fingerprint": "092bae7104cb037320390cef72317685",
   "total": 1838,
   "working": 1590,
-  "in_grace_period": 71,
+  "in_grace_period": 9,
   "dead": 248,
-  "hd_channels": 622,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
-      "hd": 227
+      "working": 630,
+      "hd": 228
     },
     "Kannada": {
       "total": 76,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 35,
       "working": 27,
-      "hd": 10
+      "hd": 11
     },
     "Other": {
       "total": 24,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 139,
-      "hd": 66
+      "working": 140,
+      "hd": 67
     },
     "Telugu": {
       "total": 172,
@@ -695,11 +695,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "MNTV (1080p)",
-      "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV (576p)",
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 403"
@@ -735,11 +730,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -772,6 +762,11 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1318,6 +1313,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
