@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-12 09:36 UTC",
-  "fingerprint": "c7c064a755377fcab06ab3cf94cca7e2",
+  "updated_at": "2026-11-12 10:35 UTC",
+  "fingerprint": "a0a2d96114805eee39d6daa155c5cb75",
   "total": 1838,
-  "working": 1588,
-  "in_grace_period": 7,
-  "dead": 250,
+  "working": 1589,
+  "in_grace_period": 11,
+  "dead": 249,
   "hd_channels": 623,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 633,
-      "hd": 228
+      "working": 632,
+      "hd": 227
     },
     "Kannada": {
       "total": 76,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 94,
-      "hd": 33
+      "working": 96,
+      "hd": 34
     },
     "Marathi": {
       "total": 52,
@@ -1130,16 +1130,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "UTV Palakkad (1080p)",
-      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "UTV Palakkad (1080p)",
-      "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Valam TV Dayro (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8",
       "reason": "HTTP 403"
@@ -1233,6 +1223,11 @@
       "name": "Zee Horror Nights (1080p)",
       "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee News (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee South Flix (1080p)",
