@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 19:50 UTC",
-  "fingerprint": "81a4bff0c414ffbda90166ad86552fbe",
+  "updated_at": "2026-11-12 20:34 UTC",
+  "fingerprint": "7cf720b63b90cd33857e2f89b96eceb8",
   "total": 1838,
   "working": 1587,
-  "in_grace_period": 2,
+  "in_grace_period": 30,
   "dead": 251,
-  "hd_channels": 620,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 630,
-      "hd": 225
+      "working": 629,
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -428,11 +428,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -857,6 +852,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
