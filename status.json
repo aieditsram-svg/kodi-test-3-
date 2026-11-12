@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 11:29 UTC",
-  "fingerprint": "408b25fd2832a78a05b5704f20276b24",
+  "updated_at": "2026-11-12 12:23 UTC",
+  "fingerprint": "b893e16260ef4d117bbc85f9a9fb4796",
   "total": 1838,
-  "working": 1589,
-  "in_grace_period": 12,
-  "dead": 249,
-  "hd_channels": 624,
+  "working": 1590,
+  "in_grace_period": 71,
+  "dead": 248,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 632,
+      "working": 631,
       "hd": 227
     },
     "Kannada": {
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 35,
       "working": 27,
-      "hd": 11
+      "hd": 10
     },
     "Other": {
       "total": 24,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 139,
-      "hd": 57
+      "working": 141,
+      "hd": 56
     },
     "Urdu": {
       "total": 21,
@@ -420,11 +420,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -443,11 +438,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -747,6 +737,11 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
