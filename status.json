@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-13 02:51 UTC",
-  "fingerprint": "ae7dba15f285e37ead1fb83dbff9c8bb",
+  "updated_at": "2026-11-13 03:37 UTC",
+  "fingerprint": "16fb019f6dd6bce54944b1933f77afa2",
   "total": 1850,
   "working": 1568,
-  "in_grace_period": 6,
+  "in_grace_period": 7,
   "dead": 282,
   "hd_channels": 623,
   "languages": {
@@ -1287,7 +1287,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "V6 News (576p)",
