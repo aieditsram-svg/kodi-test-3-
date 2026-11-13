@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13 09:37 UTC",
-  "fingerprint": "5f48862304474b7137c5da639d766a3e",
+  "updated_at": "2026-11-13 10:34 UTC",
+  "fingerprint": "31d3b378b4505d04c7bd680b5e0d3289",
   "total": 1850,
-  "working": 1588,
+  "working": 1590,
   "in_grace_period": 11,
-  "dead": 262,
+  "dead": 260,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 145,
-      "working": 125,
+      "working": 126,
       "hd": 50
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 634,
+      "working": 635,
       "hd": 226
     },
     "Kannada": {
@@ -568,11 +568,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Hosanna TV Global",
-      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -1128,11 +1123,6 @@
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "TTN24 (720p)",
-      "url": "https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "TV5 Kannada (576p)",
