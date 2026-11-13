@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13 04:35 UTC",
-  "fingerprint": "02d715bcb876d2e5a3b635a0306bf8f4",
+  "updated_at": "2026-11-13 05:32 UTC",
+  "fingerprint": "1ae9a9687720d066ce7f4117ed43d646",
   "total": 1850,
-  "working": 1571,
-  "in_grace_period": 11,
-  "dead": 279,
+  "working": 1574,
+  "in_grace_period": 12,
+  "dead": 276,
   "hd_channels": 624,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
-      "hd": 228
+      "working": 634,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 132,
-      "hd": 55
+      "working": 133,
+      "hd": 56
     },
     "Urdu": {
       "total": 22,
@@ -470,11 +470,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -765,11 +760,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -878,11 +868,6 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "NewsX (720p)",
@@ -1272,7 +1257,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
