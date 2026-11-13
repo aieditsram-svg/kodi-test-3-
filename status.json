@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 21:00 UTC",
-  "fingerprint": "fda9d1ae804ca6850a5fc7b14c5e4013",
+  "updated_at": "2026-11-13 21:42 UTC",
+  "fingerprint": "7e910ce59e988f42669408747e71ce59",
   "total": 1850,
-  "working": 1589,
-  "in_grace_period": 10,
-  "dead": 261,
-  "hd_channels": 622,
+  "working": 1585,
+  "in_grace_period": 6,
+  "dead": 265,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 43,
       "hd": 20
     },
     "Hindi": {
       "total": 754,
       "working": 636,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 137,
       "hd": 55
     },
     "Urdu": {
@@ -430,6 +430,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -542,6 +547,11 @@
     {
       "name": "Gospel TV India (576p)",
       "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "GS TV (576p)",
+      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -748,11 +758,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1385,6 +1390,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1398,6 +1408,16 @@
       "name": "Sony Max 1 (720p)",
       "url": "https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Prime9 News (1080p)",
+      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Prime9 News (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
+      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
