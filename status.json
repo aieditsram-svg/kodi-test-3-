@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 21:27 UTC",
-  "fingerprint": "04aa3c749824a808e9c1472cdbe363d1",
+  "updated_at": "2026-11-14 22:02 UTC",
+  "fingerprint": "23658fede00fb5bc0da9689295ada7c3",
   "total": 1844,
   "working": 1592,
-  "in_grace_period": 4,
+  "in_grace_period": 2,
   "dead": 252,
-  "hd_channels": 620,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -35,7 +35,7 @@
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Hindi": {
       "total": 751,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -425,11 +425,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -610,11 +605,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -698,6 +688,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1043,6 +1038,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
