@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 20:57 UTC",
-  "fingerprint": "617671443965b4d16d6395279b2923e0",
+  "updated_at": "2026-11-14 21:27 UTC",
+  "fingerprint": "04aa3c749824a808e9c1472cdbe363d1",
   "total": 1844,
-  "working": 1591,
-  "in_grace_period": 7,
-  "dead": 253,
+  "working": 1592,
+  "in_grace_period": 4,
+  "dead": 252,
   "hd_channels": 620,
   "languages": {
     "Assamese": {
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Hindi": {
       "total": 751,
-      "working": 633,
-      "hd": 225
+      "working": 634,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -208,11 +208,6 @@
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Awaaz India TV (720p) [Not 24/7]",
-      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
