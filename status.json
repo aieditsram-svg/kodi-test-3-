@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 10:15 UTC",
-  "fingerprint": "0bb98c70391321f901fb0efcf7b09357",
+  "updated_at": "2026-11-14 10:54 UTC",
+  "fingerprint": "eeed58d664ce2bf113d0da52c4b4cec4",
   "total": 1844,
-  "working": 1598,
-  "in_grace_period": 11,
-  "dead": 246,
-  "hd_channels": 626,
+  "working": 1596,
+  "in_grace_period": 16,
+  "dead": 248,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 45,
+      "working": 44,
       "hd": 20
     },
     "Hindi": {
       "total": 751,
       "working": 635,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -178,11 +178,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Anjan TV (720p)",
-      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Anmol TV (576p)",
@@ -1035,6 +1030,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "StarPlus HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a008/index.m3u8",
       "reason": "URLError"
@@ -1315,6 +1315,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1323,6 +1328,11 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Valam TV Dayro (576p)",
+      "url": "https://samitaorigin.tangotv.in/VALAMDAIRO/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
