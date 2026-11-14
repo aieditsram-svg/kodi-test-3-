@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 19:46 UTC",
-  "fingerprint": "49df97fa6dfa8c7ef1fc6a79748cafe8",
+  "updated_at": "2026-11-14 20:19 UTC",
+  "fingerprint": "34165a36370b3a0723964fc69b2bc8fa",
   "total": 1844,
-  "working": 1591,
-  "in_grace_period": 6,
-  "dead": 253,
+  "working": 1592,
+  "in_grace_period": 4,
+  "dead": 252,
   "hd_channels": 621,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 633,
+      "working": 634,
       "hd": 225
     },
     "Kannada": {
@@ -698,11 +698,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
