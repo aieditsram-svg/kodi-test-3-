@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-15 12:23 UTC",
-  "fingerprint": "eac397b66128f78026504be6ded07b37",
+  "updated_at": "2026-11-15 13:20 UTC",
+  "fingerprint": "fcc22f1b2ca1fa7d79c03d3f0808082b",
   "total": 1840,
-  "working": 1578,
-  "in_grace_period": 11,
-  "dead": 262,
+  "working": 1579,
+  "in_grace_period": 6,
+  "dead": 261,
   "hd_channels": 619,
   "languages": {
     "Assamese": {
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 42,
-      "hd": 20
+      "working": 44,
+      "hd": 21
     },
     "Hindi": {
       "total": 750,
-      "working": 631,
+      "working": 633,
       "hd": 226
     },
     "Kannada": {
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 149,
-      "hd": 56
+      "working": 148,
+      "hd": 55
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 138,
       "hd": 56
     },
     "Urdu": {
@@ -200,11 +200,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -245,6 +240,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -262,7 +262,7 @@
     {
       "name": "Channel Divya (1080p)",
       "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Channel Divya (720p)",
@@ -880,11 +880,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1361,6 +1356,11 @@
     },
     {
       "name": "Pitaara Comedy (1080p)",
+      "url": "https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "Pitaara Comedy (1080p)",
       "url": "https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8",
       "reason": "TimeoutError"
     },
@@ -1373,11 +1373,6 @@
       "name": "Pitaara Comedy (1080p)",
       "url": "https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/playlist.m3u8",
       "reason": "HTTP 504"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shemaroo TV (576p)",
@@ -1395,14 +1390,14 @@
       "reason": "URLError"
     },
     {
-      "name": "Shri Shyam TV (1080p)",
-      "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
+      "name": "Prime9 News (1080p)",
+      "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Shri Shyam TV (1080p)",
-      "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "Prime9 News (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/25259c4f-6592-4611-b1cd-8955943617c6/index.m3u8",
+      "reason": "HTTP 504"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
