@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 16:39 UTC",
-  "fingerprint": "a481d891633124ff2f92588ba843ce8d",
+  "updated_at": "2026-11-15 17:16 UTC",
+  "fingerprint": "ad7e6f7756b72e6f1e7679fbcf1ce9d5",
   "total": 1840,
-  "working": 1590,
-  "in_grace_period": 5,
-  "dead": 250,
-  "hd_channels": 622,
+  "working": 1592,
+  "in_grace_period": 19,
+  "dead": 248,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 635,
-      "hd": 226
+      "working": 637,
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 139,
+      "working": 140,
       "hd": 67
     },
     "Telugu": {
@@ -500,11 +500,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -733,11 +728,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1025,6 +1015,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1103,11 +1098,6 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Thendral TV (576p)",
-      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
@@ -1317,7 +1307,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Goldmines (576p)",
