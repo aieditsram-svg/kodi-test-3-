@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 14:08 UTC",
-  "fingerprint": "513bfe6f524ffc317506cd1dfcf17ae6",
+  "updated_at": "2026-11-15 14:48 UTC",
+  "fingerprint": "3c5f64fba4e73eabc6950451e2dafffd",
   "total": 1840,
-  "working": 1596,
-  "in_grace_period": 9,
-  "dead": 244,
-  "hd_channels": 623,
+  "working": 1597,
+  "in_grace_period": 11,
+  "dead": 243,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 641,
-      "hd": 228
+      "working": 642,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 139,
       "hd": 67
     },
     "Telugu": {
       "total": 172,
-      "working": 139,
+      "working": 140,
       "hd": 56
     },
     "Urdu": {
@@ -233,11 +233,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -398,11 +393,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1073,6 +1063,11 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
