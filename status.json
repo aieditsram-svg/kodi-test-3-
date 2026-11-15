@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 05:31 UTC",
-  "fingerprint": "88d31704a568480c167d8a5059930398",
+  "updated_at": "2026-11-15 06:22 UTC",
+  "fingerprint": "98274b524bab6f43a14a1a3027d020e7",
   "total": 1840,
-  "working": 1586,
+  "working": 1585,
   "in_grace_period": 12,
-  "dead": 254,
-  "hd_channels": 619,
+  "dead": 255,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 42,
       "hd": 20
     },
     "Hindi": {
       "total": 750,
       "working": 632,
-      "hd": 226
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 94,
-      "hd": 33
+      "working": 95,
+      "hd": 34
     },
     "Marathi": {
       "total": 52,
@@ -195,11 +195,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -273,11 +268,6 @@
       "name": "Captain (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -880,14 +870,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raftaar Media (240p)",
+      "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj Digital Plus (1080p)",
@@ -1355,6 +1345,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1363,6 +1358,16 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Shri Shyam TV (1080p)",
+      "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shri Shyam TV (1080p)",
+      "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
