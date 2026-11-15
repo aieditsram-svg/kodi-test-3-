@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 19:48 UTC",
-  "fingerprint": "d7f5bd1534f636f2600bfff5ffddb52b",
+  "updated_at": "2026-11-15 20:22 UTC",
+  "fingerprint": "6727a562b01a446d7f9339a2676b88a2",
   "total": 1840,
-  "working": 1587,
-  "in_grace_period": 13,
-  "dead": 253,
-  "hd_channels": 617,
+  "working": 1588,
+  "in_grace_period": 10,
+  "dead": 252,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 85,
       "hd": 39
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 750,
       "working": 639,
-      "hd": 225
+      "hd": 223
     },
     "Kannada": {
       "total": 77,
@@ -163,6 +163,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -725,11 +730,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -918,11 +918,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
