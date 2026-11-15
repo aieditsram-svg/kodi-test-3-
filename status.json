@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-15 22:43 UTC",
-  "fingerprint": "63f9628b1311adeade0d15e699439864",
+  "updated_at": "2026-11-15 23:20 UTC",
+  "fingerprint": "5ca98574ac4f3e3e681d4592f64a17f7",
   "total": 1840,
-  "working": 1592,
-  "in_grace_period": 7,
-  "dead": 248,
+  "working": 1590,
+  "in_grace_period": 9,
+  "dead": 250,
   "hd_channels": 617,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 124,
       "working": 85,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 641,
-      "hd": 224
+      "working": 639,
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -450,6 +450,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Fateh TV (1080p) [Not 24/7]",
+      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "First India News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -643,6 +648,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
