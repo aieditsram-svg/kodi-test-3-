@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 04:41 UTC",
-  "fingerprint": "4a0ba2302d564f10998770fc04fbe983",
+  "updated_at": "2026-11-15 05:31 UTC",
+  "fingerprint": "88d31704a568480c167d8a5059930398",
   "total": 1840,
-  "working": 1587,
-  "in_grace_period": 10,
-  "dead": 253,
-  "hd_channels": 617,
+  "working": 1586,
+  "in_grace_period": 12,
+  "dead": 254,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 90,
-      "hd": 40
+      "working": 89,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 633,
+      "working": 632,
       "hd": 226
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 93,
-      "hd": 32
+      "working": 94,
+      "hd": 33
     },
     "Marathi": {
       "total": 52,
@@ -675,6 +675,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -688,6 +693,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1162,11 +1172,6 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "VCV (720p) [Not 24/7]",
-      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
