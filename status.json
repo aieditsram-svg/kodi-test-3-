@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 07:32 UTC",
-  "fingerprint": "172c6667a9a6e3fd1e1fef4c8e1cf757",
+  "updated_at": "2026-11-15 08:26 UTC",
+  "fingerprint": "b9955cb2d9df99830882ec79aaf7a824",
   "total": 1840,
   "working": 1585,
-  "in_grace_period": 8,
+  "in_grace_period": 7,
   "dead": 255,
-  "hd_channels": 621,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 88,
+      "working": 87,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 632,
+      "working": 635,
       "hd": 227
     },
     "Kannada": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
-      "hd": 67
+      "working": 137,
+      "hd": 66
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -238,11 +238,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -400,11 +395,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -498,11 +488,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -675,6 +660,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -777,7 +767,7 @@
     {
       "name": "News 24 (576p)",
       "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "News Nation (576p)",
@@ -828,6 +818,16 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -950,6 +950,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -983,11 +988,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1345,11 +1345,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
@@ -1358,6 +1353,11 @@
       "name": "Raj Pariwar (576p)",
       "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Shri Shyam TV (1080p)",
