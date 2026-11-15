@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-15 16:02 UTC",
-  "fingerprint": "75ae22a7e29875ded5e0c24ec03ce540",
+  "updated_at": "2026-11-15 16:39 UTC",
+  "fingerprint": "a481d891633124ff2f92588ba843ce8d",
   "total": 1840,
-  "working": 1593,
-  "in_grace_period": 13,
-  "dead": 247,
+  "working": 1590,
+  "in_grace_period": 5,
+  "dead": 250,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 637,
+      "working": 635,
       "hd": 226
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 139,
       "hd": 56
     },
     "Urdu": {
@@ -165,11 +165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -208,6 +203,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -418,6 +418,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -665,6 +670,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -723,6 +733,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -845,14 +860,14 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Raftaar Media (240p)",
-      "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Raj Digital Plus (1080p)",
