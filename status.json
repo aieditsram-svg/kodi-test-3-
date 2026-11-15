@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 11:47 UTC",
-  "fingerprint": "c4bd283cadca930436649c80b4dcd789",
+  "updated_at": "2026-11-15 12:23 UTC",
+  "fingerprint": "eac397b66128f78026504be6ded07b37",
   "total": 1840,
-  "working": 1581,
-  "in_grace_period": 12,
-  "dead": 259,
-  "hd_channels": 621,
+  "working": 1578,
+  "in_grace_period": 11,
+  "dead": 262,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 750,
       "working": 631,
-      "hd": 227
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 152,
-      "hd": 57
+      "working": 149,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -165,11 +165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -203,6 +198,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -262,7 +262,7 @@
     {
       "name": "Channel Divya (1080p)",
       "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Channel Divya (720p)",
@@ -358,6 +358,11 @@
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Divya Bhajan (1080p)",
+      "url": "https://jmp2.uk/stvp-IN1600002IQ",
+      "reason": "HTTP 504"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -807,7 +812,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -823,6 +828,16 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pitaara (1080p)",
+      "url": "https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Pitaara (1080p)",
+      "url": "https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Pitaara (720p)",
@@ -1042,7 +1057,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 403"
+      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
