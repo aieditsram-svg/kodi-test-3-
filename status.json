@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 21:32 UTC",
-  "fingerprint": "5f058cdc354549425b7e50f0867315c1",
+  "updated_at": "2026-11-16 22:21 UTC",
+  "fingerprint": "f1b44e2e84eb5aa506b5b253368988a1",
   "total": 1840,
-  "working": 1592,
-  "in_grace_period": 8,
-  "dead": 248,
-  "hd_channels": 618,
+  "working": 1593,
+  "in_grace_period": 7,
+  "dead": 247,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 639,
-      "hd": 225
+      "working": 641,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 156,
+      "working": 155,
       "hd": 57
     },
     "Santali": {
@@ -190,11 +190,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -203,11 +198,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -1045,6 +1035,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
       "reason": "HTTP 404"
@@ -1320,14 +1315,14 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "D5 Channel Punjabi (1080p)",
+      "url": "https://d5.tv360.ca:3453/live/cd5live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj Pariwar (576p)",
