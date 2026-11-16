@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-16 01:07 UTC",
-  "fingerprint": "cd8b58911a5ee43a31049550fd7eaa1c",
+  "updated_at": "2026-11-16 02:24 UTC",
+  "fingerprint": "877070e556f535d286bd3d7e2aa2dfb3",
   "total": 1840,
-  "working": 1588,
-  "in_grace_period": 11,
-  "dead": 252,
+  "working": 1589,
+  "in_grace_period": 14,
+  "dead": 251,
   "hd_channels": 615,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 639,
+      "working": 640,
       "hd": 224
     },
     "Kannada": {
@@ -448,11 +448,6 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Fateh TV (1080p) [Not 24/7]",
-      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "First India News (576p)",
