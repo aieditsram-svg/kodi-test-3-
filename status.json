@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 14:07 UTC",
-  "fingerprint": "6e942edfcecca62eef734b77be18b79c",
+  "updated_at": "2026-11-16 16:09 UTC",
+  "fingerprint": "6746216e86297f9e3bbf25ff70bc01d1",
   "total": 1840,
-  "working": 1597,
-  "in_grace_period": 19,
-  "dead": 243,
-  "hd_channels": 621,
+  "working": 1595,
+  "in_grace_period": 10,
+  "dead": 245,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 84,
       "hd": 41
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 144,
       "working": 126,
-      "hd": 49
+      "hd": 50
     },
     "Gujarati": {
       "total": 47,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 643,
-      "hd": 228
+      "working": 641,
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 139,
-      "hd": 66
+      "working": 140,
+      "hd": 67
     },
     "Telugu": {
       "total": 172,
@@ -147,7 +147,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -505,11 +505,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Hebron TV (1080p)",
-      "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -527,7 +522,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -635,6 +630,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -727,7 +727,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -980,6 +980,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1033,6 +1038,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
@@ -1252,52 +1262,52 @@
     {
       "name": "Colors HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla Cinema (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Enterr 10 Bangla (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Jalsha Movies (720p)",
       "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Sony Aath (576p)",
       "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Taaza TV (576p)",
