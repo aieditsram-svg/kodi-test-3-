@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 22:21 UTC",
-  "fingerprint": "f1b44e2e84eb5aa506b5b253368988a1",
+  "updated_at": "2026-11-16 23:06 UTC",
+  "fingerprint": "648bc4cfd87419cada6e246c25350db2",
   "total": 1840,
-  "working": 1593,
+  "working": 1591,
   "in_grace_period": 7,
-  "dead": 247,
-  "hd_channels": 619,
+  "dead": 249,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 641,
-      "hd": 226
+      "working": 640,
+      "hd": 224
     },
     "Kannada": {
       "total": 77,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 166,
       "working": 155,
-      "hd": 57
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -340,6 +340,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Dukhnivaran Patiala Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -378,6 +383,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -527,7 +537,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -598,6 +608,11 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Kabaddi 24x7 (720p)",
+      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Kairali Arabia (576p)",
@@ -1318,11 +1333,6 @@
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "D5 Channel Punjabi (1080p)",
-      "url": "https://d5.tv360.ca:3453/live/cd5live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Raj Pariwar (576p)",
