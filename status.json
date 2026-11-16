@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 03:25 UTC",
-  "fingerprint": "4bbf59376e88ce289fe6dd49d33d30f4",
+  "updated_at": "2026-11-16 04:59 UTC",
+  "fingerprint": "3e979aa312b327379f3c3dae0b681b3b",
   "total": 1840,
   "working": 1588,
-  "in_grace_period": 15,
+  "in_grace_period": 13,
   "dead": 252,
-  "hd_channels": 617,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 83,
+      "working": 82,
       "hd": 39
     },
     "Bhojpuri": {
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Hindi": {
       "total": 750,
       "working": 638,
-      "hd": 226
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -505,11 +505,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "GS TV (576p)",
-      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -640,6 +635,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -653,11 +653,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -1112,6 +1107,11 @@
     {
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV27 News (360p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
       "reason": "HTTP 404"
     },
     {
