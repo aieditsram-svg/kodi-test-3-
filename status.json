@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 12:15 UTC",
-  "fingerprint": "c445535e44e5e018a48ed29c2efcc71e",
+  "updated_at": "2026-11-17 13:26 UTC",
+  "fingerprint": "c0d2b2f56337c14fab766d3136570dcf",
   "total": 1827,
-  "working": 1587,
-  "in_grace_period": 5,
-  "dead": 240,
-  "hd_channels": 624,
+  "working": 1586,
+  "in_grace_period": 12,
+  "dead": 241,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 637,
-      "hd": 229
+      "working": 636,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -1277,6 +1277,11 @@
     {
       "name": "News India 24x7 (1080p)",
       "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
       "reason": "HTTP 404"
     },
     {
