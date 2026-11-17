@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-17 02:38 UTC",
-  "fingerprint": "39e4172c28410cc8f0a90bf2064d9b4a",
+  "updated_at": "2026-11-17 03:27 UTC",
+  "fingerprint": "b48c34ed5a428f4a51554eaee735df98",
   "total": 1835,
-  "working": 1589,
-  "in_grace_period": 18,
-  "dead": 246,
+  "working": 1588,
+  "in_grace_period": 13,
+  "dead": 247,
   "hd_channels": 620,
   "languages": {
     "Assamese": {
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 638,
+      "working": 636,
       "hd": 228
     },
     "Kannada": {
       "total": 77,
       "working": 60,
-      "hd": 26
+      "hd": 25
     },
     "Konkani": {
       "total": 3,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 155,
-      "hd": 56
+      "working": 156,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -230,11 +230,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -278,6 +273,16 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -333,11 +338,6 @@
       "name": "Dhool TV (576p)",
       "url": "https://fta.ektv.in/live/631/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Dukhniwaran (576p)",
@@ -598,11 +598,6 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Kairali Arabia (576p)",
@@ -938,6 +933,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1313,6 +1313,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
