@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 22:46 UTC",
-  "fingerprint": "50a47c1f7d61da22ec01d1ec7e16c1c6",
+  "updated_at": "2026-11-17 23:34 UTC",
+  "fingerprint": "e54f8d130b886cd62a922c19244d893b",
   "total": 1827,
-  "working": 1589,
-  "in_grace_period": 6,
-  "dead": 238,
-  "hd_channels": 622,
+  "working": 1587,
+  "in_grace_period": 5,
+  "dead": 240,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 635,
-      "hd": 228
+      "working": 634,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -660,6 +660,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -978,6 +983,11 @@
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "SVBC (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "SVBC 2 (576p)",
