@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 01:46 UTC",
-  "fingerprint": "93c219d563d32d0b6d204d2a83261e35",
+  "updated_at": "2026-11-17 02:38 UTC",
+  "fingerprint": "39e4172c28410cc8f0a90bf2064d9b4a",
   "total": 1835,
-  "working": 1588,
-  "in_grace_period": 9,
-  "dead": 247,
-  "hd_channels": 616,
+  "working": 1589,
+  "in_grace_period": 18,
+  "dead": 246,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 85,
+      "working": 84,
       "hd": 40
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 636,
-      "hd": 224
+      "working": 638,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -620,11 +620,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -905,6 +900,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1113,11 +1113,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vistaar News (1080p)",
-      "url": "https://stream.ottlive.co.in/vistaartv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
