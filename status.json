@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 15:25 UTC",
-  "fingerprint": "bdfd4a52550ad58f6c464f63df0c1c83",
+  "updated_at": "2026-11-17 16:22 UTC",
+  "fingerprint": "72c21de7080834ea26063a1ed8a68f1c",
   "total": 1827,
-  "working": 1591,
-  "in_grace_period": 13,
-  "dead": 236,
-  "hd_channels": 626,
+  "working": 1592,
+  "in_grace_period": 12,
+  "dead": 235,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 741,
       "working": 638,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 139,
+      "working": 140,
       "hd": 67
     },
     "Telugu": {
@@ -718,11 +718,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
