@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 22:36 UTC",
-  "fingerprint": "d02ae9729b0949fddd0ae3887a13740f",
+  "updated_at": "2026-11-18 23:26 UTC",
+  "fingerprint": "a56bccfef91060f754de73165e15561d",
   "total": 1827,
-  "working": 1569,
-  "in_grace_period": 4,
-  "dead": 258,
-  "hd_channels": 619,
+  "working": 1570,
+  "in_grace_period": 8,
+  "dead": 257,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 625,
-      "hd": 227
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 141,
+      "working": 142,
       "hd": 57
     },
     "Urdu": {
@@ -1172,11 +1172,6 @@
     {
       "name": "Steelbird Music (720p) [Not 24/7]",
       "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Studio One + (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
