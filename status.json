@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 20:09 UTC",
-  "fingerprint": "fdbbecda016e2f15a106598240a06632",
+  "updated_at": "2026-11-18 20:58 UTC",
+  "fingerprint": "0c702ba0a4c4389e45bccde9e7f80d3a",
   "total": 1827,
-  "working": 1575,
-  "in_grace_period": 11,
-  "dead": 252,
-  "hd_channels": 619,
+  "working": 1572,
+  "in_grace_period": 13,
+  "dead": 255,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 42
+      "working": 84,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 627,
+      "working": 625,
       "hd": 227
     },
     "Kannada": {
@@ -178,6 +178,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -688,6 +693,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1278,6 +1288,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
