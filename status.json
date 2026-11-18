@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 08:45 UTC",
-  "fingerprint": "7c7c0d84e5447eeffcc857aa59e51530",
+  "updated_at": "2026-11-18 09:40 UTC",
+  "fingerprint": "b28a744b4701939a216435f9d6e7b842",
   "total": 1827,
-  "working": 1588,
-  "in_grace_period": 15,
-  "dead": 239,
+  "working": 1587,
+  "in_grace_period": 11,
+  "dead": 240,
   "hd_channels": 623,
   "languages": {
     "Assamese": {
@@ -29,13 +29,13 @@
     },
     "English": {
       "total": 144,
-      "working": 126,
+      "working": 125,
       "hd": 49
     },
     "Gujarati": {
       "total": 47,
-      "working": 45,
-      "hd": 21
+      "working": 44,
+      "hd": 20
     },
     "Hindi": {
       "total": 743,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 141,
-      "hd": 56
+      "working": 142,
+      "hd": 57
     },
     "Urdu": {
       "total": 22,
@@ -104,11 +104,6 @@
     }
   },
   "dead_channels": [
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
-      "reason": "HTTP 404"
-    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -233,11 +228,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -505,6 +495,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -547,6 +542,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1193,6 +1193,11 @@
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "VR Live (720p)",
+      "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "VTU (1080p)",
