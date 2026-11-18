@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-18 15:29 UTC",
-  "fingerprint": "78932fe9511ef0c5fa3865e578c6f485",
+  "updated_at": "2026-11-18 16:30 UTC",
+  "fingerprint": "3df6bdf17c8bbd6ad079f8aa458e13e2",
   "total": 1827,
   "working": 1592,
-  "in_grace_period": 13,
+  "in_grace_period": 25,
   "dead": 235,
   "hd_channels": 623,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -44,7 +44,7 @@
     },
     "Kannada": {
       "total": 78,
-      "working": 61,
+      "working": 62,
       "hd": 27
     },
     "Konkani": {
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 96,
-      "hd": 35
+      "working": 98,
+      "hd": 36
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
-      "hd": 20
+      "working": 45,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 156,
+      "working": 155,
       "hd": 57
     },
     "Santali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 142,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 143,
       "hd": 57
     },
     "Urdu": {
@@ -118,6 +118,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -785,11 +790,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -838,6 +838,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1068,11 +1073,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
