@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 13:44 UTC",
-  "fingerprint": "92da60caa371aca64877a20d785b22c2",
+  "updated_at": "2026-11-18 14:35 UTC",
+  "fingerprint": "90560dbbaa36335471ddc41bf0c0fa9d",
   "total": 1827,
-  "working": 1594,
-  "in_grace_period": 12,
-  "dead": 233,
+  "working": 1592,
+  "in_grace_period": 13,
+  "dead": 235,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 640,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 78,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
+      "working": 142,
       "hd": 57
     },
     "Urdu": {
@@ -393,6 +393,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -1018,6 +1023,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
