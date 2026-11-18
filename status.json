@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 16:30 UTC",
-  "fingerprint": "3df6bdf17c8bbd6ad079f8aa458e13e2",
+  "updated_at": "2026-11-18 17:28 UTC",
+  "fingerprint": "021a86d85da5022a4660e86a962eb25b",
   "total": 1827,
-  "working": 1592,
-  "in_grace_period": 25,
-  "dead": 235,
-  "hd_channels": 623,
+  "working": 1593,
+  "in_grace_period": 30,
+  "dead": 234,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 640,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 78,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
+      "working": 144,
       "hd": 57
     },
     "Urdu": {
@@ -183,11 +183,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -305,6 +300,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -398,11 +398,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
