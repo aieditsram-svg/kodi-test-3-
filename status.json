@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 18:23 UTC",
-  "fingerprint": "b840a654ab7cdb6c7147822964a32e02",
+  "updated_at": "2026-11-19 19:26 UTC",
+  "fingerprint": "63c74b04689a7c90887c68489d9c38c3",
   "total": 1870,
-  "working": 1635,
-  "in_grace_period": 14,
-  "dead": 235,
-  "hd_channels": 640,
+  "working": 1633,
+  "in_grace_period": 16,
+  "dead": 237,
+  "hd_channels": 639,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,12 +14,12 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 31,
+      "working": 30,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 652,
-      "hd": 234
+      "working": 650,
+      "hd": 232
     },
     "Kannada": {
       "total": 78,
@@ -64,8 +64,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
       "total": 36,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 195,
       "working": 167,
-      "hd": 63
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -133,6 +133,11 @@
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
       "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "Aagaaz Times (1080p)",
+      "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -223,6 +228,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bhojpuri Cinema (576p)",
+      "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -732,7 +742,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1020,11 +1030,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1163,6 +1168,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision Beats (720p)",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
