@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 08:45 UTC",
-  "fingerprint": "5a095522adec70c82bef7da867f4f022",
+  "updated_at": "2026-11-19 09:42 UTC",
+  "fingerprint": "010ff1b874d377679b950175bbb3df29",
   "total": 1870,
-  "working": 1631,
-  "in_grace_period": 17,
-  "dead": 239,
-  "hd_channels": 641,
+  "working": 1629,
+  "in_grace_period": 9,
+  "dead": 241,
+  "hd_channels": 638,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 83,
       "hd": 42
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 145,
       "working": 127,
-      "hd": 51
+      "hd": 50
     },
     "Gujarati": {
       "total": 48,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 650,
-      "hd": 235
+      "working": 649,
+      "hd": 234
     },
     "Kannada": {
       "total": 78,
-      "working": 62,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 97,
-      "hd": 35
+      "working": 95,
+      "hd": 34
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
-      "hd": 20
+      "working": 44,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 166,
       "working": 158,
-      "hd": 57
+      "hd": 58
     },
     "Santali": {
       "total": 2,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 144,
+      "working": 143,
       "hd": 71
     },
     "Telugu": {
       "total": 195,
-      "working": 168,
+      "working": 167,
       "hd": 64
     },
     "Urdu": {
@@ -635,6 +635,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kashish News (720p)",
+      "url": "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -658,11 +663,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -810,6 +810,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -822,12 +827,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1093,6 +1098,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
