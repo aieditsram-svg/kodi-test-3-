@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 21:13 UTC",
-  "fingerprint": "5d0867355c40b41f5db3237c8f390b02",
+  "updated_at": "2026-11-19 21:58 UTC",
+  "fingerprint": "88611560bbc6db458500870da1d405e8",
   "total": 1870,
-  "working": 1631,
-  "in_grace_period": 11,
-  "dead": 239,
+  "working": 1630,
+  "in_grace_period": 12,
+  "dead": 240,
   "hd_channels": 638,
   "languages": {
     "Assamese": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 165,
+      "working": 164,
       "hd": 64
     },
     "Urdu": {
@@ -1047,6 +1047,11 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Sports 2 Telugu HD (576p)",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "reason": "URLError"
     },
     {
