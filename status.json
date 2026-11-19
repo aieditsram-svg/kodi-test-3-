@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 15:34 UTC",
-  "fingerprint": "9619bf2689a7017dcfdfbc5ee07f2d70",
+  "updated_at": "2026-11-19 16:38 UTC",
+  "fingerprint": "26283f92c739a36bd1970daec2fe17ba",
   "total": 1870,
-  "working": 1630,
-  "in_grace_period": 18,
-  "dead": 240,
-  "hd_channels": 642,
+  "working": 1634,
+  "in_grace_period": 10,
+  "dead": 236,
+  "hd_channels": 640,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 145,
       "working": 126,
-      "hd": 51
+      "hd": 50
     },
     "Gujarati": {
       "total": 48,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 649,
-      "hd": 235
+      "working": 650,
+      "hd": 234
     },
     "Kannada": {
       "total": 78,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 43,
+      "working": 44,
       "hd": 19
     },
     "Nepali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 144,
+      "working": 145,
       "hd": 72
     },
     "Telugu": {
@@ -450,11 +450,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Fakt Marathi (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
@@ -635,11 +630,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -653,11 +643,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -728,11 +713,6 @@
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 7 Tamil (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kannada (1080p)",
@@ -857,6 +837,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1108,11 +1093,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
