@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 17:31 UTC",
-  "fingerprint": "fc6ebec323309f6b2c6d3002d0e5a42f",
+  "updated_at": "2026-11-19 18:23 UTC",
+  "fingerprint": "b840a654ab7cdb6c7147822964a32e02",
   "total": 1870,
   "working": 1635,
-  "in_grace_period": 10,
+  "in_grace_period": 14,
   "dead": 235,
-  "hd_channels": 641,
+  "hd_channels": 640,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 145,
-      "working": 127,
+      "working": 126,
       "hd": 50
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 651,
+      "working": 652,
       "hd": 234
     },
     "Kannada": {
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 195,
       "working": 167,
-      "hd": 64
+      "hd": 63
     },
     "Urdu": {
       "total": 22,
@@ -223,11 +223,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -525,6 +520,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -558,6 +558,11 @@
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "India Talkies (360p)",
+      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "INews (576p)",
@@ -638,6 +643,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -722,7 +732,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -933,16 +943,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
