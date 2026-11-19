@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
-# Working HD channels (720p+), all languages, updated 2026-11-19 00:14 UTC
+# Working HD channels (720p+), all languages, updated 2026-11-19 01:25 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Jonack (576p)
@@ -1139,7 +1139,7 @@ https://galaxyott.live/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="OliTV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/XfvTQyJn/main-removebg-preview.png" tvg-language="Tamil" group-title="Tamil" height="1080",Oli TV (1080p)
 https://hlslive.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/OM_TV.png" tvg-language="Tamil" group-title="Tamil" height="720",OM TV (576p)
-https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PeppersTV.in@SD" x-category="music" tvg-logo="https://i.imgur.com/5PyJj2n.png" tvg-language="Tamil" group-title="Tamil" height="720",Peppers TV (576p)
 https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
 #EXTINF:-1 tvg-id="PolimerNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143664_ld_h9_aa.png?lock=720x540" tvg-language="Tamil" group-title="Tamil" height="720",Polimer News (576p)
@@ -1308,8 +1308,8 @@ https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
 https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
 #EXTINF:-1 tvg-id="TollyTV.in@HD" x-category="movies" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png" tvg-language="Telugu" group-title="Telugu" height="1080",Tolly TV (1080p)
 https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/manifest.m3u8
-#EXTINF:-1 tvg-id="TV5News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144025_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",TV5 News (576p)
-https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
+#EXTINF:-1 tvg-id="TV5News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144025_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",TV5 News (576p)
+https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144031_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",TV9 Telugu (1080p)
 https://amg01106-amg01106c4-amgplt0747.playout.now3.amagi.tv/amg01106c4/hls.m3u8
 #EXTINF:-1 tvg-id="V6News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",V6 News (576p)

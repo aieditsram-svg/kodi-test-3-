@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-19 00:14 UTC",
-  "fingerprint": "c36ac0c636454fb6cbb1f885dbbe1d41",
+  "updated_at": "2026-11-19 01:25 UTC",
+  "fingerprint": "429919c4d6bfca765ece7741369002a7",
   "total": 1827,
   "working": 1569,
-  "in_grace_period": 3,
+  "in_grace_period": 14,
   "dead": 258,
   "hd_channels": 618,
   "languages": {
@@ -792,7 +792,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
