@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 21:58 UTC",
-  "fingerprint": "88611560bbc6db458500870da1d405e8",
+  "updated_at": "2026-11-19 22:42 UTC",
+  "fingerprint": "6dc1fc13f0ea19a920b093daabfa27e1",
   "total": 1870,
-  "working": 1630,
-  "in_grace_period": 12,
-  "dead": 240,
-  "hd_channels": 638,
+  "working": 1624,
+  "in_grace_period": 8,
+  "dead": 246,
+  "hd_channels": 635,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 651,
-      "hd": 232
+      "working": 646,
+      "hd": 230
     },
     "Kannada": {
       "total": 78,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 158,
+      "working": 157,
       "hd": 58
     },
     "Santali": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 144,
+      "working": 143,
       "hd": 72
     },
     "Telugu": {
       "total": 195,
-      "working": 164,
-      "hd": 64
+      "working": 165,
+      "hd": 63
     },
     "Urdu": {
       "total": 22,
@@ -660,6 +660,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -807,7 +812,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -818,6 +823,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1050,11 +1060,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Sports 2 Telugu HD (576p)",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
@@ -1120,6 +1125,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
@@ -1163,6 +1173,26 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 Bharat (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "TV7 Bharat (576p)",
+      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Valam TV Dayro (576p)",
