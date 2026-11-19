@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 04:19 UTC",
-  "fingerprint": "c34db9415422ca796d9f6ffa20c99d4a",
+  "updated_at": "2026-11-19 05:24 UTC",
+  "fingerprint": "9f0af94203cf2e1483dcfdc799d286a8",
   "total": 1870,
-  "working": 1602,
-  "in_grace_period": 12,
-  "dead": 268,
+  "working": 1603,
+  "in_grace_period": 11,
+  "dead": 267,
   "hd_channels": 634,
   "languages": {
     "Assamese": {
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 83,
-      "hd": 41
+      "working": 84,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 629,
+      "working": 631,
       "hd": 233
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 141,
-      "hd": 69
+      "working": 139,
+      "hd": 68
     },
     "Telugu": {
       "total": 195,
@@ -253,6 +253,11 @@
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -580,11 +585,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -897,6 +897,16 @@
     {
       "name": "Northeast Live (576p)",
       "url": "https://fta.ektv.in/live/674/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1310,19 +1320,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Vii MEDIA (720p)",
-      "url": "https://viimediacdn.wiseplayout.com/viimedia/master.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
@@ -1353,11 +1353,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
