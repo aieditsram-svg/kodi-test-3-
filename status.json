@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 13:45 UTC",
-  "fingerprint": "2d4043afd66784fad6413684c58f4d6a",
+  "updated_at": "2026-11-19 14:38 UTC",
+  "fingerprint": "e405c5ca29009ac41913c6713ae82193",
   "total": 1870,
-  "working": 1632,
-  "in_grace_period": 10,
-  "dead": 238,
-  "hd_channels": 643,
+  "working": 1633,
+  "in_grace_period": 15,
+  "dead": 237,
+  "hd_channels": 642,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 145,
-      "working": 126,
-      "hd": 50
+      "working": 127,
+      "hd": 51
     },
     "Gujarati": {
       "total": 48,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 649,
-      "hd": 236
+      "working": 650,
+      "hd": 235
     },
     "Kannada": {
       "total": 78,
@@ -74,8 +74,8 @@
     },
     "Other": {
       "total": 24,
-      "working": 21,
-      "hd": 12
+      "working": 20,
+      "hd": 11
     },
     "Punjabi": {
       "total": 166,
@@ -535,11 +535,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -658,6 +653,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -960,16 +960,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1152,6 +1142,11 @@
     {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Travelxp Russia (1080p)",
+      "url": "http://stream.mcquack.net/451/index.m3u8",
       "reason": "HTTP 403"
     },
     {
