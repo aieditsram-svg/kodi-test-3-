@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 07:45 UTC",
-  "fingerprint": "cc08b3418637d32640f4b1bf33e1b62b",
+  "updated_at": "2026-11-19 08:45 UTC",
+  "fingerprint": "5a095522adec70c82bef7da867f4f022",
   "total": 1870,
   "working": 1631,
   "in_grace_period": 17,
   "dead": 239,
-  "hd_channels": 643,
+  "hd_channels": 641,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 43
+      "working": 84,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 649,
+      "working": 650,
       "hd": 235
     },
     "Kannada": {
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 166,
       "working": 158,
-      "hd": 58
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -143,11 +143,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -978,6 +973,11 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "empty HLS manifest"
     },
     {
       "name": "Shubh Cinema TV (576p)",
