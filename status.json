@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 05:39 UTC",
-  "fingerprint": "ea88fb9ca29173722871f3af9d462b9b",
+  "updated_at": "2026-11-20 06:37 UTC",
+  "fingerprint": "4e09b79642fcd7a9bca5ab090b848fb4",
   "total": 1895,
-  "working": 1648,
-  "in_grace_period": 14,
-  "dead": 247,
-  "hd_channels": 651,
+  "working": 1649,
+  "in_grace_period": 12,
+  "dead": 246,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 89,
-      "hd": 45
+      "working": 90,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 33,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 48,
-      "working": 44,
-      "hd": 20
+      "working": 45,
+      "hd": 21
     },
     "Hindi": {
       "total": 774,
       "working": 661,
-      "hd": 243
+      "hd": 244
     },
     "Kannada": {
       "total": 83,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 159,
+      "working": 158,
       "hd": 58
     },
     "Santali": {
@@ -118,6 +118,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -500,6 +505,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -588,11 +598,6 @@
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "India Talkies (360p)",
-      "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "INews (576p)",
@@ -865,11 +870,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -890,14 +890,14 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -963,11 +963,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
