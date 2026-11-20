@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 19:26 UTC",
-  "fingerprint": "0307c2b9844ae4e852a4f222277d2e4d",
+  "updated_at": "2026-11-20 20:18 UTC",
+  "fingerprint": "3051948bb4db89e53780e6ffdc2ca622",
   "total": 1895,
   "working": 1657,
-  "in_grace_period": 15,
+  "in_grace_period": 7,
   "dead": 238,
-  "hd_channels": 654,
+  "hd_channels": 653,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 91,
-      "hd": 44
+      "working": 90,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 668,
+      "working": 669,
       "hd": 245
     },
     "Kannada": {
@@ -233,11 +233,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -593,6 +588,11 @@
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Jalsha Movies (1080p)",
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
