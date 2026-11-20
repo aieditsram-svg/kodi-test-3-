@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 10:40 UTC",
-  "fingerprint": "7acbcecf780f0919940c1dbf2a45ea34",
+  "updated_at": "2026-11-20 11:34 UTC",
+  "fingerprint": "b6e8b4d15cb2ed490bc9d1202f5e216c",
   "total": 1895,
-  "working": 1650,
-  "in_grace_period": 9,
-  "dead": 245,
+  "working": 1653,
+  "in_grace_period": 16,
+  "dead": 242,
   "hd_channels": 656,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 88,
+      "working": 90,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 664,
+      "working": 665,
       "hd": 245
     },
     "Kannada": {
@@ -123,6 +123,11 @@
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "22Scope News (1080p)",
+      "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Aagaaz Times (1080p)",
@@ -298,16 +303,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -640,11 +635,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -860,11 +850,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -905,6 +890,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sach Bedhadak (576p)",
+      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sadhna Plus News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSADHNAPLUSNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -938,11 +928,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
