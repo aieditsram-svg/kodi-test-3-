@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 21:08 UTC",
-  "fingerprint": "3ab63ca5789c55aea00274705c8ef62f",
+  "updated_at": "2026-11-20 21:52 UTC",
+  "fingerprint": "4bed86eb7b313dfc8985c05ce7abc1ef",
   "total": 1895,
-  "working": 1655,
-  "in_grace_period": 6,
-  "dead": 240,
+  "working": 1657,
+  "in_grace_period": 13,
+  "dead": 238,
   "hd_channels": 652,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 668,
+      "working": 670,
       "hd": 245
     },
     "Kannada": {
@@ -148,11 +148,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -513,11 +508,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
