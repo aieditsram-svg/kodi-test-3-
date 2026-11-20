@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 18:20 UTC",
-  "fingerprint": "aa7bc7c5ed5f9005c77aa9a2986a7846",
+  "updated_at": "2026-11-20 19:26 UTC",
+  "fingerprint": "0307c2b9844ae4e852a4f222277d2e4d",
   "total": 1895,
-  "working": 1656,
-  "in_grace_period": 7,
-  "dead": 239,
-  "hd_channels": 655,
+  "working": 1657,
+  "in_grace_period": 15,
+  "dead": 238,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 90,
-      "hd": 45
+      "working": 91,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 669,
+      "working": 668,
       "hd": 245
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 157,
+      "working": 158,
       "hd": 81
     },
     "Telugu": {
@@ -233,6 +233,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -643,11 +648,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -1073,11 +1073,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Suriyan TV (576p)",
-      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Suriyan TV (576p)",
