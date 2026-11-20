@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 23:25 UTC",
-  "fingerprint": "c90d10ce8f67acd2120e981735676499",
+  "updated_at": "2026-11-20 00:05 UTC",
+  "fingerprint": "f1f8d61cbc531d195fbdde11f05f3475",
   "total": 1870,
-  "working": 1625,
-  "in_grace_period": 5,
-  "dead": 245,
-  "hd_channels": 634,
+  "working": 1622,
+  "in_grace_period": 6,
+  "dead": 248,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 41
+      "working": 84,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 33,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 165,
-      "hd": 63
+      "working": 163,
+      "hd": 62
     },
     "Urdu": {
       "total": 22,
@@ -104,6 +104,11 @@
     }
   },
   "dead_channels": [
+    {
+      "name": "6 TV Telugu (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+      "reason": "HTTP 404"
+    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -143,6 +148,11 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aamar Bangla (720p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -1103,6 +1113,11 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Swatantra TV (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "T News (576p)",
