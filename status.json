@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-20 00:05 UTC",
-  "fingerprint": "f1f8d61cbc531d195fbdde11f05f3475",
-  "total": 1870,
-  "working": 1622,
-  "in_grace_period": 6,
-  "dead": 248,
-  "hd_channels": 632,
+  "updated_at": "2026-11-20 01:04 UTC",
+  "fingerprint": "d63f967c3c8ad50fa22783dc1b30bb69",
+  "total": 1895,
+  "working": 1652,
+  "in_grace_period": 9,
+  "dead": 243,
+  "hd_channels": 652,
   "languages": {
     "Assamese": {
-      "total": 40,
-      "working": 36,
+      "total": 42,
+      "working": 38,
       "hd": 13
     },
     "Bengali": {
-      "total": 124,
-      "working": 84,
-      "hd": 40
+      "total": 129,
+      "working": 90,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 145,
-      "working": 125,
-      "hd": 50
+      "total": 164,
+      "working": 144,
+      "hd": 62
     },
     "Gujarati": {
       "total": 48,
@@ -38,14 +38,14 @@
       "hd": 21
     },
     "Hindi": {
-      "total": 757,
-      "working": 647,
-      "hd": 230
+      "total": 774,
+      "working": 667,
+      "hd": 244
     },
     "Kannada": {
-      "total": 78,
-      "working": 61,
-      "hd": 27
+      "total": 83,
+      "working": 66,
+      "hd": 31
     },
     "Konkani": {
       "total": 3,
@@ -53,19 +53,19 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 118,
-      "working": 96,
-      "hd": 35
+      "total": 123,
+      "working": 101,
+      "hd": 39
     },
     "Marathi": {
-      "total": 53,
-      "working": 44,
-      "hd": 20
+      "total": 56,
+      "working": 47,
+      "hd": 23
     },
     "Nepali": {
       "total": 6,
-      "working": 5,
-      "hd": 2
+      "working": 6,
+      "hd": 3
     },
     "Odia": {
       "total": 36,
@@ -78,8 +78,8 @@
       "hd": 11
     },
     "Punjabi": {
-      "total": 166,
-      "working": 157,
+      "total": 167,
+      "working": 158,
       "hd": 58
     },
     "Santali": {
@@ -88,14 +88,14 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 175,
-      "working": 144,
-      "hd": 72
+      "total": 187,
+      "working": 156,
+      "hd": 81
     },
     "Telugu": {
-      "total": 195,
-      "working": 163,
-      "hd": 62
+      "total": 203,
+      "working": 172,
+      "hd": 69
     },
     "Urdu": {
       "total": 22,
@@ -104,11 +104,6 @@
     }
   },
   "dead_channels": [
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
-      "reason": "HTTP 404"
-    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -130,16 +125,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "9XM (1080p)",
-      "url": "https://epiconvh.akamaized.net/live/9XM/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "&TV International (1080p)",
-      "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Aagaaz Times (1080p)",
       "url": "https://live1.ottlive.co.in/aagaaztimes/index.m3u8",
       "reason": "HTTP 404"
@@ -148,11 +133,6 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aamar Bangla (720p)",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -243,6 +223,11 @@
       "name": "Bhojpuri Cinema (576p)",
       "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "BRK News (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "BRK News (576p)",
@@ -1115,11 +1100,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Swatantra TV (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1223,11 +1203,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision Beats (720p)",
-      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
