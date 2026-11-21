@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 09:57 UTC",
-  "fingerprint": "211ddff28cb12abab8eef11dbdd53bed",
+  "updated_at": "2026-11-21 10:39 UTC",
+  "fingerprint": "9eb85ac877fe4da0b1609330333705f3",
   "total": 1969,
-  "working": 1724,
-  "in_grace_period": 13,
-  "dead": 245,
-  "hd_channels": 688,
+  "working": 1719,
+  "in_grace_period": 23,
+  "dead": 250,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 701,
-      "hd": 264
+      "working": 698,
+      "hd": 257
     },
     "Kannada": {
       "total": 88,
@@ -65,7 +65,7 @@
     "Marathi": {
       "total": 59,
       "working": 50,
-      "hd": 24
+      "hd": 25
     },
     "Nepali": {
       "total": 6,
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 159,
+      "working": 157,
       "hd": 57
     },
     "Santali": {
@@ -530,6 +530,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -655,6 +660,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kashish News (720p)",
+      "url": "https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -718,6 +728,16 @@
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mh 1 News (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Mh 1 News (576p)",
+      "url": "https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "MH One Movies (576p)",
@@ -788,6 +808,11 @@
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1222,7 +1247,7 @@
     {
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "VR Live (720p)",
