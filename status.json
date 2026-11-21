@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 23:22 UTC",
-  "fingerprint": "9656f9f33110906870e677c7c4d0a603",
+  "updated_at": "2026-11-21 23:57 UTC",
+  "fingerprint": "d4d4558ad982a8bc63bdb580c8c2bf16",
   "total": 1969,
-  "working": 1717,
-  "in_grace_period": 12,
-  "dead": 252,
+  "working": 1715,
+  "in_grace_period": 5,
+  "dead": 254,
   "hd_channels": 685,
   "languages": {
     "Assamese": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
+      "working": 155,
       "hd": 71
     },
     "Gujarati": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
+      "working": 699,
       "hd": 264
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
+      "working": 70,
       "hd": 34
     },
     "Konkani": {
@@ -520,6 +520,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Grace TV (360p)",
+      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -563,6 +568,11 @@
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "India Ahead (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "India News (576p)",
@@ -663,11 +673,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mantavya News (576p)",
@@ -852,7 +857,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -883,6 +888,11 @@
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Pradesh24 Gujarati (1080p)",
@@ -918,11 +928,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1178,6 +1183,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
