@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 14:35 UTC",
-  "fingerprint": "c144b9d39140938903bd5b6a8eb9a966",
+  "updated_at": "2026-11-21 15:22 UTC",
+  "fingerprint": "dea7b94224cf117ae3c7e1fa28021d27",
   "total": 1969,
-  "working": 1714,
-  "in_grace_period": 12,
-  "dead": 255,
+  "working": 1709,
+  "in_grace_period": 16,
+  "dead": 260,
   "hd_channels": 681,
   "languages": {
     "Assamese": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 695,
+      "working": 691,
       "hd": 257
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
+      "working": 162,
       "hd": 85
     },
     "Telugu": {
@@ -175,6 +175,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Angel TV (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Anmol TV (576p)",
       "url": "https://fta.ektv.in/live/256/master.m3u8",
       "reason": "HTTP 404"
@@ -193,6 +198,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -533,6 +543,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1028,6 +1043,16 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
