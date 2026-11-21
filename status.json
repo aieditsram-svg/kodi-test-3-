@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 16:48 UTC",
-  "fingerprint": "da2f2b75fcaef933dc0a3f9b0ef88295",
+  "updated_at": "2026-11-21 17:27 UTC",
+  "fingerprint": "132078c823abecbb8b50a9b958dbb6e5",
   "total": 1969,
-  "working": 1716,
-  "in_grace_period": 10,
-  "dead": 253,
-  "hd_channels": 688,
+  "working": 1719,
+  "in_grace_period": 12,
+  "dead": 250,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
-      "hd": 264
+      "working": 700,
+      "hd": 265
     },
     "Kannada": {
       "total": 88,
@@ -238,11 +238,6 @@
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "C-10 (576p)",
-      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Captain (576p)",
@@ -493,11 +488,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -767,11 +757,6 @@
     {
       "name": "Network 10",
       "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
