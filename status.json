@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 23:17 UTC",
-  "fingerprint": "b2e1fda3df3f1d7519c9320230a73739",
+  "updated_at": "2026-11-21 00:00 UTC",
+  "fingerprint": "267b9e683198814c9e96f05bfc1b3d80",
   "total": 1895,
   "working": 1652,
-  "in_grace_period": 4,
+  "in_grace_period": 10,
   "dead": 243,
-  "hd_channels": 651,
+  "hd_channels": 650,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 129,
       "working": 88,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
