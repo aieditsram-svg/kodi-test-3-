@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 22:45 UTC",
-  "fingerprint": "39aaffc5d05d991eddf38d0ac7cf11f8",
+  "updated_at": "2026-11-21 23:22 UTC",
+  "fingerprint": "9656f9f33110906870e677c7c4d0a603",
   "total": 1969,
-  "working": 1715,
-  "in_grace_period": 13,
-  "dead": 254,
-  "hd_channels": 681,
+  "working": 1717,
+  "in_grace_period": 12,
+  "dead": 252,
+  "hd_channels": 685,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 93,
+      "working": 94,
       "hd": 47
     },
     "Bhojpuri": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
-      "hd": 260
+      "working": 698,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -113,11 +113,6 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "7X Music (360p)",
-      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -857,7 +852,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -993,11 +988,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
