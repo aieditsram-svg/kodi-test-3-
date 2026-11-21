@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 09:14 UTC",
-  "fingerprint": "fe81f38ead049a02669cf67927d880c1",
+  "updated_at": "2026-11-21 09:57 UTC",
+  "fingerprint": "211ddff28cb12abab8eef11dbdd53bed",
   "total": 1969,
-  "working": 1721,
-  "in_grace_period": 20,
-  "dead": 248,
+  "working": 1724,
+  "in_grace_period": 13,
+  "dead": 245,
   "hd_channels": 688,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 93,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -35,7 +35,7 @@
     "Gujarati": {
       "total": 49,
       "working": 46,
-      "hd": 21
+      "hd": 20
     },
     "Haryanvi": {
       "total": 1,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 262
+      "working": 701,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -94,7 +94,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
@@ -510,11 +510,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -760,6 +755,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -903,11 +903,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1085,11 +1080,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1133,11 +1123,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Suriyan TV (576p)",
-      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Suriyan TV (576p)",
