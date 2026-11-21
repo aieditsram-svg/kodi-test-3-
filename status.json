@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 05:27 UTC",
-  "fingerprint": "80d1516717e7d378f2283dce1db01445",
+  "updated_at": "2026-11-21 06:22 UTC",
+  "fingerprint": "4a8bbd220a596f9426746495ec9ca179",
   "total": 1969,
-  "working": 1722,
-  "in_grace_period": 7,
-  "dead": 247,
-  "hd_channels": 693,
+  "working": 1721,
+  "in_grace_period": 10,
+  "dead": 248,
+  "hd_channels": 694,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
+      "working": 93,
       "hd": 48
     },
     "Bhojpuri": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
-      "hd": 263
+      "working": 700,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -59,7 +59,7 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 106,
+      "working": 104,
       "hd": 43
     },
     "Marathi": {
@@ -69,8 +69,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 5,
-      "hd": 2
+      "working": 6,
+      "hd": 3
     },
     "Odia": {
       "total": 38,
@@ -615,6 +615,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Janam TV (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "Janam TV (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Jaya Plus (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
       "reason": "HTTP 404"
@@ -668,6 +678,11 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Kolkata TV (576p)",
+      "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mahaa Max (576p)",
@@ -743,11 +758,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1218,11 +1228,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision Beats (720p)",
-      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
