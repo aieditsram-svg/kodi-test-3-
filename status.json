@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 00:57 UTC",
-  "fingerprint": "06d8e66dc5b6e64e29d5140b1868b8d7",
+  "updated_at": "2026-11-21 02:01 UTC",
+  "fingerprint": "5ea1309e7acb6bb21dae884179f12946",
   "total": 1969,
-  "working": 1725,
-  "in_grace_period": 13,
-  "dead": 244,
-  "hd_channels": 689,
+  "working": 1722,
+  "in_grace_period": 19,
+  "dead": 247,
+  "hd_channels": 687,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 93,
-      "hd": 44
+      "working": 90,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 34,
@@ -163,11 +163,6 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ANB News (720p)",
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -318,6 +313,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -1110,11 +1110,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "SVBC 4 (1080p)",
-      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -1123,6 +1118,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
@@ -1240,6 +1240,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ZB Bhakti (720p)",
+      "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "ZB Music (720p)",
       "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
       "reason": "HTTP 404"
@@ -1318,6 +1328,11 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZillarBarta News",
+      "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
