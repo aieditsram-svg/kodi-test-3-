@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 21:27 UTC",
-  "fingerprint": "6a418760bf3534a03c6ccb9ea169bc5f",
+  "updated_at": "2026-11-21 22:08 UTC",
+  "fingerprint": "1f59cad418afd2d5d7aaa5af98384255",
   "total": 1969,
-  "working": 1716,
-  "in_grace_period": 6,
-  "dead": 253,
+  "working": 1712,
+  "in_grace_period": 4,
+  "dead": 257,
   "hd_channels": 688,
   "languages": {
     "Assamese": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
+      "working": 693,
       "hd": 264
     },
     "Kannada": {
@@ -240,6 +240,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "BRK News (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
       "reason": "TimeoutError"
@@ -420,6 +425,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -438,11 +448,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -765,6 +770,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Network 10",
+      "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -867,12 +882,12 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -918,6 +933,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
