@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 06:22 UTC",
-  "fingerprint": "4a8bbd220a596f9426746495ec9ca179",
+  "updated_at": "2026-11-21 07:37 UTC",
+  "fingerprint": "9aabe26e8fe97eac9f3f6ae36e6c6080",
   "total": 1969,
-  "working": 1721,
-  "in_grace_period": 10,
-  "dead": 248,
-  "hd_channels": 694,
+  "working": 1724,
+  "in_grace_period": 13,
+  "dead": 245,
+  "hd_channels": 693,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
-      "hd": 73
+      "working": 158,
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -45,7 +45,7 @@
     "Hindi": {
       "total": 811,
       "working": 700,
-      "hd": 264
+      "hd": 265
     },
     "Kannada": {
       "total": 88,
@@ -59,7 +59,7 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 104,
+      "working": 107,
       "hd": 43
     },
     "Marathi": {
@@ -79,8 +79,8 @@
     },
     "Other": {
       "total": 24,
-      "working": 20,
-      "hd": 11
+      "working": 19,
+      "hd": 10
     },
     "Punjabi": {
       "total": 168,
@@ -104,7 +104,7 @@
     },
     "Urdu": {
       "total": 22,
-      "working": 20,
+      "working": 21,
       "hd": 6
     }
   },
@@ -510,6 +510,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -615,16 +620,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Janam TV (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
-      "name": "Janam TV (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Jaya Plus (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
       "reason": "HTTP 404"
@@ -648,11 +643,6 @@
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kanak News (576p)",
@@ -865,6 +855,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Peques TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "reason": "HTTP 504"
+    },
+    {
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
@@ -933,11 +928,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sach Bedhadak (576p)",
-      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -1258,11 +1248,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Zainabia Channel",
-      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
