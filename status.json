@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 23:57 UTC",
-  "fingerprint": "d4d4558ad982a8bc63bdb580c8c2bf16",
+  "updated_at": "2026-11-22 00:39 UTC",
+  "fingerprint": "e412031903450a2013c096718d36aca2",
   "total": 1969,
-  "working": 1715,
-  "in_grace_period": 5,
-  "dead": 254,
+  "working": 1716,
+  "in_grace_period": 8,
+  "dead": 253,
   "hd_channels": 685,
   "languages": {
     "Assamese": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 699,
+      "working": 700,
       "hd": 264
     },
     "Kannada": {
@@ -84,8 +84,8 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 158,
-      "hd": 57
+      "working": 157,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 161,
-      "hd": 84
+      "working": 163,
+      "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 178,
       "hd": 72
     },
     "Urdu": {
@@ -435,6 +435,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -493,6 +498,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Global Punjab (1080p)",
+      "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -760,11 +770,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10",
-      "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -868,16 +873,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Peace of Mind TV (576p)",
