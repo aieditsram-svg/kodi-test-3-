@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 10:39 UTC",
-  "fingerprint": "c8c8f13b5d97a002cc7c9ca2617fd861",
+  "updated_at": "2026-11-22 11:25 UTC",
+  "fingerprint": "528046f65baae9d77d34fd7c6ecfd911",
   "total": 1969,
-  "working": 1724,
-  "in_grace_period": 45,
-  "dead": 245,
-  "hd_channels": 684,
+  "working": 1726,
+  "in_grace_period": 91,
+  "dead": 243,
+  "hd_channels": 691,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 256
+      "working": 701,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
+      "working": 158,
       "hd": 57
     },
     "Santali": {
@@ -188,11 +188,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -327,11 +322,6 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -533,6 +523,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1238,11 +1233,6 @@
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "World Punjabi TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "YRF Music (1080p)",
