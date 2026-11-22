@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 07:36 UTC",
-  "fingerprint": "61d34fe2ad734c16a9fce9b064d9d03d",
+  "updated_at": "2026-11-22 08:28 UTC",
+  "fingerprint": "348dddd274b96fb6a90e2c1616b1edb7",
   "total": 1969,
-  "working": 1721,
-  "in_grace_period": 10,
-  "dead": 248,
-  "hd_channels": 689,
+  "working": 1722,
+  "in_grace_period": 13,
+  "dead": 247,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 44,
-      "hd": 19
+      "working": 45,
+      "hd": 20
     },
     "Haryanvi": {
       "total": 1,
@@ -875,11 +875,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1087,7 +1082,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
