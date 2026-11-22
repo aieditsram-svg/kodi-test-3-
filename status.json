@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 00:39 UTC",
-  "fingerprint": "e412031903450a2013c096718d36aca2",
+  "updated_at": "2026-11-22 01:51 UTC",
+  "fingerprint": "db8009ee2c14d712f883dfde8fafe7c6",
   "total": 1969,
-  "working": 1716,
-  "in_grace_period": 8,
-  "dead": 253,
-  "hd_channels": 685,
+  "working": 1719,
+  "in_grace_period": 20,
+  "dead": 250,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 155,
-      "hd": 71
+      "working": 157,
+      "hd": 73
     },
     "Gujarati": {
       "total": 49,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 264
+      "working": 699,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
-      "working": 70,
-      "hd": 34
+      "working": 71,
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -84,8 +84,8 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
-      "hd": 56
+      "working": 158,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -500,11 +500,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Global Punjab (1080p)",
-      "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -525,13 +520,13 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Good News Today (720p)",
-      "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Grace TV (360p)",
-      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
+      "name": "Good News Today (720p)",
+      "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -578,11 +573,6 @@
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "India Ahead (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "India News (576p)",
@@ -883,11 +873,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Pradesh24 Gujarati (1080p)",
