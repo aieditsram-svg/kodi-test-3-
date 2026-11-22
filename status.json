@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 09:57 UTC",
-  "fingerprint": "1229483e3e54a7f4cb3314062f272225",
+  "updated_at": "2026-11-22 10:39 UTC",
+  "fingerprint": "c8c8f13b5d97a002cc7c9ca2617fd861",
   "total": 1969,
   "working": 1724,
-  "in_grace_period": 13,
+  "in_grace_period": 45,
   "dead": 245,
-  "hd_channels": 682,
+  "hd_channels": 684,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 156,
-      "hd": 71
+      "working": 157,
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 699,
-      "hd": 255
+      "working": 700,
+      "hd": 256
     },
     "Kannada": {
       "total": 88,
@@ -65,7 +65,7 @@
     "Marathi": {
       "total": 59,
       "working": 51,
-      "hd": 24
+      "hd": 25
     },
     "Nepali": {
       "total": 6,
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 158,
+      "working": 157,
       "hd": 57
     },
     "Santali": {
@@ -582,11 +582,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1243,6 +1238,11 @@
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "YRF Music (1080p)",
