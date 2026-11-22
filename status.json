@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 04:29 UTC",
-  "fingerprint": "329ed8a04b5ad2eeba2745f70eab63ad",
+  "updated_at": "2026-11-22 05:26 UTC",
+  "fingerprint": "527da0954c7207665df629007fa25189",
   "total": 1969,
-  "working": 1711,
-  "in_grace_period": 7,
-  "dead": 258,
-  "hd_channels": 688,
+  "working": 1719,
+  "in_grace_period": 14,
+  "dead": 250,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
-      "hd": 46
+      "working": 95,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 157,
-      "hd": 73
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 692,
+      "working": 697,
       "hd": 264
     },
     "Kannada": {
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 178,
+      "working": 179,
       "hd": 72
     },
     "Urdu": {
@@ -155,11 +155,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -193,11 +188,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -438,11 +428,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -780,21 +765,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (720p)",
-      "url": "https://network10.livebox.co.in/network10outhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1005,11 +975,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://fta.ektv.in/live/718/master.m3u8",
       "reason": "HTTP 404"
@@ -1167,11 +1132,6 @@
     {
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Subin TV (1080p)",
-      "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
