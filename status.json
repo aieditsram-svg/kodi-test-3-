@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 16:02 UTC",
-  "fingerprint": "048649a9fd14abf52005dd5fed722691",
+  "updated_at": "2026-11-22 16:43 UTC",
+  "fingerprint": "194ccf0fc9ac7d2cb081acf3466da386",
   "total": 1969,
-  "working": 1670,
-  "in_grace_period": 11,
-  "dead": 299,
-  "hd_channels": 655,
+  "working": 1665,
+  "in_grace_period": 12,
+  "dead": 304,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 666,
+      "working": 664,
       "hd": 240
     },
     "Kannada": {
@@ -94,8 +94,8 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 146,
-      "hd": 72
+      "working": 143,
+      "hd": 71
     },
     "Telugu": {
       "total": 209,
@@ -168,6 +168,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -835,6 +840,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -943,6 +953,21 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1252,7 +1277,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
