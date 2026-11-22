@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 08:28 UTC",
-  "fingerprint": "348dddd274b96fb6a90e2c1616b1edb7",
+  "updated_at": "2026-11-22 09:14 UTC",
+  "fingerprint": "004b355c22da3f7bfe41d25b08f8d701",
   "total": 1969,
-  "working": 1722,
-  "in_grace_period": 13,
-  "dead": 247,
-  "hd_channels": 690,
+  "working": 1719,
+  "in_grace_period": 14,
+  "dead": 250,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
-      "hd": 72
+      "working": 156,
+      "hd": 71
     },
     "Gujarati": {
       "total": 49,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 264
+      "working": 697,
+      "hd": 262
     },
     "Kannada": {
       "total": 88,
@@ -113,6 +113,11 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "7X Music (1080p)",
+      "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -575,6 +580,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
@@ -760,8 +770,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -903,6 +913,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1082,7 +1097,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
