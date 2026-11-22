@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 12:52 UTC",
-  "fingerprint": "497d79e160d7d08ae8402d85d6875aba",
+  "updated_at": "2026-11-22 13:45 UTC",
+  "fingerprint": "67b6b8b669265f1df7a0f3bea40e6d83",
   "total": 1969,
   "working": 1670,
-  "in_grace_period": 16,
+  "in_grace_period": 20,
   "dead": 299,
-  "hd_channels": 653,
+  "hd_channels": 657,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 90,
+      "working": 91,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 128,
-      "hd": 52
+      "working": 129,
+      "hd": 53
     },
     "Gujarati": {
       "total": 49,
@@ -45,11 +45,11 @@
     "Hindi": {
       "total": 811,
       "working": 664,
-      "hd": 238
+      "hd": 240
     },
     "Kannada": {
       "total": 88,
-      "working": 64,
+      "working": 65,
       "hd": 29
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 100,
-      "hd": 38
+      "working": 102,
+      "hd": 39
     },
     "Marathi": {
       "total": 59,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -345,6 +345,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -463,6 +468,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -602,11 +612,6 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -945,11 +950,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1267,7 +1267,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1345,9 +1345,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
+      "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Suriyan TV (576p)",
