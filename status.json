@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 16:43 UTC",
-  "fingerprint": "194ccf0fc9ac7d2cb081acf3466da386",
+  "updated_at": "2026-11-22 17:26 UTC",
+  "fingerprint": "49b6a37c11ccd18e5dfa70ad2bc43e81",
   "total": 1969,
-  "working": 1665,
-  "in_grace_period": 12,
-  "dead": 304,
+  "working": 1668,
+  "in_grace_period": 8,
+  "dead": 301,
   "hd_channels": 654,
   "languages": {
     "Assamese": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 664,
-      "hd": 240
+      "working": 666,
+      "hd": 239
     },
     "Kannada": {
       "total": 88,
-      "working": 64,
+      "working": 65,
       "hd": 29
     },
     "Konkani": {
@@ -59,18 +59,18 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 100,
+      "working": 101,
       "hd": 38
     },
     "Marathi": {
       "total": 59,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
       "total": 38,
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 143,
-      "hd": 71
+      "working": 146,
+      "hd": 72
     },
     "Telugu": {
       "total": 209,
-      "working": 169,
+      "working": 170,
       "hd": 64
     },
     "Urdu": {
@@ -168,11 +168,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -715,9 +710,19 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -840,11 +845,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -940,11 +940,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -953,16 +948,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "OM TV (576p)",
@@ -1277,7 +1262,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 429"
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1353,11 +1338,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1478,6 +1458,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision Beats (720p)",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
