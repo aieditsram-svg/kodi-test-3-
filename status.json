@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 09:14 UTC",
-  "fingerprint": "004b355c22da3f7bfe41d25b08f8d701",
+  "updated_at": "2026-11-22 09:57 UTC",
+  "fingerprint": "1229483e3e54a7f4cb3314062f272225",
   "total": 1969,
-  "working": 1719,
-  "in_grace_period": 14,
-  "dead": 250,
-  "hd_channels": 688,
+  "working": 1724,
+  "in_grace_period": 13,
+  "dead": 245,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
+      "working": 96,
       "hd": 48
     },
     "Bhojpuri": {
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 45,
-      "hd": 20
+      "working": 46,
+      "hd": 21
     },
     "Haryanvi": {
       "total": 1,
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
-      "hd": 262
+      "working": 699,
+      "hd": 255
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
+      "working": 72,
       "hd": 35
     },
     "Konkani": {
@@ -59,13 +59,13 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 107,
-      "hd": 43
+      "working": 109,
+      "hd": 44
     },
     "Marathi": {
       "total": 59,
-      "working": 50,
-      "hd": 25
+      "working": 51,
+      "hd": 24
     },
     "Nepali": {
       "total": 6,
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
+      "working": 164,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 181,
       "hd": 72
     },
     "Urdu": {
@@ -188,6 +188,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -695,11 +700,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Mantavya News (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -768,11 +768,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -860,11 +855,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -913,11 +903,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1095,11 +1080,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1143,11 +1123,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
