@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23 01:34 UTC",
-  "fingerprint": "7e7179956a0beaf917b57587584b168a",
+  "updated_at": "2026-11-23 09:42 UTC",
+  "fingerprint": "9ce98f4fabe53e88d04816da89f2a805",
   "total": 1917,
-  "working": 1676,
-  "in_grace_period": 18,
-  "dead": 241,
-  "hd_channels": 656,
+  "working": 1684,
+  "in_grace_period": 20,
+  "dead": 233,
+  "hd_channels": 660,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 90,
+      "working": 89,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 144,
-      "working": 127,
+      "working": 128,
       "hd": 52
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 771,
-      "working": 668,
-      "hd": 241
+      "working": 672,
+      "hd": 243
     },
     "Kannada": {
       "total": 74,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 116,
-      "working": 100,
-      "hd": 38
+      "working": 102,
+      "hd": 39
     },
     "Marathi": {
       "total": 46,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
-      "hd": 57
+      "working": 159,
+      "hd": 58
     },
     "Santali": {
       "total": 2,
@@ -99,7 +99,7 @@
     },
     "Urdu": {
       "total": 22,
-      "working": 20,
+      "working": 21,
       "hd": 6
     }
   },
@@ -138,6 +138,11 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aamar Bangla (720p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -620,14 +625,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "KCL TV (720p)",
-      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -650,11 +655,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Mathrubhumi News (240p)",
-      "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Mazhavil Manorama (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8",
       "reason": "HTTP 403"
@@ -668,16 +668,6 @@
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mh 1 News (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Mh 1 News (576p)",
-      "url": "https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MH One Movies (576p)",
@@ -815,11 +805,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -923,16 +908,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1063,11 +1038,6 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Steelbird Music (720p) [Not 24/7]",
-      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "STV Haryana News (576p)",
@@ -1203,16 +1173,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Zainabia Channel",
-      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
