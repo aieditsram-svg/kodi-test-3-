@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-23 09:42 UTC",
-  "fingerprint": "9ce98f4fabe53e88d04816da89f2a805",
+  "updated_at": "2026-11-23 21:40 UTC",
+  "fingerprint": "d1bc5ce2e91a9639e51c53c5fa225263",
   "total": 1917,
   "working": 1684,
-  "in_grace_period": 20,
+  "in_grace_period": 18,
   "dead": 233,
   "hd_channels": 660,
   "languages": {
@@ -14,13 +14,13 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 89,
-      "hd": 43
+      "working": 90,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 4,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 771,
-      "working": 672,
+      "working": 670,
       "hd": 243
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 191,
-      "working": 170,
+      "working": 171,
       "hd": 65
     },
     "Urdu": {
@@ -233,11 +233,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "BRK News (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "BRK News (576p)",
@@ -480,6 +475,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -498,6 +498,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -628,11 +633,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
