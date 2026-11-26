@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26 10:49 UTC",
-  "fingerprint": "a553c3412f05284aa1177a89d6d4f957",
+  "updated_at": "2026-11-26 19:51 UTC",
+  "fingerprint": "5c251cab1b848bb4a0877c77ae0f4ff5",
   "total": 1873,
   "working": 1706,
-  "in_grace_period": 27,
+  "in_grace_period": 43,
   "dead": 167,
-  "hd_channels": 679,
+  "hd_channels": 678,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 90,
-      "hd": 45
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 31,
@@ -30,7 +30,7 @@
     "English": {
       "total": 140,
       "working": 128,
-      "hd": 52
+      "hd": 53
     },
     "Gujarati": {
       "total": 48,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 739,
-      "working": 667,
-      "hd": 244
+      "working": 668,
+      "hd": 245
     },
     "Kannada": {
       "total": 71,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 136,
-      "working": 123,
-      "hd": 55
+      "working": 122,
+      "hd": 54
     },
     "Marathi": {
       "total": 45,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 13
+      "hd": 12
     },
     "Other": {
       "total": 27,
@@ -580,11 +580,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -783,6 +778,11 @@
       "name": "Starnet (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
