@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27 19:55 UTC",
-  "fingerprint": "8edd6195cac54684e137d91f9cd4ec5a",
-  "total": 1901,
-  "working": 1726,
-  "in_grace_period": 14,
-  "dead": 175,
-  "hd_channels": 686,
+  "updated_at": "2026-11-28 02:24 UTC",
+  "fingerprint": "9fee3d599638ccfc4128be9ef6cf4cd4",
+  "total": 1904,
+  "working": 1725,
+  "in_grace_period": 18,
+  "dead": 179,
+  "hd_channels": 684,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,12 +15,12 @@
     "Bengali": {
       "total": 106,
       "working": 93,
-      "hd": 46
+      "hd": 45
     },
     "Bhojpuri": {
-      "total": 32,
+      "total": 33,
       "working": 32,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 4,
@@ -28,7 +28,7 @@
       "hd": 1
     },
     "English": {
-      "total": 142,
+      "total": 143,
       "working": 131,
       "hd": 55
     },
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 745,
-      "working": 673,
+      "working": 672,
       "hd": 246
     },
     "Kannada": {
@@ -78,7 +78,7 @@
       "hd": 14
     },
     "Punjabi": {
-      "total": 167,
+      "total": 168,
       "working": 156,
       "hd": 56
     },
@@ -178,6 +178,16 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Bhojpuri Plus (576p) [Geo-blocked]",
+      "url": "https://b4u-bhojpuri.cdn.runn.tv/master.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -675,6 +685,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "PTC News (576p) [Geo-blocked]",
+      "url": "https://ptc.cdn.runn.tv/ptc_newsCDN/master/playlist.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -698,6 +713,11 @@
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "Republic Business (576p) [Geo-blocked]",
+      "url": "https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Rupasi Bangla (576p)",
