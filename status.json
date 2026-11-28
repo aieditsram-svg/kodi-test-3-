@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-28 10:40 UTC",
-  "fingerprint": "901cc98e8d6f378a9d57670fbe7a27f4",
+  "updated_at": "2026-11-28 18:29 UTC",
+  "fingerprint": "aec5c099146faad798db2103492f63bb",
   "total": 1904,
   "working": 1725,
-  "in_grace_period": 16,
+  "in_grace_period": 26,
   "dead": 179,
   "hd_channels": 688,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 106,
-      "working": 93,
+      "working": 92,
       "hd": 47
     },
     "Bhojpuri": {
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 48,
       "working": 46,
-      "hd": 19
+      "hd": 20
     },
     "Hindi": {
       "total": 745,
-      "working": 672,
-      "hd": 246
+      "working": 674,
+      "hd": 245
     },
     "Kannada": {
       "total": 72,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 191,
-      "working": 174,
+      "working": 173,
       "hd": 66
     },
     "Urdu": {
@@ -217,6 +217,11 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "BRK News (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -735,6 +740,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -768,16 +778,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shiksha TV (720p)",
